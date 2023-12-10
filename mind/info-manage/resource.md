@@ -10,3 +10,10 @@
 3. 畫出概念之間的關聯性
 4. 將相似的概念群組起來
 5. 將這些新學到的概念與過去所學的已知概念整合
+
+People: [[people]]
+
+## 工具
+* [Foam](https://foambubble.github.io/foam/) VSCode 中的双链笔记。支持 [[roam]] 的 [[vscode]] 插件。命令：
+  * `Foam: Open Daily Note`，`Foam: Open Graph`。
+  * [VS Code 中的双链笔记：Foam 使用体验分享](https://sspai.com/post/70956)
