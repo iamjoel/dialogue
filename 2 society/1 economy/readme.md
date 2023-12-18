@@ -12,5 +12,14 @@
 * 市场经济([[market-economy]])。
 * 计划经济([[planned-economy]])。
 
+## 理论
+1. 供需
+2. 边际效用
+3. 成本
+
+## 学派
+* 奥地利经济学。哈耶克([[Hayek]])。
+* 凯恩斯([[Keynes]])
+
 ## 资源
 * 《小岛经济学》([[how-an-economy-grows-and-why-it-crashes]])
