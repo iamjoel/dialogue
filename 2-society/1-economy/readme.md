@@ -7,7 +7,6 @@
 ## 分类
 经济可分为宏观经济和微观经济。
 
-
 ## 配置方式
 * 市场经济([[market-economy]])。
 * 计划经济([[planned-economy]])。
@@ -20,6 +19,9 @@
 ## 学派
 * 奥地利经济学。哈耶克([[Hayek]])。
 * 凯恩斯([[Keynes]])
+
+## 其他
+[技术](./tech/readme.md) 发展是经济发展的一大引擎。
 
 ## 资源
 * 《小岛经济学》([[how-an-economy-grows-and-why-it-crashes]])
