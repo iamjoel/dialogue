@@ -8,8 +8,8 @@
 经济可分为宏观经济和微观经济。
 
 ## 配置方式
-* 市场经济([[market-economy]])。
-* 计划经济([[planned-economy]])。
+* [市场经济](./methods/market-economy.md)。
+* [计划经济](./methods/planned-economy.md)。
 
 ## 理论
 1. 供需
@@ -24,4 +24,4 @@
 [技术](./tech/readme.md) 发展是经济发展的一大引擎。
 
 ## 资源
-* 《小岛经济学》([[how-an-economy-grows-and-why-it-crashes]])
+* [《小岛经济学》](./resource/how-an-economy-grows-and-why-it-crashes.md)
