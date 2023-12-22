@@ -5,6 +5,7 @@
 
 ## 画图/展示
 * [tldraw](./tldraw/readme.md) 画板。
+* [Markdown Preview Enhanced](./markdown-preview-enchanced.md) Markdown 预览。
 * [Markdown Preview Mermaid Support](./markdown-preview-mermaid.md) Mermaid 图表预览。
 
 ## 记忆
