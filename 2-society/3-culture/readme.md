@@ -2,3 +2,4 @@
 * [戏剧](./drama/readme.md)
 * [电影](./movie/readme.md)
 * [音乐](./music/readme.md)
+* [诗歌](./poem/readme.md)
