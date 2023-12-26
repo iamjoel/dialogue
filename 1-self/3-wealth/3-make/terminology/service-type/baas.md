@@ -1,5 +1,5 @@
 # BaaS
-BaaS(Backend ad a Service) 后端即服务。如 [Clerk](../../../2-tool/coding/web/scenario/clerk.md)。
+BaaS(Backend ad a Service) 后端即服务。如 [Clerk](../../../2-tool/coding/web/scenario/auth/clerk.md)。
 
 往往该服务是嵌入在其他产品中。Clerk 是做登录的。
 

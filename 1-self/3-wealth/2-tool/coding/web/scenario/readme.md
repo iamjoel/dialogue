@@ -3,8 +3,12 @@
 ### 数据服务
 * [supabase](./supabase.md)
 
-### 鉴权
-* [Clerk](./clerk.md)
+### 鉴权(Auth)
+* [Clerk](auth/clerk.md)
+* [Kinde](./auth/kinde.md)
+* [Auth0](./auth/auth0.md)
+
+上面3个也都是开源的。
 
 ### 支付
 * [Stripe](../../../../3-make/product/good-product-research/stripe/readme.md)
