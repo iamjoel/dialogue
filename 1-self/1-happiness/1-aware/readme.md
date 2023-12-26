@@ -22,3 +22,6 @@ title: 觉察
 哪些实时信息是重要的。
 
 哪些实时信息是不重要的。
+
+## 自动化
+生活中，哪些可用用[LLM 应用](../../../2-society/1-economy/tech/base/ai/app/readme.md) 来做自动化。

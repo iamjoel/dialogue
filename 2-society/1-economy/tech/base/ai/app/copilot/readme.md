@@ -1,4 +1,7 @@
 # Copilot
 工作辅助。
 
-* [ReByte](./rebyte.md) 辅助开发应用。
+* [AirOps](airops.md)
+* 代码
+  * [GitHub Copilot](coding/github-copilot.md)
+  * TabNine

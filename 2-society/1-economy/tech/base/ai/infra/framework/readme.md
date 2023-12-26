@@ -1,3 +1,3 @@
 # 框架
-* [LangChain](./langchain.md)
+* [LangChain](lanchain/readme.md)
 * [LlamaIndex](./llamaIndex.md)
