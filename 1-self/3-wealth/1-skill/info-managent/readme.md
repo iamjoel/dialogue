@@ -2,6 +2,18 @@
 ## 信息获取
 [这里](./get-info/readme.md)。
 
+## 储存
+信息存在哪里不重要。重要的是能检索到。
+
+### 分类不重要，能检索到就行
+理想中的分类是[MECE](./info-manage/mece.md)(互斥穷尽)的。但很多现实情况很难实施，原因是：
+1. 信息内容很多，信息间的相似度高，无非被 MECE。
+2. 对信息的认识不足，无法 MECE。
+3. 人类不擅长分类。
+
+因此，可以设置暂时的分类，不断调整，优化。
+
+
 ## 管理工具
 基于 VSCode 和插件([Foam](./tools/foam.md), [Relative Path](../../2-tool/coding/ide/vscode/plugins/relative-path.md)) 来管理信息。原因是 VSCode 有丰富的满足信息管理的插件。
 
