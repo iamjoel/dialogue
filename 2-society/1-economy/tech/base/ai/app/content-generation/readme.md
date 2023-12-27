@@ -13,6 +13,8 @@
   * [remove bg](./remove-bg.md) 去背景/水印+ 背景
 * 视频生成
   * [Runway](./runway.md)
+* 音频生成
+  * [clone-voice](./clone-voice.md)
 * 生产故事
   * [NovelAI](./novelai.md)
 * 写社交媒体内容

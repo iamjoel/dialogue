@@ -5,3 +5,4 @@
 * 代码
   * [GitHub Copilot](coding/github-copilot.md)
   * TabNine
+* [效率工具](./efficiency/readme.md)

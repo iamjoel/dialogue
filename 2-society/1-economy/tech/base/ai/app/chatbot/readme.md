@@ -17,6 +17,8 @@
 最简化的 Chatbot: [Chatgpt-demo](./chatgpt-demo.md) 和 [ai-chatbot](https://github.com/vercel/ai-chatbot)(Vercel 出品)。
 
 ## 场景
+* 客服支持
+  * [Fin AI Chatbot](https://www.intercom.com/fin)
 * 感情陪伴
   * [Relika](./relika.md)
   * [Character.ai](./character-ai.md)
