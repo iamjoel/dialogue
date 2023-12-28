@@ -18,7 +18,7 @@
 
 ## 场景
 * 客服支持
-  * [Fin AI Chatbot](https://www.intercom.com/fin)
+  * [Fin AI Chatbot](./fin.md)
 * 感情陪伴
   * [Relika](./relika.md)
   * [Character.ai](./character-ai.md)

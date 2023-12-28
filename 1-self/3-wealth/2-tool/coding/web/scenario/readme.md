@@ -7,6 +7,7 @@
 * [Clerk](auth/clerk.md)
 * [Kinde](./auth/kinde.md)
 * [Auth0](./auth/auth0.md)
+* [WorkOS](./auth/workos.md)
 
 上面3个也都是开源的。
 

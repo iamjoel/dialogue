@@ -42,11 +42,14 @@ LLM可以提供个性化学习体验，辅助学生理解复杂概念，回答�
 
 [助手(Copilot)](./copilot/readme.md)
 
-### 6 搜索引擎
-[搜索](./search/readme.md)
+### 6 搜索 & 数据分析
+[搜索](./data/search/readme.md)
+[数据分析](./data/analysis/readme.md)
 
 ### 7 游戏
 [hidden door](https://www.hiddendoor.co/) 在某个现有剧里面做角色扮演，演绎新的剧情。
+
+## 8 [其他](./other/readme.md)
 
 ## 其他场景
 * [毕昇支持的应用](../infra/saas/bisheng.md#应用)
@@ -56,5 +59,6 @@ LLM可以提供个性化学习体验，辅助学生理解复杂概念，回答�
 * [Will(郎瀚威)](https://twitter.com/FinanceYF5)  [产品数据](https://zw73xyquvv.feishu.cn/wiki/UH5QwtUWtis1gTk4R6rcnWK2nZc)
 * [gpt Stats](https://github.com/1mrat/gpt-stats)
 
-## 优质应用的来源
+## 优质应用的来源/AI应用聚合
+* [There's an ai for that](https://theresanaiforthat.com/)
 * [Product Hunt: Artificial Intelligence](https://www.producthunt.com/topics/artificial-intelligence)
