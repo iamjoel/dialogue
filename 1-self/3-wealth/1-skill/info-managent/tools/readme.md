@@ -3,6 +3,8 @@
 1. [Obsidian](./obsidian.md) 之类专门的笔记 App([Logseq](./logseq.md)，[Roam](./roam.md)) 
 2. VSCode 配合插件([Foam](./foam.md), [favorites](../../../2-tool/coding/ide/vscode/plugins/favorites.md) 等)。 
 
+以后可以尝试 [Heptabase](./heptabase.md)，用画布连接卡片的方式来管理信息。
+
 ## 特性
 
 ### 搜索能力
