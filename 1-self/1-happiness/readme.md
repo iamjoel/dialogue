@@ -32,6 +32,10 @@
 ## 技巧
 * 克服拖延：[从一小步开始行动起来](./5-resource/steph-ango/articles/nibble-and-your-appetite-will-grow.md)
 
-## 智者
+## 智者&优秀资源
 * [Steph Ango](./5-resource/steph-ango/readme.md)
+* [Ness Labs](./5-resource/ness-labs/readme.md)
+
+## 其他
+* [优秀文章](./5-resource/articles/readme.md)
 
