@@ -13,6 +13,8 @@
 ### 用积极的心态看待事实
 重要的不是事实本身，而是对事实的解读([FIRE 模型](./2-mind/positive-psychology/fire.md))。用 [开放，变化，多元的心态](./2-mind/positive-psychology/open.md) 去找事实中好的方面。
 
+让我们[选择乐观](./5-resource/steph-ango/articles/choose-optimism.md)吧~
+
 ### 进入心流状态
 享受[喜欢的东西](./3-enjoy/readme.md)时，容易进入心流心流状态。
 
@@ -25,7 +27,11 @@
 
 过多的欲望，会导致不幸福。
 
-[]
-
 在不幸福需要，需要通过[觉察](./1-aware/readme.md)来找出问题。
+
+## 技巧
+* 克服拖延：[从一小步开始行动起来](./5-resource/steph-ango/articles/nibble-and-your-appetite-will-grow.md)
+
+## 智者
+* [Steph Ango](./5-resource/steph-ango/readme.md)
 
