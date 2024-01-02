@@ -13,7 +13,6 @@
 
 因此，可以设置暂时的分类，不断调整，优化。
 
-
 ## 管理工具
 基于 VSCode 和插件([Foam](./tools/foam.md), [Relative Path](../../2-tool/coding/ide/vscode/plugins/relative-path.md)) 来管理信息。原因是 VSCode 有丰富的满足信息管理的插件。
 
