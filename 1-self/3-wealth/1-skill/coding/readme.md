@@ -10,3 +10,6 @@
 ## 工具
 * [VSCode 插件](./ide/vscode/plugins/readme.md)
 * [代码片段](./web/snippents/readme.md)
+
+## 其他
+* [软件工程](./soft-engineering/readme.md)

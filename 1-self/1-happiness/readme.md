@@ -13,13 +13,15 @@
 ### 用积极的心态看待事实
 重要的不是事实本身，而是对事实的解读([FIRE 模型](./2-mind/positive-psychology/fire.md))。用 [开放，变化，多元的心态](./2-mind/positive-psychology/open.md) 去找事实中好的方面。
 
-让我们[选择乐观](./5-resource/steph-ango/articles/choose-optimism.md)吧~
+人容易选择[悲观主义](./2-mind/terms/pessimism.md)。因为悲观主义是种防御机制。选择悲观就可以不用尝试新事物，不用承担风险。长期持有这种态度可能会限制个人的生活质量和幸福感。
+
+选择乐观，比选择悲观难。但会让生活更有趣。让我们[选择乐观](./5-resource/steph-ango/articles/choose-optimism.md)吧~
 
 ### 进入心流状态
 享受[喜欢的东西](./3-enjoy/readme.md)时，容易进入心流心流状态。
 
 ### 运动
-[运动](../2-health/1-sport/readmd.md) 有利于让人幸福。有抗[忧郁](./4-nagative/gloomy.md) 的效果。
+[运动](../2-health/1-sport/readmd.md) 有利于让人幸福。有抗[忧郁](2-mind/terms/gloomy.md) 的效果。
 
 ## 不幸福
 > 万般烦恼皆因心动，动乱颠倒终归寂静。

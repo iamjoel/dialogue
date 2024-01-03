@@ -5,3 +5,4 @@
 * [记忆力](./memory/readme.md)
 * [写作](./writing/readme.md)
 * [阅读](./reading/readme.md)
+* [Coding](./coding/readme.md) 用编程来管理信息和自动化确定的工作。
