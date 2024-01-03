@@ -4,7 +4,7 @@
 
 #open-source [GitHub](https://github.com/shadcn-ui/ui)
 
-它基于 [Radix](./radix.md) 开发的。
+它基于 [Radix](radix/readme.md) 开发的。
 
 很方便靠组件实现的源码。做法：看到一个组件不错的后，选 Manual 就可以看到源码，很方便改。
 

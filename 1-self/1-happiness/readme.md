@@ -17,6 +17,9 @@
 
 选择乐观，比选择悲观难。但会让生活更有趣。让我们[选择乐观](./5-resource/steph-ango/articles/choose-optimism.md)吧~
 
+### 积极的概念
+* [努力](./2-mind/terms/attempt.md)
+
 ### 进入心流状态
 享受[喜欢的东西](./3-enjoy/readme.md)时，容易进入心流心流状态。
 
@@ -37,7 +40,4 @@
 ## 智者&优秀资源
 * [Steph Ango](./5-resource/steph-ango/readme.md)
 * [Ness Labs](./5-resource/ness-labs/readme.md)
-
-## 其他
-* [优秀文章](./5-resource/articles/readme.md)
 
