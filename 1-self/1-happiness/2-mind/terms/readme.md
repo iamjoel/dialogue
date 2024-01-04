@@ -1,0 +1,11 @@
+# 概念
+* [熵增](./entropy-increase.md)
+* [安全](./safe.md)
+* [爱](./love.md)
+* [希望](./hope.md)
+* [信任](./trust.md)
+* [放松](./relax.md)
+* [努力](./attempt.md)
+* [平等](./equality.md)
+* [知足](./contented.md) & [贪婪](./greedy.md)
+* [正循环](./positive-cycle.md)

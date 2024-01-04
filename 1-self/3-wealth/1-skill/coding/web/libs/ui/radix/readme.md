@@ -42,3 +42,22 @@ export default () => (
 
 ## 其他
 对组件部分有统一的术语。
+
+组件：
+* Root: 组件根节点。
+* Trigger: 触发弹出的组件。
+* Content: 弹出的内容。
+* Overlay: 遮罩。
+* Portal: 弹出。
+
+属性：
+* asChild: 为 true 时，将该组件的功能传递到子元素上。如：
+```jsx
+<Tooltip.Trigger asChild>
+  <a href="https://www.radix-ui.com/">Radix UI</a>
+</Tooltip.Trigger>
+```
+
+## 疑问
+Trigger 并不支持自定义触发事件类型，只能是 click 或 hover。 这个可以控制吗？
+

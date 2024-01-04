@@ -3,6 +3,8 @@
 
 [积极心理学](./2-mind/positive-psychology/readme.md) 里有关于幸福的研究。
 
+[一些概念](./2-mind/terms/readme.md)。
+
 ## 幸福
 ### 障碍
 巨大的生理疼痛；极度的贫困。
@@ -17,8 +19,7 @@
 
 选择乐观，比选择悲观难。但会让生活更有趣。让我们[选择乐观](./5-resource/steph-ango/articles/choose-optimism.md)吧~
 
-### 积极的概念
-* [努力](./2-mind/terms/attempt.md)
+
 
 ### 进入心流状态
 享受[喜欢的东西](./3-enjoy/readme.md)时，容易进入心流心流状态。

@@ -1,4 +1,6 @@
 # 信息管理
+[卢曼卡片盒笔记法](./zettelkasten-method/readme.md)
+
 ## 信息获取
 [这里](./get-info/readme.md)。
 
