@@ -6,3 +6,4 @@
 3. 看下 99 disigns 这个团队。https://99designs.hk/about
 4. engineer 里找一些值得看人和公司。 https://github.com/kilimchoi/engineering-blogs  确定什么是
 5. 随意浏览积薪: https://firewood.news/topic/society/1
+6. 2023 年值得持续阅读的内容平台: https://justgoidea.com/posts/2023-063/#16-owen-%E7%9A%84%E5%8D%9A%E5%AE%A2
