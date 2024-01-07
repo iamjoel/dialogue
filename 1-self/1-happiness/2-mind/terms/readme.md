@@ -2,6 +2,7 @@
 * [熵增](./entropy-increase.md)
 * [安全](safe/readme.md) & [信任](safe/trust.md)
 * [爱](./love.md)
+* [乐观](./optimism.md) 和 [悲观](./pessimism.md)
 * [希望](./hope.md) & [梦想](./dream.md)
 * [自由](./freedom.md)
 * [激情](./passion.md)
@@ -10,4 +11,5 @@
 * [概率](./probability.md)
 * [平等](./equality.md)
 * [知足](./contented.md) & [贪婪](./greedy.md)
+* [负担](./burden.md)
 * [正循环](./positive-cycle.md)

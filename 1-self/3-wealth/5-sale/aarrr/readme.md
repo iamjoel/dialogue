@@ -11,6 +11,10 @@
 
 有了指标，还需要做[数据分析](../../1-skill/data-analysis/readme.md)。
 
+## 需要思考
+#TODO
+每个指标达成的衡量。
 
-
-
+## 推荐阅读
+* [AARRR Pirate Metrics Framework](https://www.productplan.com/glossary/aarrr-framework/)
+* https://growthmethod.com/what-is-aarrr/
