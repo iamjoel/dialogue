@@ -1,5 +1,5 @@
 # 技能
-* [信息管理](./info-managent/readme.md)
+* [信息管理](./knowledge-managent/readme.md)
 * [数据分析](./data-analysis/readme.md)
 * [协同](./collaboration/readme.md)
 * [记忆力](./memory/readme.md)
