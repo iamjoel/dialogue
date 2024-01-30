@@ -7,3 +7,4 @@ title: Joel 的大唠嗑
 2. [与社会的关系](./2-society/readme.md)。
 3. [与自然的关系](./3-nature/readme.md)。
 
+[标签页](/tags)

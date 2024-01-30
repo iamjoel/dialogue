@@ -1,11 +1,12 @@
 ---
 title: Radix
+tag: suggestion, open-source
 ---
 [官网](https://www.radix-ui.com/)
 > An open source component library optimized for fast development, easy maintenance, and accessibility. Just import and go—no configuration required.
 > 一个开源组件库，针对快速开发、易于维护和可访问性进行了优化。 只需导入即可运行——无需配置。
 
-#open-source #推荐/使用 。 其他框架的： [Radix Vue](./radix-vue.md)，[Radix Svelte](https://radix-svelte.com/)。
+其他框架的： [Radix Vue](./radix-vue.md)，[Radix Svelte](https://radix-svelte.com/)。
 
 [WorkOS](../../../scenario/auth/workos.md) 做的。
 

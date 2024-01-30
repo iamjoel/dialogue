@@ -1,8 +1,8 @@
 ---
 title: Logseq
+tags: open-source
 ---
 [官网](https://logseq.com/)
-#open-source
 > Today, everyone is a
 knowledge worker.
 > Logseq is the open toolbox for

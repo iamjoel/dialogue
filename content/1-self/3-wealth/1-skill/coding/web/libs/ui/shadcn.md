@@ -1,11 +1,12 @@
 ---
 title: shadcn/ui
+tags: open-source
 ---
 [官网](https://ui.shadcn.com/)
 > Build your component library
 > Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 
-#open-source [GitHub](https://github.com/shadcn-ui/ui)
+[GitHub](https://github.com/shadcn-ui/ui)
 
 它基于 [Radix](radix/readme.md) 开发的。
 

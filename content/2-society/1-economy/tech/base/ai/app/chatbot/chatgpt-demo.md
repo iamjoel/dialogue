@@ -1,8 +1,8 @@
 ---
 title: ChatGPT-API Demo
+tags: open-source
 ---
-[官网](https://github.com/anse-app/chatgpt-demo)
-#open-source
+[官网](https://github.com/anse-app/chatgpt-demo)  
 > 一个基于 OpenAI GPT-3.5 Turbo API 的 demo。
 
 最简化的 Chat Demo。UI 挺漂亮的。

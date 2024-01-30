@@ -1,5 +1,6 @@
 ---
 title: Markdown Preview Enhanced
+tag: suggestion
 ---
 
 [官网](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
@@ -60,7 +61,7 @@ ss
     Cool
 
 ## 运行代码
-#推荐/使用
+
 可以在放一些文件里放一些常用的代码片段，然后在 Markdown 里运行。
 ```bash {cmd=true}
 ls .

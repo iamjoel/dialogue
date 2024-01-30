@@ -1,6 +1,4 @@
 ---
-tags:
-  - open-source
 title: 觉察
 ---
 

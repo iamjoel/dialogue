@@ -1,8 +1,8 @@
 ---
 title: 川虎 Chat
+tags: open-source
 ---
 [官网](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
-#open-source
 
 是用 Gradio 搞的。。。
 

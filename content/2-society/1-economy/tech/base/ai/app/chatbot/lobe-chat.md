@@ -1,8 +1,8 @@
 ---
 title: Lobe Chat
+tags: open-source
 ---
 [官网](https://github.com/lobehub/lobe-chat)
-#open-source
 
 Chatbot 的套皮。和 [ChatGPT Next Web](./chatgpt-next-web.md) 比：
 * UI 更漂亮。
