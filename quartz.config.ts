@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Joel ",
+    pageTitle: "Joel 的大唠嗑",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -55,7 +55,7 @@ const config: QuartzConfig = {
       Plugin.SyntaxHighlighting(),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
-      Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
+      Plugin.CrawlLinks({ markdownLinkResolution: "relative" }), // use relative links
       Plugin.Description(),
     ],
     filters: [Plugin.RemoveDrafts()],
