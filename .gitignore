@@ -8,3 +8,12 @@ pods/service-connections
 .obsidian
 .favorites.json
 temp
+
+.gitignore
+prof
+tsconfig.tsbuildinfo
+.obsidian
+.quartz-cache
+private/
+.replit
+replit.nix
