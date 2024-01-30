@@ -3,7 +3,7 @@
 * 详细的项目数据： [OSS Insight](https://ossinsight.io/)
 * 当前数据：
   * 看 GitHub 的 Star，contributors, PR，issue 数。
-  * 当前热门： [GitHub Trending](https://github.com/trending)
+  * 当前热门： [GitHub Trending](../../coding/data/github-treading.md)
 * 历史趋势看： [Star history](https://star-history.com/)。
 
 ## 安装包的下载数据

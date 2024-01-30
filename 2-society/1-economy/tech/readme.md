@@ -8,6 +8,13 @@
 * 材料
 * 算力
   * [芯片](./base/computing/chip.md)
+  * CPU
+  * GPU
 * 智力
   * [AI](./base/ai/readme.md)
-  
+* 通信
+  * 通信协议
+  * 互联网
+
+## 应用
+* [虚拟现实](./application/vr-related/readme.md)。 AR，VR，MR 等。

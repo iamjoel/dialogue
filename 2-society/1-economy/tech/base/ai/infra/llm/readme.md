@@ -6,3 +6,4 @@
 * [Moonshot AI](./moonshot.md)
 * [Llama](./llama.md)
 * [stability.ai](stability-ai.md)
+* [Text to Speech](./tts/readme.md)
