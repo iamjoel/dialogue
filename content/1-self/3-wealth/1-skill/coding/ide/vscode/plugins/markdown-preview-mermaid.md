@@ -1,4 +1,9 @@
-# [Markdown Preview Mermaid Support](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
+---
+title: Markdown Preview Mermaid Support
+---
+
+[官网](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)
+
 支持 [Mermaid](https://mermaid.js.org/#/) 的流程图及其他图表语法。
 
 ```mermaid

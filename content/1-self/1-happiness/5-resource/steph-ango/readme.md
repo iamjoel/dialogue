@@ -1,5 +1,8 @@
-# [Steph Ango](https://stephango.com/about)
-[Obsidian](../../../3-wealth/1-skill/knowledge-managent/tools/obsidian.md) 的 CEO。[Twitter](https://twitter.com/kepano)。
+---
+title: Steph Ango
+---
+
+[Steph Ango](https://stephango.com/about) 是 [Obsidian](../../../3-wealth/1-skill/knowledge-managent/tools/obsidian.md) 的 CEO。[Twitter](https://twitter.com/kepano)。
 
 ## 文章
 * [Choose optimism](./articles/choose-optimism.md)

@@ -1,4 +1,7 @@
-# [Obsidian](https://obsidian.md/)
+---
+title: Obsidian
+---
+[官网](https://obsidian.md/)
 ## 优点
 * UI 很漂亮。
 * Graph View 的展示和筛选做的很强。

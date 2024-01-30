@@ -1,4 +1,6 @@
-# LLM
+---
+title: LLM
+---
 * [OpenAI](./openai.md)
 * [Claude](./claude.md)
 * [Bard](./bard.md)

@@ -1,4 +1,6 @@
-# 与社会的关系
+---
+title: 与社会的关系
+---
 与社会的关系包含：
 1. [经济](./1-economy/readme.md)
 2. [政治](./2-politics/readme.md)

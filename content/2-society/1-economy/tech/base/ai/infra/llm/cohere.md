@@ -1,1 +1,3 @@
-# Cohere
+---
+title: Cohere
+---

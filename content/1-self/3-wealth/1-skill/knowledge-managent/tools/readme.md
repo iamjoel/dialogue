@@ -1,4 +1,6 @@
-# 信息管理工具选择
+---
+title: 信息管理工具选择
+---
 [双链笔记](./graph-database/readme.md) 的选择：
 1. [Obsidian](./obsidian.md) 之类专门的笔记 App([Logseq](./logseq.md)，[Roam](./roam.md)) 
 2. VSCode 配合插件([Foam](./foam.md), [favorites](../../../1-skill/coding/ide/vscode/plugins/favorites.md) 等)。 

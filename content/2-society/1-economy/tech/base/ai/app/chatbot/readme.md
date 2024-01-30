@@ -1,4 +1,6 @@
-# ChatBot
+---
+title: ChatBot
+---
 ## 特性
 特性维度：
 1. 支持历史对话

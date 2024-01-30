@@ -1,4 +1,6 @@
-# VSCODE 插件
+---
+title: VSCODE 插件
+---
 ## 快速导航
 * [favorites](./favorites.md) [bookmarks](./bookmarks.md)
 * [Relative Path](./relative-path.md)

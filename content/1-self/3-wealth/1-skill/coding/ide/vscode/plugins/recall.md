@@ -1,4 +1,7 @@
-# [Recall](https://marketplace.visualstudio.com/items?itemName=frenya.vscode-recall)
+---
+title: Recall
+---
+[官网](https://marketplace.visualstudio.com/items?itemName=frenya.vscode-recall)
 > Recall is an extension of Microsoft's Visual Studio Code to help you remember stuff using [spaced repetition](https://en.wikipedia.org/wiki/Spaced_repetition).
 
 使用方式，

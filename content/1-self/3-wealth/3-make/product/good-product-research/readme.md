@@ -1,4 +1,6 @@
-# 优秀产品研究
+---
+title: 优秀产品研究
+---
 ## 2B
 * [Stripe](./stripe/readme.md)
 * [strapi](./strapi/readme.md)

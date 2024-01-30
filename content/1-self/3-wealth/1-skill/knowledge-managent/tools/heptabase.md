@@ -1,4 +1,7 @@
-# [Heptabase](https://heptabase.com)
+---
+title: Heptabase
+---
+[官网](https://heptabase.com)
 > Make sense of complex topics.
 > Heptabase empowers you to visually make sense of your learning, research, and projects.
 

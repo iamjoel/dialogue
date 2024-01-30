@@ -1,4 +1,6 @@
-# 概念
+---
+title: 概念
+---
 * [熵增](./entropy-increase.md)
 * [安全](./safe/readme.md) & [信任](./safe/trust.md)
 * [爱](./love.md)

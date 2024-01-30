@@ -1,4 +1,6 @@
-# 教育和培训
+---
+title: 教育和培训
+---
 * K12
   * [Quizlet](./quizlet.md)
 * 通用学习

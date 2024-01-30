@@ -1,4 +1,6 @@
-# 文化
+---
+title: 文化
+---
 * [戏剧](./drama/readme.md)
 * [电影](./movie/readme.md)
 * [音乐](./music/readme.md)

@@ -1,4 +1,7 @@
-# [Stripe](https://stripe.com/)
+---
+title: Stripe
+---
+[官网](https://stripe.com/)
 > Financial infrastructure for the internet
 > Millions of companies of all sizes use Stripe online and in person to accept payments, send payouts, automate financial processes, and ultimately grow revenue.
 

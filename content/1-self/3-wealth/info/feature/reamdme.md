@@ -1,4 +1,6 @@
-# 未来
+---
+title: 未来
+---
 ## 未来和计算机的交互模式
 ### [dynamicland](https://dynamicland.org/)
 > No screens, no devices. Just ordinary physical materials —

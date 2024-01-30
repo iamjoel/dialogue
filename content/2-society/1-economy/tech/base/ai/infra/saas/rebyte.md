@@ -1,4 +1,7 @@
-# [ReByte](https://rebyte.ai/)
+---
+title: ReByte
+---
+[官网](https://rebyte.ai/)
 > Ship GenAI apps on day 1
 > ReByte is a platform that allows everyone to develop their AI-powered applications without needing too much coding skill. 
 

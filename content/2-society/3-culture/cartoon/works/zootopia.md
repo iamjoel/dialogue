@@ -1,4 +1,6 @@
-# 疯狂动物城
+---
+title: 疯狂动物城
+---
 > Where anyone can be anything.
 > 在动物城，每个动物都有无限可能。
 

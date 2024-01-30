@@ -1,4 +1,7 @@
-# [OpenCSG](https://opencsg.com/)
+---
+title: OpenCSG
+---
+[官网](https://opencsg.com/)
 > Empowering everyone with Large Language Models
 > OpenCSG 是一家致力于人工智能算力算法管理，大模型应用普惠化领域创新的领先企业，大模型赋能每一个人。
 

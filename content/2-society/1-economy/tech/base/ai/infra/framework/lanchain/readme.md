@@ -1,4 +1,7 @@
-# [LangChain](https://www.langchain.com/)
+---
+title: LangChain
+---
+[官网](https://www.langchain.com/)
 > Get your LLM application from prototype to production
 > Build context-aware, reasoning applications with LangChain’s flexible abstractions and AI-first toolkit.
 

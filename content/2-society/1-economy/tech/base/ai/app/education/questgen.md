@@ -1,4 +1,7 @@
-# [Questgen](https://www.questgen.ai/)
+---
+title: Questgen
+---
+[官网](https://www.questgen.ai/)
 > Generate quizzes from any text in one click using AI.
 
 #open-source [GitHub](https://github.com/ramsrigouthamg/Questgen.ai)

@@ -1,1 +1,3 @@
-# Hugging Face
+---
+title: Hugging Face
+---

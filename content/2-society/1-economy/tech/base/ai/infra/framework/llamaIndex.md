@@ -1,2 +1,4 @@
-# LlamaIndex
+---
+title: LlamaIndex
+---
 #TODO

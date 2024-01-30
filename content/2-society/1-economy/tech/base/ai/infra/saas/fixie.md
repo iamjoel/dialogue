@@ -1,4 +1,6 @@
-# Fixie
+---
+title: Fixie
+---
 > Fixie is the world's leading platform for building conversational AI Sidekicks that are designed to answer questions, take action, and live directly alongside your application.
 
 简而言之，Fixie 是构建对话式 AI 应用的平台。 

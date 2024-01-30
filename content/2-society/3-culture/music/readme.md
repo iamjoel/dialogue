@@ -1,4 +1,6 @@
-# 音乐
+---
+title: 音乐
+---
 ## 歌手
 * [孙燕姿](./singer/stefanie-sun.md)
 * 王菲

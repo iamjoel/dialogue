@@ -1,4 +1,7 @@
-# [Nibble and your appetite will grow](https://stephango.com/nibble)
+---
+title: Nibble and your appetite will grow
+---
+[原文](https://stephango.com/nibble)
 > Procrastination is the state of waiting for motivation to come. Paradoxically, the most reliable way to create motivation is to start doing the thing.
 > 拖延是等待动力到来的状态。矛盾的是，创造动力最可靠的方法就是开始做这件事。
 

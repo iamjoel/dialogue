@@ -1,4 +1,6 @@
-# 偷香
+---
+title: 偷香
+---
 [[happy]]  
 
 #share/book

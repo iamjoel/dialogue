@@ -1,6 +1,10 @@
-# [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
+---
+title: Markdown Preview Enhanced
+---
 
-# [支持特性](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/)
+[官网](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced)
+
+## [支持特性](https://shd101wyy.github.io/markdown-preview-enhanced/#/zh-cn/)
 * 自动编辑器及预览滑动同步
 * 导入外部文件
 * Code Chunk

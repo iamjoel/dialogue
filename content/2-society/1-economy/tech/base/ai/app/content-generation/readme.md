@@ -1,4 +1,6 @@
-# 内容创作和编辑
+---
+title: 内容创作和编辑
+---
 * 营销内容
   * [copyAI](./copyai.md)
   * [Jasper](./jasper.md)

@@ -1,4 +1,7 @@
-# [迪士尼](https://www.disney.com/)
+---
+title: 迪士尼
+---
+[官网](https://www.disney.com/)
 > The mission of The Walt Disney Company is to entertain, inform and inspire people around the globe through the power of unparalleled storytelling, reflecting the iconic brands, creative minds and innovative technologies that make ours the world’s premier entertainment company.
 > 华特迪士尼公司的使命是通过无与伦比的讲故事的力量来娱乐、告知和激励世界各地的人们，反映使我们成为世界首屈一指的娱乐公司的标志性品牌、创意思维和创新技术。
 

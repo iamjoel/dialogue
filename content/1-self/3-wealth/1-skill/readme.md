@@ -1,4 +1,6 @@
-# 技能
+---
+title: 技能
+---
 * [信息管理](./knowledge-managent/readme.md)
 * [数据分析](./data-analysis/readme.md)
 * [协同](./collaboration/readme.md)

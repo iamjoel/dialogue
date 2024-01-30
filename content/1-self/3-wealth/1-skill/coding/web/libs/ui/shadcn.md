@@ -1,4 +1,7 @@
-# [shadcn/ui](https://ui.shadcn.com/)
+---
+title: shadcn/ui
+---
+[官网](https://ui.shadcn.com/)
 > Build your component library
 > Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 

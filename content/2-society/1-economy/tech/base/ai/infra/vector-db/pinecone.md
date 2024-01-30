@@ -1,1 +1,3 @@
-# Pinecone
+---
+title: Pinecone
+---

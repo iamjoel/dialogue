@@ -1,4 +1,7 @@
-# [Pitch Generator](https://tally.so/r/npeJgq)
+---
+title: Pitch Generator
+---
+[官网](https://tally.so/r/npeJgq)
 > Automatically generating for you with AI🪄:
 > ⏱: Your startup in a sentence
 > 🛗: An elevator pitch 

@@ -1,4 +1,7 @@
-# [TinyWow](https://tinywow.com/)
+---
+title: TinyWow
+---
+[官网](https://tinywow.com/)
 > Free tools to make everything (life/business/education) simple
 
 #推荐/使用

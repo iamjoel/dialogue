@@ -1,4 +1,7 @@
-# [川虎 Chat](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
+---
+title: 川虎 Chat
+---
+[官网](https://github.com/GaiZhenbiao/ChuanhuChatGPT)
 #open-source
 
 是用 Gradio 搞的。。。

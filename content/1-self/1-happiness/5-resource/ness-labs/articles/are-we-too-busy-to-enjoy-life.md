@@ -1,4 +1,9 @@
-# [Are we too busy to enjoy life?](https://nesslabs.com/too-busy-to-enjoy-life)
+---
+title: Are we too busy to enjoy life?
+---
+
+[原文](https://nesslabs.com/too-busy-to-enjoy-life)
+
 ## 为什么主动的选择忙碌
 是在逃避思考，逃避现实。
 

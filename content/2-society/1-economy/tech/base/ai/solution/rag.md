@@ -1,4 +1,6 @@
-# RAG
+---
+title: RAG
+---
 RAG: 检索增强生成。目前的 RAG 主要是从数据仓库里召回关联数据，然后给 LLM 做阅读理解，然后由 LLM 合成结果的过程。
 
 依赖： LLM 的 [NLP](../skill/nlp/readme.md) 的能力，以及

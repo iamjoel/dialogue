@@ -1,4 +1,7 @@
-# [Lobe Chat](https://github.com/lobehub/lobe-chat)
+---
+title: Lobe Chat
+---
+[官网](https://github.com/lobehub/lobe-chat)
 #open-source
 
 Chatbot 的套皮。和 [ChatGPT Next Web](./chatgpt-next-web.md) 比：

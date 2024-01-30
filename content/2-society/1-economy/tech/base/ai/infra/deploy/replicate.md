@@ -1,1 +1,3 @@
-# Replicate
+---
+title: Replicate
+---

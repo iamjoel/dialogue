@@ -1,4 +1,8 @@
-# [Choose optimism](https://stephango.com/optimism)
+---
+title: Choose optimism
+---
+
+[原文](https://stephango.com/optimism)
 > One day, I decided to become an optimist and life became much more fun.
 > Only optimists can create a great future. 
 

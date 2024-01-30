@@ -1,1 +1,3 @@
-# Claude
+---
+title: Claude
+---

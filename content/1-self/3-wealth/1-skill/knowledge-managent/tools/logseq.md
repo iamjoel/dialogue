@@ -1,4 +1,7 @@
-# [Logseq](https://logseq.com/)
+---
+title: Logseq
+---
+[官网](https://logseq.com/)
 #open-source
 > Today, everyone is a
 knowledge worker.

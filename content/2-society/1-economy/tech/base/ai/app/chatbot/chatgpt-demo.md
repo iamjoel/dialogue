@@ -1,4 +1,7 @@
-# [ChatGPT-API Demo](https://github.com/anse-app/chatgpt-demo)
+---
+title: ChatGPT-API Demo
+---
+[官网](https://github.com/anse-app/chatgpt-demo)
 #open-source
 > 一个基于 OpenAI GPT-3.5 Turbo API 的 demo。
 

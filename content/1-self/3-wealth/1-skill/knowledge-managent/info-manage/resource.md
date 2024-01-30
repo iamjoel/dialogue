@@ -1,4 +1,6 @@
-# 资源
+---
+title: 资源
+---
 ### [The best way to acquire knowledge from readings](https://wiki.heptabase.com/the-best-way-to-acquire-knowledge-from-readings?lang=zh-Hant)
 > 如果你的每一個筆記都非常長、如果你沒有把知識打碎、原子化，你能透過視覺化獲得的理解就會非常有限。
 > 只有當你將筆記原子化時，你才能透過筆記視覺化對你在乎的主題獲得深度理解。原子化指的並非你不能有很長的筆記，而是指每個概念筆記都只應包含一個概念，並以其內文來支撐這個概念。你必須能將每張概念卡片的核心概念用一句話總結，並以這句話當做是卡片標題以確保你一眼就能知道它在講什麼。

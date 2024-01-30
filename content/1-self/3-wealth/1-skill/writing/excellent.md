@@ -1,4 +1,6 @@
-# 写的很好的
+---
+title: 写的很好的
+---
 
 ## 描写脾气
 * [爆怒无常](../../../../2-society/3-culture/prose/works/miss-autumn.md#描写我的脾气不好)

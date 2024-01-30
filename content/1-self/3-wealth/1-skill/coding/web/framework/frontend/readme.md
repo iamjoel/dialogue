@@ -1,3 +1,5 @@
-# JavaScript Framework
+---
+title: JavaScript Framework
+---
 * React
 * Vue

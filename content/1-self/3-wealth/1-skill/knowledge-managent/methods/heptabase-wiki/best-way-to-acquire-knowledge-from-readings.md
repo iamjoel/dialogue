@@ -1,4 +1,7 @@
-# [从阅读中获取知识的最好方式](https://wiki.heptabase.com/the-best-way-to-acquire-knowledge-from-readings?lang=zh-Hant)
+---
+title: 从阅读中获取知识的最好方式
+---
+[官网](https://wiki.heptabase.com/the-best-way-to-acquire-knowledge-from-readings?lang=zh-Hant)
 
 ## 问题
 1. 好的书信息量很大，

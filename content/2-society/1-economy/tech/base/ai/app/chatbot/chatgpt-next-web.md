@@ -1,4 +1,7 @@
-# [ChatGPT Next Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
+---
+title: ChatGPT Next Web
+---
+[官网](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)
 #open-source
 一个 Star 数过 5w 的套皮的 Chatbot。一个毕业了两年的个人开发者开发的。亮点：
 1. 部署和二开都很容易。

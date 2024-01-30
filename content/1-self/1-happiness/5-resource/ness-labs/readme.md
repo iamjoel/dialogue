@@ -1,4 +1,8 @@
-# [Ness Labs](https://nesslabs.com/)
+---
+title: Ness Labs
+---
+[官网](https://nesslabs.com/)
+
 > Welcome to Ness Labs, the learning community for ambitious knowledge workers.
 > 欢迎来到Ness Labs，这是一个为雄心勃勃的知识工作者提供的学习社区。
 

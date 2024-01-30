@@ -1,4 +1,6 @@
-# 詹雨安(Alan Chan)
+---
+title: 詹雨安(Alan Chan)
+---
 [Heptabase](../../../3-wealth/1-skill/info-managent/tools/heptabase.md) 创始人。
 
 ## [My Vision - A New City](https://wiki.heptabase.com/a-new-city?lang=zh-Hant)
