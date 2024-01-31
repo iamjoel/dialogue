@@ -5,7 +5,7 @@ title: 技术
 1. 提升生产效率。导致价格下降。然后购买的人会变多。
 2. 创造以前造不了的产品。
 
-## 低层
+## 底层
 * [能源](./base/energy/readme.md)
 * 材料
 * 算力
@@ -18,5 +18,5 @@ title: 技术
   * 通信协议
   * 互联网
 
-## 应用
+## [应用](./application/readme.md)
 * [虚拟现实](./application/vr-related/readme.md)。 AR，VR，MR 等。

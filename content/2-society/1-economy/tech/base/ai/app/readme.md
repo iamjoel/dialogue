@@ -6,7 +6,7 @@ title: AI 应用
 LLM 作为聊天机器人，可以节省大量人力资源。它可以处理大约80%的常规客户咨询，并提供全年无休的客户服务。
 
 包括
-1. 公司客服机器人。
+1. 公司客服机器人。[Typebot](./chatbot/typebot.md)
 2. 情感陪伴机器人([Character.ai](./chatbot/character-ai.md), [Relika](./chatbot/relika.md))。
 3. 数字人。
 
