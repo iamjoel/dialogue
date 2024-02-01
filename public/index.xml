@@ -6,65 +6,65 @@
       <description>Last 10 notes on Joel 的大唠嗑</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Perplexity</title>
+    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/app/data/search/perplexity</link>
+    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/app/data/search/perplexity</guid>
+    <description>官网 Where knowledge begins 支持 AI 的搜索引擎。.</description>
+    <pubDate>Thu, 01 Feb 2024 03:32:41 GMT</pubDate>
+  </item><item>
+    <title>搜索</title>
+    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/app/data/search/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/app/data/search/readme</guid>
+    <description> perplexity Semantic Scholar .</description>
+    <pubDate>Thu, 01 Feb 2024 03:32:41 GMT</pubDate>
+  </item><item>
+    <title>Semantic Scholar</title>
+    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/app/data/search/semantic-scholar</link>
+    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/app/data/search/semantic-scholar</guid>
+    <description>官网 A free, AI-powered research tool for scientific literature .</description>
+    <pubDate>Thu, 01 Feb 2024 03:32:41 GMT</pubDate>
+  </item><item>
+    <title>帆软</title>
+    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/app/data/analysis/fanruan</link>
+    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/app/data/analysis/fanruan</guid>
+    <description>官网 上 BI 选择帆软，专注 BI 17年 .</description>
+    <pubDate>Thu, 01 Feb 2024 03:32:41 GMT</pubDate>
+  </item><item>
+    <title>Rath</title>
+    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/app/data/analysis/rath</link>
+    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/app/data/analysis/rath</guid>
+    <description>官网 Autopilot for exploratory data analysis Find insights in your data with one click. GitHub.</description>
+    <pubDate>Thu, 01 Feb 2024 03:32:41 GMT</pubDate>
+  </item><item>
+    <title>数据分析</title>
+    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/app/data/analysis/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/app/data/analysis/readme</guid>
+    <description> Rath 帆软 .</description>
+    <pubDate>Thu, 01 Feb 2024 03:32:41 GMT</pubDate>
+  </item><item>
+    <title>devv</title>
+    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/app/data/search/devv</link>
+    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/app/data/search/devv</guid>
+    <description>官网 最懂程序员的新一代 AI 搜索引擎 .</description>
+    <pubDate>Thu, 01 Feb 2024 03:32:41 GMT</pubDate>
+  </item><item>
+    <title>数据存储</title>
+    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/application/data/store/readmd</link>
+    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/application/data/store/readmd</guid>
+    <description>有些应用可以直接用该类 APP 来实现。比如： 数据存储 问卷调查 任务管理 飞书多维表格 和 AirTable。.</description>
+    <pubDate>Thu, 01 Feb 2024 03:26:53 GMT</pubDate>
+  </item><item>
+    <title>飞书多维表格</title>
+    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/application/data/store/feishu-table</link>
+    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/application/data/store/feishu-table</guid>
+    <description>官网。中国版的 AirTable。体验做的比 AirTable 好。 需要做表关联，字段类型是设置成双向关联或单向关联。 对外的收集表单。数据汇总到内部的表格。表单的一些字段通过一些条件来显示和隐藏。 自动化。数据满足某个要求时，触发某个动作(发送飞书消息，发送HTTP请求，创建日程等)。 颗粒度很细的权限。 .</description>
+    <pubDate>Thu, 01 Feb 2024 03:17:50 GMT</pubDate>
+  </item><item>
     <title>Gartner review</title>
     <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/application/evaluate-app/gartner-reviews</link>
     <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/application/evaluate-app/gartner-reviews</guid>
     <description>官网 选 SaaS 软件的。.</description>
     <pubDate>Wed, 31 Jan 2024 09:54:23 GMT</pubDate>
-  </item><item>
-    <title>评价</title>
-    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/application/evaluate-app/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/application/evaluate-app/readme</guid>
-    <description> 2C: Product Hunt 2B: Gartner review &amp; G2 .</description>
-    <pubDate>Wed, 31 Jan 2024 09:48:07 GMT</pubDate>
-  </item><item>
-    <title>Product Hunt</title>
-    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/application/evaluate-app/product-hunt</link>
-    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/application/evaluate-app/product-hunt</guid>
-    <description>官网.</description>
-    <pubDate>Wed, 31 Jan 2024 09:46:35 GMT</pubDate>
-  </item><item>
-    <title>G2</title>
-    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/application/evaluate-app/g2</link>
-    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/application/evaluate-app/g2</guid>
-    <description>官网 评价的是 SaaS 产品。.</description>
-    <pubDate>Wed, 31 Jan 2024 09:46:20 GMT</pubDate>
-  </item><item>
-    <title>应用</title>
-    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/application/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/application/readme</guid>
-    <description> 连接人 连接应用 应用评价 帮忙选择应用。 .</description>
-    <pubDate>Wed, 31 Jan 2024 09:36:25 GMT</pubDate>
-  </item><item>
-    <title>AirTable</title>
-    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/app/data/store/airtable</link>
-    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/app/data/store/airtable</guid>
-    <description>官网 Database + Excel。有 Database 的功能，但是用起来像 Excel。 支持用 UI 来建立表关联(Link to another record)。.</description>
-    <pubDate>Wed, 31 Jan 2024 09:03:54 GMT</pubDate>
-  </item><item>
-    <title>连接应用的软件</title>
-    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/application/connect-app/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/application/connect-app/readme</guid>
-    <description>Zapier，集简云。.</description>
-    <pubDate>Wed, 31 Jan 2024 07:53:39 GMT</pubDate>
-  </item><item>
-    <title>集简云</title>
-    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/application/connect-app/jijianyue</link>
-    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/application/connect-app/jijianyue</guid>
-    <description>中国版的 Zapier.</description>
-    <pubDate>Wed, 31 Jan 2024 07:43:15 GMT</pubDate>
-  </item><item>
-    <title>Zapier</title>
-    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/application/connect-app/zapier</link>
-    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/application/connect-app/zapier</guid>
-    <description></description>
-    <pubDate>Wed, 31 Jan 2024 07:41:53 GMT</pubDate>
-  </item><item>
-    <title>Typebot</title>
-    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/app/chatbot/typebot</link>
-    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/app/chatbot/typebot</guid>
-    <description>官网 Github 按客服的需求做客服。比如， 收集在聊天中的用户输入的表单信息(用户可能需要填功能)。 和常见的软件数据的打通，如 Zapier， Google Sheet。甚至还包括 GA(Google Analysis)。 该 APP 也支持 LLM 的节点(OPENAI，Dify 等)。 LLM 的客服往往没有这些功能。LLM 的客服功能只是输入，输出和支持聊天记录(Memory)s。.</description>
-    <pubDate>Wed, 31 Jan 2024 07:29:30 GMT</pubDate>
   </item>
     </channel>
   </rss>
