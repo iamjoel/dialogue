@@ -9,3 +9,5 @@ tags: suggestion
 * 对外的收集表单。数据汇总到内部的表格。表单的一些字段通过一些条件来显示和隐藏。
 * 自动化。数据满足某个要求时，触发某个动作(发送飞书消息，发送HTTP请求，创建日程等)。
 * 颗粒度很细的权限。
+
+[API 列表](https://open.feishu.cn/document/server-docs/api-call-guide/server-api-list)。 对应的 [Node.js SDK](https://github.com/larksuite/node-sdk/blob/main/README.zh.md)

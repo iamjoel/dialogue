@@ -6,6 +6,12 @@
       <description>Last 10 notes on Joel 的大唠嗑</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>前端安全</title>
+    <link>https://iamjoel.github.io/dialogue/1-self/3-wealth/1-skill/coding/web/security/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/1-self/3-wealth/1-skill/coding/web/security/readme</guid>
+    <description>教程 DOM Based XSS DOM based XSS Prevention Cheat Sheet 工具 过滤有害的 HTML 内容： DOMPurify js-xss Playground dom_xss .</description>
+    <pubDate>Fri, 02 Feb 2024 07:51:34 GMT</pubDate>
+  </item><item>
     <title>Perplexity</title>
     <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/app/data/search/perplexity</link>
     <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/app/data/search/perplexity</guid>
@@ -57,14 +63,8 @@
     <title>飞书多维表格</title>
     <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/application/data/store/feishu-table</link>
     <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/application/data/store/feishu-table</guid>
-    <description>官网。中国版的 AirTable。体验做的比 AirTable 好。 需要做表关联，字段类型是设置成双向关联或单向关联。 对外的收集表单。数据汇总到内部的表格。表单的一些字段通过一些条件来显示和隐藏。 自动化。数据满足某个要求时，触发某个动作(发送飞书消息，发送HTTP请求，创建日程等)。 颗粒度很细的权限。 .</description>
+    <description>官网。中国版的 AirTable。体验做的比 AirTable 好。 需要做表关联，字段类型是设置成双向关联或单向关联。 对外的收集表单。数据汇总到内部的表格。表单的一些字段通过一些条件来显示和隐藏。 自动化。数据满足某个要求时，触发某个动作(发送飞书消息，发送HTTP请求，创建日程等)。 颗粒度很细的权限。 API 列表。 对应的 Node.</description>
     <pubDate>Thu, 01 Feb 2024 03:17:50 GMT</pubDate>
-  </item><item>
-    <title>Gartner review</title>
-    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/application/evaluate-app/gartner-reviews</link>
-    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/application/evaluate-app/gartner-reviews</guid>
-    <description>官网 选 SaaS 软件的。.</description>
-    <pubDate>Wed, 31 Jan 2024 09:54:23 GMT</pubDate>
   </item>
     </channel>
   </rss>
