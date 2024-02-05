@@ -8,3 +8,6 @@ title: 电影
 ## 作品
 ### 科幻
 * [《创：战纪》](./works/sci-fi/tron-legacy.md)
+
+### 互动剧
+* [《我的48次心动》](./works/love/48-heartbeat.md)

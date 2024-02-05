@@ -6,6 +6,24 @@
       <description>Last 10 notes on Joel 的大唠嗑</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>《我的48次心动》</title>
+    <link>https://iamjoel.github.io/dialogue/2-society/3-culture/movie/works/love/48-heartbeat</link>
+    <guid>https://iamjoel.github.io/dialogue/2-society/3-culture/movie/works/love/48-heartbeat</guid>
+    <description>将 4 个不同类型的女孩组女团的故事。这4个女孩还是都有不同的问题(不敢在陌生人面前唱歌；无法感受人类的感情；缺少爱，安全感；太在意别人，故意表现的很性感)。最后一起，克服这些问题，成为不错的女团。 演员是丝芭蕾传媒搞的偶像团 GNZ48 里面的4个成员。 在 Pico 上可以玩。.</description>
+    <pubDate>Mon, 05 Feb 2024 03:00:49 GMT</pubDate>
+  </item><item>
+    <title>小品</title>
+    <link>https://iamjoel.github.io/dialogue/2-society/3-culture/sketch/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/2-society/3-culture/sketch/readme</guid>
+    <description>某某某 的 《饭局往事》很赞。 讲的是三兄弟分家产的故事。遇到了很多分歧。分歧不在于分家产，而在于追的偶像的不同。 三兄弟都是养子，一个台湾腔，一个香港腔，一个东北腔。方言演绎的很真。 中间的配舞很带感。 .</description>
+    <pubDate>Mon, 05 Feb 2024 02:45:56 GMT</pubDate>
+  </item><item>
+    <title>The Verge</title>
+    <link>https://iamjoel.github.io/dialogue/1-self/3-wealth/6-info/in/tech/the-verge</link>
+    <guid>https://iamjoel.github.io/dialogue/1-self/3-wealth/6-info/in/tech/the-verge</guid>
+    <description> The Verge 是一家成立于2011年的科技资讯网站，由 Engadget(瘾科技) 团队创办。它以整洁的界面、高质量的文章和对科技、科学、文化和设计交叉点的探索而闻名。网站的创始人和执行主编来自 Engadget，他们创办 The Verge 的初衷是为了追求内容和媒体理想，不以营收为先。 官网.</description>
+    <pubDate>Mon, 05 Feb 2024 02:35:48 GMT</pubDate>
+  </item><item>
     <title>前端安全</title>
     <link>https://iamjoel.github.io/dialogue/1-self/3-wealth/1-skill/coding/web/security/readme</link>
     <guid>https://iamjoel.github.io/dialogue/1-self/3-wealth/1-skill/coding/web/security/readme</guid>
@@ -47,24 +65,6 @@
     <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/app/data/analysis/readme</guid>
     <description> Rath 帆软 .</description>
     <pubDate>Thu, 01 Feb 2024 03:32:41 GMT</pubDate>
-  </item><item>
-    <title>devv</title>
-    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/app/data/search/devv</link>
-    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/app/data/search/devv</guid>
-    <description>官网 最懂程序员的新一代 AI 搜索引擎 .</description>
-    <pubDate>Thu, 01 Feb 2024 03:32:41 GMT</pubDate>
-  </item><item>
-    <title>数据存储</title>
-    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/application/data/store/readmd</link>
-    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/application/data/store/readmd</guid>
-    <description>有些应用可以直接用该类 APP 来实现。比如： 数据存储 问卷调查 任务管理 飞书多维表格 和 AirTable。.</description>
-    <pubDate>Thu, 01 Feb 2024 03:26:53 GMT</pubDate>
-  </item><item>
-    <title>飞书多维表格</title>
-    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/application/data/store/feishu-table</link>
-    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/application/data/store/feishu-table</guid>
-    <description>官网。中国版的 AirTable。体验做的比 AirTable 好。 需要做表关联，字段类型是设置成双向关联或单向关联。 对外的收集表单。数据汇总到内部的表格。表单的一些字段通过一些条件来显示和隐藏。 自动化。数据满足某个要求时，触发某个动作(发送飞书消息，发送HTTP请求，创建日程等)。 颗粒度很细的权限。 API 列表。 对应的 Node.</description>
-    <pubDate>Thu, 01 Feb 2024 03:17:50 GMT</pubDate>
   </item>
     </channel>
   </rss>
