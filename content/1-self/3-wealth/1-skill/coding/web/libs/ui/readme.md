@@ -14,5 +14,8 @@ title: UI 组件库
 * [Floating UI](./portal/floating-ui.md)
 * [动画](./animate/readme.md)
 
+## 手势
+* [@use-gesture](./gesture/use-gesture.md)
+
 ## 工具库
 * [Class Variance Authority](./utils/cva.md)

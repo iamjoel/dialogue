@@ -12,6 +12,7 @@ title: 概念
 * [激情](./passion.md)
 * [放松](./relax.md)
 * [努力](./attempt.md)
+* [愤怒](./anger.md)
 * [概率](./probability.md)
 * [平等](./equality.md)
 * [知足](./contented.md) & [贪婪](./greedy.md)

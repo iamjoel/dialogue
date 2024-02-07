@@ -13,8 +13,8 @@ title: 书单
 ### 基础能力
 *《关于说话的一切》 汤质
 
-### 生活建议
-* 《纳瓦尔宝典》
+### 全面的建议
+* [《纳瓦尔宝典》](../../../0-aware/books/the-almanack-of-naval-ravikant/readme.md)
 
 ### 娱乐类小说
 #### 历史
