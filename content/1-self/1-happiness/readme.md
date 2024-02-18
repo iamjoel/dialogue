@@ -89,6 +89,7 @@ title: 幸福
 在不幸福需要，需要通过[觉察](./1-aware/readme.md)来找出问题。
 
 ## 技巧
+* [方法](./6-method/readme.md)
 * 克服拖延：[从一小步开始行动起来](./5-resource/steph-ango/articles/nibble-and-your-appetite-will-grow.md)
 
 ## 智者&优秀资源
