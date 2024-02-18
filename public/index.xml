@@ -6,6 +6,24 @@
       <description>Last 10 notes on Joel 的大唠嗑</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Joey Schweitzer</title>
+    <link>https://iamjoel.github.io/dialogue/1-self/1-happiness/5-resource/joey-schweitzer</link>
+    <guid>https://iamjoel.github.io/dialogue/1-self/1-happiness/5-resource/joey-schweitzer</guid>
+    <description>帮助个人成长的油管主播。有两个频道： Better Ideas Joey Schweitzer .</description>
+    <pubDate>Sat, 10 Feb 2024 04:17:09 GMT</pubDate>
+  </item><item>
+    <title>保持活力的 5 种方法</title>
+    <link>https://iamjoel.github.io/dialogue/1-self/2-health/collections/enegy-managenent</link>
+    <guid>https://iamjoel.github.io/dialogue/1-self/2-health/collections/enegy-managenent</guid>
+    <description>5 Ways To Have 10x More Energy Throughout The Day。 作者: Joey Schweitzer 如果你觉得睡眠充足却还是感觉累。问题出在哪里？ You’re getting enough sleep, but you’re still feeling tired.</description>
+    <pubDate>Sat, 10 Feb 2024 03:47:38 GMT</pubDate>
+  </item><item>
+    <title>《哲学家们都干了些什么？》</title>
+    <link>https://iamjoel.github.io/dialogue/1-self/0-worldview/books/what-did-philosophers-do/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/1-self/0-worldview/books/what-did-philosophers-do/readme</guid>
+    <description> 人为什么活着？人生的意义是什么？宇宙的本质是什么？ 我们这本书，就要把“追问人生意义”当作最大的目标。 基础信息 作者：林欣浩 出版社：北京日报 出版社出版时间：2022-02-01 ISBN：9787547742181 品牌方：读客文化股份有限公司 上篇： 理性的崛起 苏格拉底好讨厌 苏格拉底的人生： 他喜欢问别人问题，然后被判了死刑。 问别人问题： 苏格拉底一辈子做得最多的事就是问问题。当然，他不是像一般人那样提问。他专挑别人的漏洞，每次都能把对方问得头昏脑胀。 苏格拉底这个当时全雅典最智慧的人，却认为自己最无知，他觉得真理的答案不能光靠自己想，必须到处找人问。 苏格拉底的母亲是助产士，他自称为思想的“助产士”。 处死刑： 苏格拉底是被雅典的陪审团判处死刑的。陪审团的成员除了性别必须是男性以外，其余条件和美国今天的陪审团一样，是由普通老百姓抽签组成的，不论职业，不论学历，不论官阶，只要是成年的雅典公民就行。 该陪审团有 500 人。判苏格拉底死刑，360票比140票。 雅典人以哲学为荣。 雅典人认为哲学长面子。贵而无用就叫奢侈。而哲学这玩意儿超级无用。所以那个时代的人们一听说你是学哲学的，都狂羡慕。人家想：这人家里得多富裕才敢往哲学身上糟践钱啊。 柏拉图：拯救哲学的少年国王 哲学的发展常处于消亡的境地。.</description>
+    <pubDate>Wed, 07 Feb 2024 15:11:20 GMT</pubDate>
+  </item><item>
     <title>科学模版</title>
     <link>https://iamjoel.github.io/dialogue/1-self/0-worldview/template/science</link>
     <guid>https://iamjoel.github.io/dialogue/1-self/0-worldview/template/science</guid>
@@ -21,7 +39,7 @@
     <title>question</title>
     <link>https://iamjoel.github.io/dialogue/1-self/0-worldview/question</link>
     <guid>https://iamjoel.github.io/dialogue/1-self/0-worldview/question</guid>
-    <description>问题 对自己的理解。 哪些是待测试的？ 能做什么，想做什么，社会上有什么。 和人打交道 我的专长是什么？ 我能提供什么价值 心理咨询。.</description>
+    <description>问题 对自己的理解。 哪些是待测试的？ 擅长做什么，能做什么，想做什么，社会需要什么 和人打交道 我的专长是什么？ 能静的下来读书啥的。逻辑思维能力。 我能提供什么价值 心理咨询。.</description>
     <pubDate>Wed, 07 Feb 2024 06:03:59 GMT</pubDate>
   </item><item>
     <title>《纳瓦尔宝典》</title>
@@ -33,7 +51,7 @@
     <title>世界观</title>
     <link>https://iamjoel.github.io/dialogue/1-self/0-worldview/readme</link>
     <guid>https://iamjoel.github.io/dialogue/1-self/0-worldview/readme</guid>
-    <description>对世界的理解 世界是由一些定律支配的。 定律是人类的定义。定律是一些因果。有些定律人类能掌握，有些不能掌握。 对人类的理解 对自己的理解.</description>
+    <description> 经验是知识的唯一来源。 - 经验主义 相对的，有的哲学学派认为有的知识是先验的。 对世界的理解 世界是由一些定律支配的。 定律是人类的定义。定律是一些因果。有些定律人类能掌握，有些不能掌握。 对人类的理解 对自己的理解.</description>
     <pubDate>Wed, 07 Feb 2024 02:39:36 GMT</pubDate>
   </item><item>
     <title>愤怒</title>
@@ -47,24 +65,6 @@
     <guid>https://iamjoel.github.io/dialogue/1-self/3-wealth/1-skill/coding/web/libs/ui/gesture/use-gesture</guid>
     <description> move it, zoom it, drag it, scroll it, pinch it 官网。GitHub。 支持 react 和 不用框架的。 能和 React Spring 配合着用。 该项目的作者和 React Spring 是一个作者。 该项目的组织(Poimandres)做了好多牛逼的库: React Spring， zustand，jotai， react-three-fiber 等。.</description>
     <pubDate>Tue, 06 Feb 2024 05:49:34 GMT</pubDate>
-  </item><item>
-    <title>40 questions to ask yourself every year</title>
-    <link>https://iamjoel.github.io/dialogue/1-self/1-happiness/5-resource/steph-ango/articles/40-questions-to-ask-yourself-every-year</link>
-    <guid>https://iamjoel.github.io/dialogue/1-self/1-happiness/5-resource/steph-ango/articles/40-questions-to-ask-yourself-every-year</guid>
-    <description> One of my end-of-year rituals is asking myself these forty questions. It usually takes me about a week to work my way through all of them. I find it to be one of the most valuable exercises to reflect on what happened, good and bad, and how I hope the year ahead will shape up.</description>
-    <pubDate>Tue, 06 Feb 2024 02:56:34 GMT</pubDate>
-  </item><item>
-    <title>《大明王朝 1556》</title>
-    <link>https://iamjoel.github.io/dialogue/1-self/3-wealth/6-info/series/ming-dynasty-in-1566</link>
-    <guid>https://iamjoel.github.io/dialogue/1-self/3-wealth/6-info/series/ming-dynasty-in-1566</guid>
-    <description></description>
-    <pubDate>Tue, 06 Feb 2024 02:38:50 GMT</pubDate>
-  </item><item>
-    <title>走向共和</title>
-    <link>https://iamjoel.github.io/dialogue/1-self/3-wealth/6-info/series/toward-a-republic</link>
-    <guid>https://iamjoel.github.io/dialogue/1-self/3-wealth/6-info/series/toward-a-republic</guid>
-    <description>最后一段孙中山的演讲很震撼。本质讲的就是平等。那时的现状是：统治阶级和普通不平等。统治阶级的权利不受约束。最终导致的是，整个社会的生产力下降。原因：民众的劳动成功被统治阶级剥削，民众的生产热情降低。 内容如下： 我知道，你们很着急。张勋复辟了，国会又开不成了，我知道。我啊，我急的不是这个，这些日子我想得很多，我们本来是共和国，可怎么一次又一次地出现了封建主义专制主义的东西，这个问题不解决，专制复辟就是必然的，共和国就永远是一个泡影。 共和的观念，是平等、自由、博爱嘛。可民国六年来，我们看到的是什么？各级行政官员都视法律为粪土，民众仍被奴役着。 民国应该是自由之国，自由是民众天赋的权利！可民国六年来，我们看到的是什么？是只有当权者的自由，权力大的有权力大的自由，权力小的有权力小的自由。民众，没有权力，没有自由。 民国应该是博爱之国！人人为我，我为人人！可民国六年来，我们又看到的是什么？是只有民众对当权者恐惧的爱，而当权者对民众，只有囗头上虚伪的爱。那种真诚真挚的博爱，我们看不到啊。 民国更应该是法治之国！可民国六年来，我们看到的是行政权力一次又一次地肆无忌惮地干涉立法∶你不听话，我就收买你；你不服从，我就逮捕你，甚至暗杀你。立法者成了行政官员随意蹂躏的妓女！ 那行政是什么呢？行政应该说是大总统及其一整套文官制度。应该是服务于国民，行共和之政。可民国六年来，我们看到的是什么？是一个打着共和旗帜的家天下，在这个家天下的行政中，我们根本看不到透明的行政程序，更看不到监督之制。那些行政官员，是如何花掉民众的血汗钱，民众不知道，那些行政官员把多少钱揣进了自己的腰包，你们不知道吧，我也不知道。 你们都知道司法是裁判吧，这个裁判的原则是什么？是一部主权在民的共和国宪法。可民国六年来，我们根本没有看到这么一部宪法嘛！就那部不成熟的《临时约法》，也一次又一次地被强奸。 有人说，不不不，不是一个人，是有一些人说，共和他只是一个称号而已，你孙大炮说的这些大虚幻、太遥远，不符合国情，它就像一个气球，啊，看着很美丽，可一飞上天啊，“卟”，破灭了。我想请问你，难道我们不要共和了吗？难道共和真错了吗？如果不要共和，我们有的就永远是专制；如果我们不要共和，那我们有的就永远是被奴役。 如果共和是错的，那自由就是错的；如果共和是错的，那平等就是错的；如果共和是错的，那博爱就是错的吗？我们追求的共和没有错，当然它还不完善，所以我们要一点一滴地去完善它，哪怕为此要付出代价呢！ 哦！对了，我今天穿的这身衣服有点古怪是吧，连裁缝都说是很奇怪的。但是我要说这是，这是为了完善共和，你们还觉得奇怪是吗？我要说，这就是共和，这就是共和的衣服。这边，我设计了三颗扣子，共和的理念，就是平等、自由、博爱。这边也有三颗扣子∶民族、民权、民生。那宪法呢？呵呵呵，我说的不是三权宪法。我发明了个新词，叫五权宪法。这里装的是立法权，这儿装的是行政权，这儿装的是司法权，这三权你们都很熟悉，叫间接民权。我情有独钟的是直接民权。要让普通的民众都有直接参政议政的权力！ 一个是考试权，我们中国古代就有考试的传统，后来把科举废除了，当然这对后来大兴新学有好处，可当官就不再考试了，这不好，这就像倒脏水把孩子也倒出去一样啊。民国六年来，在行政上用的是什么人啊，都是袁世凯他北洋的人，至今还如此。所以我们要把考试权还给民众。今后，凡行政用人，一定要经过考试，不管是谁！ 还有一个是弹劾权。没地儿装了，不急，不急，装在这儿，弹劾权！为什么要把弹劾权藏在里面呢？因为它是民众的杀手锏，它说不定什么时候就突然杀出来，弹劾你。 所以你要战战兢兢地当官，老老实实地为民做事。我想这回有人，更要说我孙文是个疯子，吃饭穿衣都说共和，你孙大炮还会什么？他说得对。我只知道共和这两个字，我这一辈子就认这两个字：共和。 我们有许多志士同仁，为了共和连生命都献出了，我孙文此生啊，没有别的希望，就一个希望，那就是：让共和不仅是一个名词，一句空话，或一个形式，要让它成为我们实实在在的生活方式，让它成为我们牢不可破的信念。 共和是普天之下民众的选择，是世界的潮流，世界潮流浩浩荡荡，顺之者昌，逆之者亡。 我孙文相信，我们这个中华民族啊，它一定会实现共和的，我坚信这一点！ .</description>
-    <pubDate>Mon, 05 Feb 2024 17:12:34 GMT</pubDate>
   </item>
     </channel>
   </rss>
