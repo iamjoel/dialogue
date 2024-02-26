@@ -4,6 +4,7 @@ title: 英语
 * [人人都能用英语](./why/every-one-can-use-english/readme.md)
 
 ## 笔记
+### 02/25
 * bag 有行李的意思 flight 航班
 * board game 桌游 video game 电子游戏
 * take the elevator 坐电梯，用 take
@@ -16,3 +17,7 @@ title: 英语
 * take a tour of some place 参观
 * spend time with/ spend the day with the / spend some time doing sth
 * have fun doing 做啥事很开心
+
+### 02/26
+* 在未来的某个时间点正在做什么也可以用现在进行时。 I am doing my homework tomorrow evening 
+ticket  office 售票局
