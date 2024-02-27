@@ -21,3 +21,16 @@ title: 英语
 ### 02/26
 * 在未来的某个时间点正在做什么也可以用现在进行时。 I am doing my homework tomorrow evening 
 ticket  office 售票局
+
+### 02/27
+* get  lost in 除了有迷路的意思，还有被…迷住的引申意。 如 I get  lost in her beautiful eyes 
+* back 还有背的意思。 backpack
+* get some rest 休息一下
+* go to  the doctor 看医生
+* call a doctor 叫医生
+* fall down 摔倒
+* dentist 牙医
+* toothache 牙痛。She have a toothache 
+* broke leg 摔断腿; broke teeth
+* make an appointment 预约。make an appointment for some time/ for sb
+* available 有空
