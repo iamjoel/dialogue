@@ -34,3 +34,9 @@ ticket  office 售票局
 * broke leg 摔断腿; broke teeth
 * make an appointment 预约。make an appointment for some time/ for sb
 * available 有空
+
+### 02/28
+* good for my  body 对我的身体好
+* have a cold 感冒了
+* pick up  something 捡起…
+* carry bags 拿着行李
