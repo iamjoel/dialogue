@@ -41,6 +41,9 @@ ticket  office 售票局
 * pick up  something 捡起…
 * carry bags 拿着行李
 
+## 02/29
+* tourist 旅行者
+* take a tour of , on  a tour  of
 
 ## 03/01
 * have fun doing 
