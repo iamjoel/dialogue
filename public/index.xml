@@ -6,6 +6,18 @@
       <description>Last 10 notes on Joel 的大唠嗑</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Resend</title>
+    <link>https://iamjoel.github.io/dialogue/1-self/3-wealth/1-skill/coding/web/scenario/email/resend</link>
+    <guid>https://iamjoel.github.io/dialogue/1-self/3-wealth/1-skill/coding/web/scenario/email/resend</guid>
+    <description>Resend The best way to reach humans instead of spam folders. Deliver transactional and marketing emails at scale. 获得 2023 年 Product hunt Golden kitty Award 的开发者类的金奖。 代码示例： import { Resend } from &#039;resend&#039;; const resend = new Resend(&#039;re_123456789&#039;); (async function() { const { data, error } = await resend.</description>
+    <pubDate>Fri, 01 Mar 2024 02:44:52 GMT</pubDate>
+  </item><item>
+    <title>2024年03月</title>
+    <link>https://iamjoel.github.io/dialogue/1-self/0-worldview/daily/2024-03</link>
+    <guid>https://iamjoel.github.io/dialogue/1-self/0-worldview/daily/2024-03</guid>
+    <description>01日 Friday 跑步 20 分钟 多邻国 7 个单元 和 LLM 玩文字探案游戏。探案类剧本杀 每个角色是个 agent。 或者由一个 agent 来代理，@谁，agent 就用这个角色来回答。 感觉上下文长一点，加智商够就可以玩。 .</description>
+    <pubDate>Fri, 01 Mar 2024 02:18:27 GMT</pubDate>
+  </item><item>
     <title>饮食</title>
     <link>https://iamjoel.github.io/dialogue/1-self/2-health/2-food/readme</link>
     <guid>https://iamjoel.github.io/dialogue/1-self/2-health/2-food/readme</guid>
@@ -53,18 +65,6 @@
     <guid>https://iamjoel.github.io/dialogue/1-self/1-happiness/6-method/readme</guid>
     <description> 培养好习惯 .</description>
     <pubDate>Sun, 18 Feb 2024 14:36:56 GMT</pubDate>
-  </item><item>
-    <title>培养好习惯</title>
-    <link>https://iamjoel.github.io/dialogue/1-self/1-happiness/6-method/good-habbit</link>
-    <guid>https://iamjoel.github.io/dialogue/1-self/1-happiness/6-method/good-habbit</guid>
-    <description>习惯是在特定的环境，会做的特定行为。如：压力大的时候会抽烟，暴饮暴食。 人的大部分时间都是按照遵循习惯来行动的。按习惯的时间起床，吃习惯的早餐，按习惯来刷信息，购物，思考，社交，在习惯的时间睡觉。 习惯对人的影响很大 习惯随着时间的累计，对人的影响会很大。 60 岁、50 岁、40 岁和 30 岁戒烟，分别可赢得约 3 年、6 年、9 年和 10 年的预期寿命。 培养好习惯 培养好习惯，对人有好的影响。一些好的习惯： 每天运动。 健康的饮食。戒糖，少吃深加工的食品，多吃优质蛋白，深色蔬菜。 冥想。 积极乐观的心态。 自省。 培养习惯的方式: 按照 SMART 原则制定切实可行的计划。计划的难度要适中（学习区），不是太容易（舒适区），也不是太难（恐惧区）。 在计划中可以加些里程碑和奖励。 可以找人监督计划的推进，更容易达成。 书籍推荐 一些关于习惯的书： 《掌控习惯 如何养成好习惯并戒除坏习惯》 《习惯的力量》 《高效能人士的七个习惯》 .</description>
-    <pubDate>Sun, 18 Feb 2024 14:35:06 GMT</pubDate>
-  </item><item>
-    <title>2024年02月</title>
-    <link>https://iamjoel.github.io/dialogue/1-self/0-worldview/daily/2024-02</link>
-    <guid>https://iamjoel.github.io/dialogue/1-self/0-worldview/daily/2024-02</guid>
-    <description>18日 跑步 20 分钟 多邻国 5 个单元 冥想 13分钟。 最后几分钟比较困。 写作：培养好习惯 19日 跑步 20 分钟 多邻国 5 个单元 写作：运动的好处。感觉到点比较大。 20日 跑步 20 分钟 多邻国 6 个单元 冥想 15分钟。 最后几分钟比较困。 写作: 压力。 写作的问题：内容只是简单的陈述，不吸引人。 信息: 海运占了全球 90% 的运输。航空成本是海运的100倍。 红海运力 和 巴拿马运力下降： 《红海危机挡住埃及财路 苏伊士运河今年来收入锐减约一半》 也门胡塞武装持续袭击船只。 由于红海局势持续紧张，多家主要航运公司暂停了红海航线，转而选择绕行非洲南端的好望角。苏伊士运河—红海是全球最繁忙的航道之一，全球约13%的海运贸易和10%的海运石油运输都要经过苏伊士运河。相较于直接通过苏伊士运河，绕道非洲的航程要多花25%的时间。 据说过 苏伊士运河 的保险涨了 15倍。 巴拿马运河水位处于历史低位，限航将持续至2024年年底 在长期干旱之下，巴拿马运河水位处于历史低点，往来船舶通行受限。近日，由于运河水位未能在雨季如期恢复，巴拿马运河船舶限航措施将延续至2024年年底。 21日 多邻国 5 个单元 跑步 20分钟 写作: 什么是好文章 22日 多邻国 5 个单元 跑步 20分钟 立个 flag，一周最多骂嘟嘟一次 23日 多邻国 6 个单元 跑步 20分钟 写作: 《如何有效克服惰性》 - 分析 24日 多邻国 6 个单元 跑步 20分钟 25日 多邻国 8 个单元 跑步 20分钟 看了 控糖革命。做了简单的笔记。 26日 多邻国 5 个单元 跑步 20分钟 27日 多邻国 5 个单元 跑步 20分钟 经营贷的坑 可以考虑做 Chrome 插件。 28日 多邻国 6 个单元 跑步 20分钟 每天一个 诗歌/有趣的话+图片 .</description>
-    <pubDate>Sun, 18 Feb 2024 13:32:36 GMT</pubDate>
   </item>
     </channel>
   </rss>

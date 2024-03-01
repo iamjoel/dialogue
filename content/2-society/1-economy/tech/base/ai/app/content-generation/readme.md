@@ -17,6 +17,9 @@ title: 内容创作和编辑
   * [Runway](./runway.md)
 * 音频生成
   * [clone-voice](./clone-voice.md)
+* 代码生成
+  * [Github Copilot](https://github.com/features/copilot)
+  * [Vercel v0](https://v0.dev/)  [What is Vercel's AI tool, V0.dev and how do you use it?](https://dev.to/opensauced/what-is-vercels-ai-tool-v0dev-and-how-do-you-use-it-3nge) [v0 Product hunt](https://www.producthunt.com/products/v0-dev-by-vercel-labs)
 * 生产故事
   * [NovelAI](./novelai.md)
 * 写社交媒体内容

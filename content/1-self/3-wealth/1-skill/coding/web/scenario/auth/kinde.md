@@ -1,6 +1,6 @@
 ---
 title: Kinde
-tags: open-source
+tags: open-source, BaaS
 ---
 [官网](https://kinde.com/)
 

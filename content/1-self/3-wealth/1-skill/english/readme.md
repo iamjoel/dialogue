@@ -40,3 +40,11 @@ ticket  office 售票局
 * have a cold 感冒了
 * pick up  something 捡起…
 * carry bags 拿着行李
+
+
+## 03/01
+* have fun doing 
+* dessert 甜点
+* start doing 
+* fall down 摔倒
+* on vacation 在度假
