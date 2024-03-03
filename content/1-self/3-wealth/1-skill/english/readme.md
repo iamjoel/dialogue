@@ -54,3 +54,12 @@ ticket  office 售票局
 
 ## 03/02
 * vegetables are good for the body. 注意 body 前有 the
+
+## 03/03
+* on a trial 在一条小道上
+* ask for help 寻求方式
+* could I speak to sb 我能和谁打电话吗
+* by some time 在某个时间之前 I need to complete the work by Monday 
+* work from home 在家办公
+* start a new business 开始一项新业务
+* unfortunately 不幸的是
