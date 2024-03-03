@@ -51,3 +51,6 @@ ticket  office 售票局
 * start doing 
 * fall down 摔倒
 * on vacation 在度假
+
+## 03/02
+* vegetables are good for the body. 注意 body 前有 the
