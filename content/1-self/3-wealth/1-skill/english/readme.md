@@ -63,3 +63,10 @@ ticket  office 售票局
 * work from home 在家办公
 * start a new business 开始一项新业务
 * unfortunately 不幸的是
+
+## 03/04
+* regular meeting 例会
+* rock climbing 攀岩
+* have a competition 比赛
+* ask sb for help 寻求帮助
+* isn't working 不工作了
