@@ -70,3 +70,9 @@ ticket  office 售票局
 * have a competition 比赛
 * ask sb for help 寻求帮助
 * isn't working 不工作了
+
+## 03/05
+* daily meeting 每日例会
+* meet to do sth 见面做某事
+* visit sb 看望某人
+
