@@ -4,8 +4,10 @@ title: 电影
 
 ## 导演
 * [姜文](./director/jiang-wen.md)
-* [彭浩翔](./director/pang-ho-cheung.md)
+* 香港: [彭浩翔](./director/pang-ho-cheung.md)， 杜琪峰，吴宇森
 * 程耳
+* 台湾 李安、侯孝贤、杨德昌
+* 李安，贾樟柯
 
 ## 作品
 ### 动作片

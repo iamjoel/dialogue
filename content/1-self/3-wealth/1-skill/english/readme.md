@@ -76,3 +76,10 @@ ticket  office 售票局
 * meet to do sth 见面做某事
 * visit sb 看望某人
 
+## 03/06
+* red envelope 红包
+* Chinese new year 春节
+* such a  good boy 
+* take a video of sth 
+* gray hair 白头发
+* Everyone gets old.
