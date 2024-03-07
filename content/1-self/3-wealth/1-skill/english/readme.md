@@ -83,3 +83,10 @@ ticket  office 售票局
 * take a video of sth 
 * gray hair 白头发
 * Everyone gets old.
+* let's hurry. hurry  后面没有 up
+
+## 03/07
+* camp 野营的动词
+* he was back from  the business trip. 他出差回来了
+* hiking 徒步旅行
+* on new year's day  在元旦
