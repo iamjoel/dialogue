@@ -90,3 +90,14 @@ ticket  office 售票局
 * he was back from  the business trip. 他出差回来了
 * hiking 徒步旅行
 * on new year's day  在元旦
+
+## 03/08
+* christmas eve 平安夜
+* wear read 穿红色
+* have some snacks 
+* build a snowman 堆雪人
+* make dumplings 包饺子
+* spend the whole day doing 注意有 the
+* be planning to do 跟一个未来的时间。 表示在未来的某个时间计划
+* shopping for sth 
+* have a party 办聚会
