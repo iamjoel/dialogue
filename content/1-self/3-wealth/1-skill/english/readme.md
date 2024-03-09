@@ -101,3 +101,16 @@ ticket  office 售票局
 * be planning to do 跟一个未来的时间。 表示在未来的某个时间计划
 * shopping for sth 
 * have a party 办聚会
+
+## 03/09
+* hurt 的过去式还是 hurt 
+* on a business trip 在出差
+* pool 游泳池
+* shampoo 洗发水
+* towel 毛巾
+* garage 车库
+* for sale 在出售
+* sink 水槽
+* at the front of  sth. 在 sth 内部的前面。
+* couch 沙发
+* singer room  单人房
