@@ -114,3 +114,16 @@ ticket  office 售票局
 * at the front of  sth. 在 sth 内部的前面。
 * couch 沙发
 * singer room  单人房
+
+## 03/10
+* trouble 用中文谐音为出包
+* dresser 柜子，衣柜
+* shelf 架子
+* wooden 木质的
+* paint sth  pink  把... 涂成...颜色
+* make some changes to sth 
+* play  upstairs 在楼上玩，upstairs 有 s
+* go upstairs 上楼。有s。
+* a good size 大小合适
+* bathroom 除了浴室还有洗手间的意思
+
