@@ -127,3 +127,12 @@ ticket  office 售票局
 * a good size 大小合适
 * bathroom 除了浴室还有洗手间的意思
 
+## 03/11
+* living room walls. room 后面不带所有格
+* textbook  课本
+* wash the dishes 洗碗
+* get some sleep 睡一会
+* sleep enough 睡够了
+* be upset 不开心
+* mad 生气 和 angry  同义词。be mad at sb
+
