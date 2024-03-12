@@ -135,4 +135,17 @@ ticket  office 售票局
 * sleep enough 睡够了
 * be upset 不开心
 * mad 生气 和 angry  同义词。be mad at sb
+* makeup 化妆品
+* wear makeup 化妆
+* get some fresh air 
+* go  for  a walk 
+
+## 03/12
+* jump on me 跳到我身上
+* heavy rain 大雨
+* storm: rain hard
+* talk a lot 说太多话
+* usually 平时
+* how do you feel 
+* call  sb 给...打电话
 
