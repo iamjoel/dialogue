@@ -1,7 +1,8 @@
 ---
 title: 概念
 ---
-* [熵增](./entropy-increase.md)
+* [熵增](./entropy-increase.md) 物理规律。
+* 自我。 有自我的概念，才有其他。自我是与外界的差异。
 * [公平](./fair.md), [平等](./equality.md)
 * [安全](./safe/readme.md) & [信任](./safe/trust.md)
 * [爱](./love.md)

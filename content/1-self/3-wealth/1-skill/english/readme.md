@@ -163,3 +163,6 @@ ticket  office 售票局
 * do sth in pairs 两人结对做
 * in group of three
 * is taken 被占用的
+* sth be clear to sb 
+* take notes 做笔记
+* have a busy day 忙了一天
