@@ -2,6 +2,7 @@
 title: 概念
 ---
 * [熵增](./entropy-increase.md)
+* [公平](./fair.md), [平等](./equality.md)
 * [安全](./safe/readme.md) & [信任](./safe/trust.md)
 * [爱](./love.md)
 * [乐观](./optimism.md) 和 [悲观](./pessimism.md)
@@ -14,7 +15,6 @@ title: 概念
 * [努力](./attempt.md)
 * [愤怒](./anger.md)
 * [概率](./probability.md)
-* [平等](./equality.md)
 * [知足](./contented.md) & [贪婪](./greedy.md)
 * [负担](./burden.md)
 * [平衡](./balance.md)

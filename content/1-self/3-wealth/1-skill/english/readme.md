@@ -147,5 +147,19 @@ ticket  office 售票局
 * talk a lot 说太多话
 * usually 平时
 * how do you feel 
-* call  sb 给...打电话
+* call sb 给...打电话
 
+## 03/13
+* wear makeup 化妆
+* what happened to / what's wrong with 
+* sleep for too long 
+* storm 暴风雨是可数的。 my cat is afraid of storms 
+* put a check 打勾
+* do well on the test 
+* put your hands up 举手
+* in class 在上课
+* what does sth mean
+* cafeteria： a place for eatting 食堂
+* do sth in pairs 两人结对做
+* in group of three
+* is taken 被占用的
