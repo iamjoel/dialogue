@@ -166,3 +166,15 @@ ticket  office 售票局
 * sth be clear to sb 
 * take notes 做笔记
 * have a busy day 忙了一天
+
+## 03/14
+* ticket office 售票处
+* be  far from 
+* blond hair  金发
+* sit for too long. 坐太久 注意有 for
+* my back hurts. 注意有 s
+* timid 害羞的
+* slack 宽松的，也有
+* a balm for your soul 抚慰你的心灵
+* how you been 你过得怎么样
+
