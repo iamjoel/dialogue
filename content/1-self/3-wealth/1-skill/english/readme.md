@@ -172,9 +172,21 @@ ticket  office 售票局
 * be  far from 
 * blond hair  金发
 * sit for too long. 坐太久 注意有 for
-* my back hurts. 注意有 s
+* my back hurts. my back 是单数，所以用 hurts
 * timid 害羞的
 * slack 宽松的，也有
 * a balm for your soul 抚慰你的心灵
 * how you been 你过得怎么样
+* come to work 来上班
 
+## 03/15
+* stay at work late 
+* resume 简历，摘要。注意英文发音
+* what is it about 
+* take a seat  坐吧
+* this seat is taken 
+* dining hall 食堂。和 cafeteria 同义
+
+## 03/16
+* sit in the seat 
+* put a check next to the correct answer
