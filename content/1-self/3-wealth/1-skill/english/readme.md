@@ -190,3 +190,25 @@ ticket  office 售票局
 ## 03/16
 * sit in the seat 
 * put a check next to the correct answer
+
+## 03/17
+* last name 姓氏
+* is crowded 
+* take a seat 
+* did they get back 
+* garlic 蒜
+* have nothing to do  没什么要做
+* ten thousand 一万
+* a simple life
+* take the day off 请假
+* national park 国家公园
+* volleyball 排球
+* there is too much sun 太阳太大
+* raincoat 雨衣
+* travel around the world
+* fly a kite 放风筝
+* stop at some place 去了一趟某地
+* at that time
+* if you drink don't drive. 这里 drink 是喝酒的意思
+* gas station 加油站
+* drive on the wrong side of the road 逆行
