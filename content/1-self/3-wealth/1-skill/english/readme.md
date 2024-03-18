@@ -212,3 +212,6 @@ ticket  office 售票局
 * if you drink don't drive. 这里 drink 是喝酒的意思
 * gas station 加油站
 * drive on the wrong side of the road 逆行
+
+## 03/18
+* love him so much 
