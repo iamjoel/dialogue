@@ -215,3 +215,8 @@ ticket  office 售票局
 
 ## 03/18
 * love him so much 
+
+## 03/19
+* umbrella 
+* sit on the sofa less and go to the gym more 
+* yesterday at 6 a.m
