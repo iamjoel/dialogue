@@ -220,3 +220,13 @@ ticket  office 售票局
 * umbrella 
 * sit on the sofa less and go to the gym more 
 * yesterday at 6 a.m
+* don't do sth at  all  一点也不
+* at that time 在那个时候
+* bar 也有吧台的意思
+* get food 也是买东西的意思
+* dependent on drags, dependent variable 
+
+## 03/20
+* tent 帐篷
+* take out my phone 
+* a beginner level English class 
