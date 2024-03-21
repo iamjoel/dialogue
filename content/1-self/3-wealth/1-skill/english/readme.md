@@ -230,3 +230,17 @@ ticket  office 售票局
 * tent 帐篷
 * take out my phone 
 * a beginner level English class 
+
+
+## 03/21
+* get a taxi 打车
+* how  can I  get there 
+* change  planes 转机
+* euro  欧元。 可数
+* change euros for RMB 把欧元换成人民币
+* double room 双人间
+* double bed  双人床
+* for how many nights 住几晚
+* have room available 
+* I don't mind 我不介意
+* a long flight 漫长的航班。long 也有时间漫长的意思
