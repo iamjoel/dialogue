@@ -248,3 +248,21 @@ ticket  office 售票局
 ## 03/22
 * close the curtain(窗帘)
 * how can I get there 
+* beard 胡子 have a long beard 
+* a long ago 
+* woods 树林
+* castle 
+* somewhere else: some place is not here 
+* bracelet 手链
+* stay away from: not go to 
+* except for someone:  not include someone 
+* in the end 
+* spill  弄撒
+* libra 天秤座
+* take from the rich people and give to poor people 
+* this is the letter that the king wrote
+* horror movie 恐怖电影
+* get some sleep
+* millions of animal
+* swimsuit 泳衣
+* get something for free
