@@ -244,3 +244,7 @@ ticket  office 售票局
 * have room available 
 * I don't mind 我不介意
 * a long flight 漫长的航班。long 也有时间漫长的意思
+
+## 03/22
+* close the curtain(窗帘)
+* how can I get there 
