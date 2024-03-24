@@ -266,3 +266,41 @@ ticket  office 售票局
 * millions of animal
 * swimsuit 泳衣
 * get something for free
+* he looks nice in  that  suit 
+* the suit look good on him 
+* on sale: the price is cheaper than regular 
+* try on  试穿 try the  sweater on 
+* wrong size 尺码不对
+* a hundred and ten 
+* the total cost of sth 
+* be sold 卖掉了
+* wait in line 排队
+
+## 03/23
+* pay  过去式 paid 
+* purse  手提包
+* are you all right 你没事吧
+* a set of 串
+* toe  脚趾
+* cut  into pieces 
+* stove 炉子
+* talk/be on the phone 在通话
+* break up with sb 分手
+* I am watching a movie tomorrow 现在进行时也可以用在将来
+
+## 03/24
+* have enough time 
+* in  the kitchen  不是 at
+* while 要放后面
+* fast food restaurants
+* lunch break 午休。 I have a short lunch break 
+* winter/summer break 寒暑假
+* dim sum 点心
+* ice water 冰水
+* burge 汉堡
+* vegetable dishes 素菜
+* fries 薯条
+* like ... the most 最喜欢
+* mature 成年人的
+* spring flower are in bloom
+
