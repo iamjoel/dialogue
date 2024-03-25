@@ -303,4 +303,23 @@ ticket  office 售票局
 * like ... the most 最喜欢
 * mature 成年人的
 * spring flower are in bloom
+* kids' meals 儿童套餐
+* I'm good 不用了。 在用餐的时候这么回
+* egg fried rice 
+* the meals come with sth 附带
+* posta 意大利面
+* drinks 饮料
+* big game  大赛
+* stadium 体育场
+
+## 03/25
+* kick the ball into the goal 把球踢进球门
+* catch the ball 
+* throw the ball
+* Great kick. That was a great kick 
+* hockey  曲棍球。很像 hotkey 
+* how did ... go 某事进行的怎么样
+* play the game in the rain 
+* want to get better at 在...做得更好
+* at the front of 在...的正面
 
