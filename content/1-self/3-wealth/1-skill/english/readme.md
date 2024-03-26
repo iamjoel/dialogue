@@ -322,4 +322,19 @@ ticket  office 售票局
 * play the game in the rain 
 * want to get better at 在...做得更好
 * at the front of 在...的正面
+* my car has a flat  tile 爆胎
+* in the sun 太阳下
+
+## 03/26
+* electric stove 电炉
+* pan 平底锅
+* some slices of pork 
+* oven 烤箱
+* set the table 布置餐桌
+* sushi 寿司
+* udon 乌冬面
+* mapo tofu 麻婆豆腐
+* kung pao chicken 宫爆鸡丁
+* chef 主厨
+* my favorite dish 
 
