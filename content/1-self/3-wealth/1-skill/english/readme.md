@@ -336,5 +336,34 @@ ticket  office 售票局
 * mapo tofu 麻婆豆腐
 * kung pao chicken 宫爆鸡丁
 * chef 主厨
-* my favorite dish 
+* my favorite dish
+* towel 毛巾
+* limo 豪华轿车
+* ootd: outfits of today  的缩写。今日穿搭
+* pack up  luggage 取行李
+* NYU 纽约大学
+* pick you up 接你 
+
+## 03/27
+* the last apartment 
+* show sb around 
+* look around 
+* live/be across 住在...对面
+* on twenty-five street 
+* have a great time 玩的很尽兴
+* Chinatown 中国城
+* various: many kinds of 
+* what do you like about 你喜欢...的什么
+* cycling 骑自行车. go cycling, enjoy cycling 
+* the play was great. play 也有戏剧的意思
+* apartment one zero six
+* fall a lot 摔了很多跤
+* get sick 
+* see a play 看戏剧
+
+## 03/28
+* fill out  the form 
+* get along with 相处的好
+* receptionist 接待员
+* secretary 秘书
 
