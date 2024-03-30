@@ -366,4 +366,25 @@ ticket  office 售票局
 * get along with 相处的好
 * receptionist 接待员
 * secretary 秘书
+* will be with you in a minute 马上就来
+* is it ok to do 
+* good luck with sth 祝 ... 顺利
 
+## 03/29
+* of course not 
+* fill out the form 
+* at your last job 
+* ID 身份证
+* the room have an ocean view 海景
+* parking lot 停车场
+
+## 03/30
+* font desk 前台
+* heat 暖气
+* water is off 停水了. the water is off  in my room 
+* give me a ride 载我一程
+* go sightseeing 观光
+* give wake-up call 叫醒电话
+* awful 狠糟糕
+* a few extra day 
+* sink 水槽
