@@ -388,3 +388,25 @@ ticket  office 售票局
 * awful 狠糟糕
 * a few extra day 
 * sink 水槽
+
+## 03/31
+* that's fine 没事
+* what's the matter/ what's wrong  怎么了， 什么事
+* every kids' meal comes with a toy 
+* garage 车库
+* suitcase 行李箱
+* aweful 和 awesome 和相似，但意思相反
+* take the gaokao 参加高考
+* SAT 美国的高考。去美国申请学校和奖学金会看 SAT 的分数
+* pass the exam/ fail the exam
+* get A on english exam
+* get good grades 获得好成绩
+* report card 成绩单 he got an A on his report card yesterday
+* semester 学期
+* diploma 毕业证
+* principal 校长
+* a graduate 一个毕业生
+
+## 04/01
+* perfer to do 
+* stay here by myself 
