@@ -410,3 +410,12 @@ ticket  office 售票局
 ## 04/01
 * perfer to do 
 * stay here by myself 
+* be careful of wild animals 
+* variety of animals 
+
+## 04/02
+* baby bear 熊宝宝
+* the birds make beautiful sounds 
+* foggy 有雾的。so  foggy 
+* my date 我的约会对象
+* during the winter 
