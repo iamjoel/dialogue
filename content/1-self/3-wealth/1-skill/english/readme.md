@@ -419,3 +419,41 @@ ticket  office 售票局
 * foggy 有雾的。so  foggy 
 * my date 我的约会对象
 * during the winter 
+
+## 04/03
+* a  variety of 
+* if temperatures are low, it will snow. temperature 是复数
+* put on makeup 化妆
+
+## 04/04
+* pajamas 睡衣
+* keep sb busy 忙个不停
+* in the early morning 
+* send you an invitation 
+* my laptop is dead 指没电了
+* see/hear you very  well 
+* work from home 
+* home office 
+* make sure the internet is working 
+* in a moment: soon 
+* a meeting invitation 会议邀约
+
+## 04/05
+* Easter day 复活节
+* bunny 小兔子，可爱女郎
+* my internet isn't slow. internet not network 
+* flea market 跳蚤市场
+* cap 鸭舌帽
+* wool 羊毛的
+* want this badly 非常想要
+* the chair comes in black and white. come in 
+* 是有的意思
+* leather pants 皮裤
+* Deal 成交。That's a good deal 很划算
+* give me a discount 给我打个折
+* there is a discount on sth
+* buy one get one free 买一送一
+* mug 马克杯
+* sneaker 运动鞋
+* guess what 猜怎么着
+* half-price 半价的
