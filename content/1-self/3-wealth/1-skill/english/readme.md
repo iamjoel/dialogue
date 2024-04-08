@@ -2,6 +2,7 @@
 title: 英语
 ---
 * [人人都能用英语](./why/every-one-can-use-english/readme.md)
+* [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
 ## 笔记
 ### 02/25
@@ -457,3 +458,39 @@ ticket  office 售票局
 * sneaker 运动鞋
 * guess what 猜怎么着
 * half-price 半价的
+
+## 04/06
+* wait in line 
+* a poster for sth 某某的海报
+* jewelry
+* furniture 家具 不可数
+* granny  奶奶
+* mashed potatoes 土豆泥
+* grilled meat 烤肉
+* roast duck 烤鸭
+* trick or treat 
+* be out of the country 出国
+* postcard 明信片
+* ham 火腿
+
+## 04/07
+* text message 短信
+* ex-girlfriend 
+* photograph 摄影师
+* meet 有认识的意思。 where did you meet 
+* sb and sb are close. 关系好. he is my close friend 
+* keep in touch 
+* parking lot 停车场
+* birthday card 生日卡片
+* Chicago 芝加哥
+* since  than i have  从那以后 加现在完成时
+* the capital of 首都
+
+## 04/08
+* sausage 香肠
+* pasta 意大利面
+* travel all over some place 游遍
+* take the bus anywhere in the city 坐火车到城市的如何地方
+* be  crazy about 痴迷于
+* a huge fan of cartoons 卡通迷
+* pilot 飞行员
