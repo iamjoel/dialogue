@@ -494,3 +494,7 @@ ticket  office 售票局
 * be  crazy about 痴迷于
 * a huge fan of cartoons 卡通迷
 * pilot 飞行员
+
+## 04/09
+* Eiffel tower 埃菲尔铁塔
+* do you have this ring in a smaller size 

@@ -11,3 +11,5 @@ tags: suggestion
 * 颗粒度很细的权限。
 
 [API 列表](https://open.feishu.cn/document/server-docs/api-call-guide/server-api-list)。 对应的 [Node.js SDK](https://github.com/larksuite/node-sdk/blob/main/README.zh.md)
+
+[插件](https://feishu.feishu.cn/docx/U3wodO5eqome3uxFAC3cl0qanIe)
