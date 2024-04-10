@@ -498,3 +498,15 @@ ticket  office 售票局
 ## 04/09
 * Eiffel tower 埃菲尔铁塔
 * do you have this ring in a smaller size 
+* a huge soccer fan
+* one-way ticket/ round-trip tickets
+* on time 准时
+* pass 有票的意思。 weekly pass 周票
+* ticket machine  售票机
+
+## 04/10
+* um 呃
+* final stop 最后一站
+* platform 有站台的意思
+* there's a delay for the red line 红线(地铁)延迟了
+* alcohol 酒
