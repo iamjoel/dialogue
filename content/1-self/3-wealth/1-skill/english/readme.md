@@ -510,3 +510,15 @@ ticket  office 售票局
 * platform 有站台的意思
 * there's a delay for the red line 红线(地铁)延迟了
 * alcohol 酒
+
+## 04/11
+* passport control 检查护照的地方
+* shuttle 班车
+* reserve a room 订房间 order a room 
+* laundry room 洗衣房
+* let sb do sth 允许
+* fare 交通工具的票价 bus fare 
+* patio 露天庭院 sit on the patio 
+* you are homesick : miss your home 
+* continent 大陆，洲
+* visa 签证
