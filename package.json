@@ -13,6 +13,7 @@
   },
   "scripts": {
     "start": "npx quartz build --serve",
+    "build": "npx quartz build",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx ./quartz/util/path.test.ts",

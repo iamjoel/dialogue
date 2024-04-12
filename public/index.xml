@@ -6,65 +6,65 @@
       <description>Last 10 notes on Joel 的大唠嗑</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>core</title>
-    <link>https://iamjoel.github.io/dialogue/1-self/0-worldview/template/content/core</link>
-    <guid>https://iamjoel.github.io/dialogue/1-self/0-worldview/template/content/core</guid>
-    <description></description>
-    <pubDate>Tue, 02 Apr 2024 16:35:48 GMT</pubDate>
+    <title>RAG</title>
+    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/solution/rag</link>
+    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/solution/rag</guid>
+    <description>RAG: 检索增强生成。目前的 RAG 主要是从数据仓库里召回关联数据，然后给 LLM 做阅读理解，然后由 LLM 合成结果的过程。 依赖： LLM 的 NLP 的能力，以及 用户问题进行意图识别。 向量数据库，分段策略。 知识图谱。 Rerank 召回内容。 LLM 合成结果后的后处理。 .</description>
+    <pubDate>Thu, 11 Apr 2024 08:00:54 GMT</pubDate>
   </item><item>
-    <title>2024年04月</title>
-    <link>https://iamjoel.github.io/dialogue/1-self/0-worldview/daily/2024-04</link>
-    <guid>https://iamjoel.github.io/dialogue/1-self/0-worldview/daily/2024-04</guid>
-    <description>01日 跑步 20 分钟。 多邻国 14 个单元。 晚上加班吃谷田饭稻，吃撑了，很难受。没注意多点了一份饭，饭又很好吃，吃完了。注意，注意。 02日 跑步 20 分钟。 多邻国 11 个单元。 解决问题的核心概念。 晚上把课程表做了。 .</description>
-    <pubDate>Mon, 01 Apr 2024 02:07:02 GMT</pubDate>
+    <title>毕昇</title>
+    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/infra/saas/bisheng</link>
+    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/infra/saas/bisheng</guid>
+    <description>官网 第四范式下面的团队数据项素做的。是一家做数据的公司搞的。 非结构化数据的价值挖掘、信息处理自动化与数据即服务，我们的团队使命与愿景是增强人类对信息的处理与理解速度，消除重复低效劳动并构基于数字空间第二大脑的增强智能系统，并成为驱动社会生产力前进的引擎。 做了很多数据分析的落地场景：合同审核，招股书分析等。 支持编排。 应用 报告生成。 合同审查报告生成。 信贷尽调报告生成 招股书分析报告生成 清标\评标报告生成 文档摘要/元数据生成 论文写作 知识库问答。 用户手册问答 研报知识库问答 规章制度问答 《中华药典》知识问答 股价数据库问答 对话 信贷小微企业客调机器人 员工培训与考评助手 传统客服机器人升级 扮演面试官对话 小红书文案助手 扮演外教对话 简历优化助手 自动化 银行贷前/中/后材料审查 电信客服工单自动化 复杂系统自然语言菜单导航 超级流程自动化 合同关键要素提取 工程报告要素提取 卡证票据要素提取 .</description>
+    <pubDate>Thu, 11 Apr 2024 08:00:54 GMT</pubDate>
   </item><item>
-    <title>红楼梦</title>
-    <link>https://iamjoel.github.io/dialogue/2-society/3-culture/book/works/hongloumeng</link>
-    <guid>https://iamjoel.github.io/dialogue/2-society/3-culture/book/works/hongloumeng</guid>
-    <description>《红楼梦》以贾宝玉、林黛玉、薛宝钗等人的人生际遇为主线,展现了一系列人物悲欢离合的故事,揭示了人生梦幻泡影,富贵乃过眼烟云的道理,蕴含了深邃的人生哲理和道家思想。 “假作真时真亦假,无为有处有还无。 人生一世,草木一秋。 人的一生,究竟有多少岁月可以挥霍,多少光阴可以游戏? 人生一世,不过是梦幻幻梦,虚无无虚,当那金风桂子,板上钉钉,到底谁是谁非,到底谁是负心的,谁是始乱终弃的? 都是些甘草水煮尽了,也不过是黄连苦,那些个低贱贵嫚,高门下屋,到头来,谁把谁笑话,还不是大伙儿都一样?” 这段话是《红楼梦》开篇点题之言,揭示了人生如梦,虚幻缥缈的主题思想。其中”低贱贵嫚,高门下屋,到头来,谁把谁笑话,还不是大伙儿都一样”这句话,意思与你所引用的那句话相近,表达了无论地位高低,生命本质面前人人平等,追梦路上殊途同归的思想。 宝玉道：“人的一生，也不过是吃茶饭、睡觉生出子孙来，老了死了，一百年也没个人记挂。倒不如把自己的性命保存在自己的手里，决不叫人宰割了去。” 贾母道：“人的一生，谁都是在追逐梦幻，不论是贵为皇帝，还是贱为奴仆，都一样。 .</description>
-    <pubDate>Wed, 27 Mar 2024 08:42:00 GMT</pubDate>
+    <title>SaaS</title>
+    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/infra/saas/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/infra/saas/readme</guid>
+    <description> Dify 毕昇 ReByte 辅助开发应用。 .</description>
+    <pubDate>Thu, 11 Apr 2024 08:00:54 GMT</pubDate>
   </item><item>
-    <title>拆书</title>
-    <link>https://iamjoel.github.io/dialogue/1-self/0-worldview/habbit/sop/book</link>
-    <guid>https://iamjoel.github.io/dialogue/1-self/0-worldview/habbit/sop/book</guid>
-    <description>通用 生成书的大纲 作者信息 非虚构类 拆书的目的是什么。 可信度 书的内容可信度如何。 作者背景，是否利益相关 是否有数据支撑 是否与现有事实不相符 内容 一句话解决了什么问题，或者想说清楚。 如何解决的。 提出论据。 提取中心论点和分论点。 核心主题。 金句。 拓展 相关推荐。 书的背景。 作者整个时代的价值主张，属于哪个流派。这本书属于什么。 虚构类 人物特点 好的哪里.</description>
-    <pubDate>Wed, 27 Mar 2024 03:48:00 GMT</pubDate>
+    <title>写的很好的</title>
+    <link>https://iamjoel.github.io/dialogue/1-self/3-wealth/1-skill/writing/excellent</link>
+    <guid>https://iamjoel.github.io/dialogue/1-self/3-wealth/1-skill/writing/excellent</guid>
+    <description>描写脾气 爆怒无常 描写爱 母亲对我的爱 自然气候 描写雷阵雨之后的情景 .</description>
+    <pubDate>Thu, 11 Apr 2024 08:00:54 GMT</pubDate>
   </item><item>
-    <title>SOP</title>
-    <link>https://iamjoel.github.io/dialogue/1-self/0-worldview/habbit/sop/sop</link>
-    <guid>https://iamjoel.github.io/dialogue/1-self/0-worldview/habbit/sop/sop</guid>
-    <description>有些习惯可以形成 SOP。 虚构类 读的爽 爽点/金句 项目值不值得做 谁在什么时候做什么 市场规模有多大，市场处于哪个阶段.</description>
-    <pubDate>Wed, 27 Mar 2024 02:38:07 GMT</pubDate>
+    <title>写作</title>
+    <link>https://iamjoel.github.io/dialogue/1-self/3-wealth/1-skill/writing/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/1-self/3-wealth/1-skill/writing/readme</guid>
+    <description> We believe that writing is a tool for thinking. If we can build a tool for helping people write and organize their ideas more effectively, we can help them have better thoughts and solve otherwise intractable problems.</description>
+    <pubDate>Thu, 11 Apr 2024 08:00:54 GMT</pubDate>
   </item><item>
-    <title>习惯</title>
-    <link>https://iamjoel.github.io/dialogue/1-self/0-worldview/habbit/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/1-self/0-worldview/habbit/readme</guid>
-    <description></description>
-    <pubDate>Wed, 27 Mar 2024 02:37:08 GMT</pubDate>
+    <title>开源项目分析</title>
+    <link>https://iamjoel.github.io/dialogue/1-self/3-wealth/1-skill/data-analysis/scenario/open-source</link>
+    <guid>https://iamjoel.github.io/dialogue/1-self/3-wealth/1-skill/data-analysis/scenario/open-source</guid>
+    <description>GitHub 数据 详细的项目数据： OSS Insight Trendshift Github Trending 排行汇总。 当前数据： 看 GitHub 的 Star，contributors, PR，issue 数。 当前热门： GitHub Trending 历史趋势看： Star history。 安装包的下载数据 DockerHub Pip NPM .</description>
+    <pubDate>Thu, 11 Apr 2024 08:00:54 GMT</pubDate>
   </item><item>
-    <title>管理后台模版调研</title>
-    <link>https://iamjoel.github.io/dialogue/1-self/3-wealth/3-make/product/research/admin-template-anylsis</link>
-    <guid>https://iamjoel.github.io/dialogue/1-self/3-wealth/3-make/product/research/admin-template-anylsis</guid>
-    <description>结论 现在不适合做。原因： 找不到用户痛点。 为什么要做调研 有可以通过卖模版赚钱的可能性。 有一定的市场规模(利基)。 在知道场景的基础上，做一套皮肤的工作量不算很大。 2.1 有很多项目，组件可以用。 2.2 可以通过 v0 来快速生成代码。 假设 用模版是为了效率。 有些业务场景，现有的模版未被覆盖。 解决的痛点 解决上面的假设2， 提供更丰富的场景。 遇到的问题 很难获得用户的场景。看 Github 上的 fork 和 used by 的项目，大部分只提交了一次，无法知道具体的场景。 猜测：内部业务系统一般不开源。 Payload Github 上被 8241 个项目使用，绝大部分都是只是创建了脚手架(一次提交，0 star)。 ecommerce 使用的项目: DigitalMarketplace 商城。买卖数字资产? https://github.</description>
-    <pubDate>Tue, 26 Mar 2024 09:37:47 GMT</pubDate>
+    <title>英语</title>
+    <link>https://iamjoel.github.io/dialogue/1-self/3-wealth/1-skill/english/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/1-self/3-wealth/1-skill/english/readme</guid>
+    <description> 人人都能用英语 readtheory 待尝试 笔记 02/25 bag 有行李的意思 flight 航班 board game 桌游 video game 电子游戏 take the elevator 坐电梯，用 take restroom 洗手间 hall 走廊，大厅 there is a restroom at the end of the hall backpack 背包 pack 打包。Mom always pack too many clothes package 包裹 how far 问离多远的.</description>
+    <pubDate>Thu, 11 Apr 2024 08:00:54 GMT</pubDate>
   </item><item>
-    <title>衡量城市</title>
-    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/scene/about-city</link>
-    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/scene/about-city</guid>
-    <description> GDP，出口金额，支柱产业 固定资产投资，政府支出 人口 如果考虑基建的投入产出，就要考虑 GDP，人口基数这样的指标。 穷的地方，都养不起警察。就不要谈治安了。 文章 江西可以有多惨——地产泡沫破灭的典型 贵州可以有多惨 .</description>
-    <pubDate>Sun, 17 Mar 2024 14:54:22 GMT</pubDate>
+    <title>Class Variance Authority</title>
+    <link>https://iamjoel.github.io/dialogue/1-self/3-wealth/1-skill/coding/web/libs/ui/utils/cva</link>
+    <guid>https://iamjoel.github.io/dialogue/1-self/3-wealth/1-skill/coding/web/libs/ui/utils/cva</guid>
+    <description>官网 variants API 是 WorkOS 的 Stitches 最早搞的。.</description>
+    <pubDate>Thu, 11 Apr 2024 08:00:54 GMT</pubDate>
   </item><item>
-    <title>《菜根谭》</title>
-    <link>https://iamjoel.github.io/dialogue/2-society/3-culture/book/works/caigentan</link>
-    <guid>https://iamjoel.github.io/dialogue/2-society/3-culture/book/works/caigentan</guid>
-    <description>讲了很多为人做事的道理。有很多金句。 缺点时，大多在讲怎么做，很少讲为什么要这么做。 大纲 GPT4 整理的： 人生观：《菜根谭》主张人应该以道德为准则，追求内心的平静与满足，而不是外在的财富与地位。 价值观：《菜根谭》注重内在精神的修养，提倡廉洁奉公、勤俭节约的价值观。 生活哲学：《菜根谭》主张人生要知足常乐，满足于自身的条件，享受生活带来的快乐。 社会伦理：《菜根谭》强调人与人之间要有爱心、宽容和谦虚，提倡平等、互助的社会伦理。 道德修养：《菜根谭》主张修养良好的道德品质，提倡真、善、美的价值观。 忍耐与坚韧：《菜根谭》提倡人要有忍耐的精神，面对困难和挫折要有坚韧不拔的毅力。 自然与人生：《菜根谭》提出了人应与自然和谐共生，遵循自然规律的人生观。 道德教育：《菜根谭》主张道德教育的重要性，认为道德是人生的基石。 人生态度：《菜根谭》主张积极的人生态度，面对人生的苦难要有乐观的态度。 修身养性：《菜根谭》主张修身养性，通过内心的修 .</description>
-    <pubDate>Sat, 16 Mar 2024 14:49:35 GMT</pubDate>
+    <title>编程</title>
+    <link>https://iamjoel.github.io/dialogue/1-self/3-wealth/1-skill/coding/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/1-self/3-wealth/1-skill/coding/readme</guid>
+    <description>呈现的媒介： 浏览器。用 Web 框架 来做基于浏览器的应用。 桌面应用 命令行 代码库 UI 组件库 工具 VSCode 插件 代码片段 其他 软件工程 安全 .</description>
+    <pubDate>Thu, 11 Apr 2024 08:00:54 GMT</pubDate>
   </item><item>
-    <title>公平</title>
-    <link>https://iamjoel.github.io/dialogue/1-self/1-happiness/2-mind/terms/fair</link>
-    <guid>https://iamjoel.github.io/dialogue/1-self/1-happiness/2-mind/terms/fair</guid>
-    <description> 人患寡而患不均。 公平是相同情况下没有差异。同一个职位，业绩相同，收入相同是公平(投入相同，产出相同)。但相同情况并不是特别好界定。比如，同一个职位，业绩相同，收入相同，但是工作时间不同，是不是公平？发生火灾了，不管谁先走，是不是对其他人的不公平？ 公平很难。不公平是常态。接受不公平。有权利的人，就是有优先权。 我们追求的公平更多的是不透明情况下的差异。晋升规则，薪资体系是公开透明的。那在某种程度上就算公平了。 公平有利于激发积极性（本质是透明）。因为规则是可预期的。.</description>
-    <pubDate>Wed, 13 Mar 2024 02:16:00 GMT</pubDate>
+    <title>ThoughtWorks 技术雷达</title>
+    <link>https://iamjoel.github.io/dialogue/1-self/3-wealth/1-skill/coding/data/thoughtworks-radar</link>
+    <guid>https://iamjoel.github.io/dialogue/1-self/3-wealth/1-skill/coding/data/thoughtworks-radar</guid>
+    <description>网址。 象限和环 会把内容分成4个象限: 技术，平台，工具，语言&amp;框架。 环有：采纳，实验，评估，暂缓。 象限： 技术(Techniques): 软件开发过程的要素。如体验设计；以及构建软件的方法，例如微服务。 平台(Platforms): 构建软件的基础包括移动技术（如 Android）、虚拟平台（如 JVM）或通用平台（如混合云）。 工具(Tools): 构建软件的基础包括移动技术（如 Android）、虚拟平台（如 JVM）或通用平台（如混合云）。 语言&amp;框架(Languages and Frameworks): 语言和框架。其中包括 Java 和 Python 等编程语言，但现在主要关注 Gradle、Jetpack 和 React.</description>
+    <pubDate>Thu, 11 Apr 2024 08:00:54 GMT</pubDate>
   </item>
     </channel>
   </rss>

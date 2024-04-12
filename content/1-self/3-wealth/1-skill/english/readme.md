@@ -522,3 +522,8 @@ ticket  office 售票局
 * you are homesick : miss your home 
 * continent 大陆，洲
 * visa 签证
+
+## 04/12
+* suppose 猜，估计
+* put on a movie 放电影
+* have a jacket on 穿着皮夹克
