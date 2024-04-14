@@ -3,7 +3,7 @@ title: ThoughtWorks 技术雷达
 tags: suggestion
 ---
 
-[网址](https://www.thoughtworks.com/radar)。
+[网址](https://www.thoughtworks.com/radar)。可以[做自己的技术雷达](https://www.thoughtworks.com/radar/byor)，[制作](https://radar.thoughtworks.com/)。
 
 ## [象限和环](https://www.thoughtworks.com/radar/faq)
 会把内容分成4个象限: 技术，平台，工具，语言&框架。

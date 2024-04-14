@@ -3,7 +3,7 @@ title: LLM
 ---
 * [OpenAI](./openai.md)
 * [Claude](./claude.md)
-* [Bard](./bard.md)
+* [Gemini](./gemini.md) ~~[Bard](./bard.md) 改名为 Gemini 了~~
 * [Cohere](./cohere.md)
 * [Moonshot AI](./moonshot.md)
 * [Grok-1](https://github.com/xai-org/grok-1) 马斯克开源的模型。是目前(2024/3/18)参数最多的开源模型,参数 341B 是 Llama 的3倍。

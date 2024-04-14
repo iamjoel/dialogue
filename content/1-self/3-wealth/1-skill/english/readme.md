@@ -4,107 +4,107 @@ title: 英语
 * [人人都能用英语](./why/every-one-can-use-english/readme.md)
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
-## 笔记
-### 02/25
+* 笔记
+* 02/25
 * bag 有行李的意思 flight 航班
 * board game 桌游 video game 电子游戏
 * take the elevator 坐电梯，用 take
 * restroom 洗手间
-* hall 走廊，大厅 there  is a restroom at the  end of the  hall 
-* backpack  背包 
-* pack 打包。Mom  always pack too  many clothes 
+* hall 走廊，大厅 there is a restroom at the end of the hall
+* backpack 背包
+* pack 打包。Mom always pack too many clothes
   * package 包裹
 * how far 问离多远的.how far is the hotel from the airport
 * take a tour of some place 参观
 * spend time with/ spend the day with the / spend some time doing sth
 * have fun doing 做啥事很开心
 
-### 02/26
-* 在未来的某个时间点正在做什么也可以用现在进行时。 I am doing my homework tomorrow evening 
-ticket  office 售票局
+* 02/26
+* 在未来的某个时间点正在做什么也可以用现在进行时。 I am doing my homework tomorrow evening
+* ticket office 售票局
 
-### 02/27
-* get  lost in 除了有迷路的意思，还有被…迷住的引申意。 如 I get  lost in her beautiful eyes 
+* 02/27
+* get lost in 除了有迷路的意思，还有被…迷住的引申意。 如 I get lost in her beautiful eyes
 * back 还有背的意思。 backpack
 * get some rest 休息一下
-* go to  the doctor 看医生
+* go to the doctor 看医生
 * call a doctor 叫医生
 * fall down 摔倒
 * dentist 牙医
-* toothache 牙痛。She have a toothache 
+* toothache 牙痛。She have a toothache
 * broke leg 摔断腿; broke teeth
 * make an appointment 预约。make an appointment for some time/ for sb
 * available 有空
 
-### 02/28
-* good for my  body 对我的身体好
+* 02/28
+* good for my body 对我的身体好
 * have a cold 感冒了
-* pick up  something 捡起…
+* pick up something 捡起…
 * carry bags 拿着行李
 
-## 02/29
+* 02/29
 * tourist 旅行者
-* take a tour of , on  a tour  of
+* take a tour of , on a tour of
 
-## 03/01
-* have fun doing 
+* 03/01
+* have fun doing
 * dessert 甜点
-* start doing 
+* start doing
 * fall down 摔倒
 * on vacation 在度假
 
-## 03/02
+* 03/02
 * vegetables are good for the body. 注意 body 前有 the
 
-## 03/03
+* 03/03
 * on a trial 在一条小道上
 * ask for help 寻求方式
 * could I speak to sb 我能和谁打电话吗
-* by some time 在某个时间之前 I need to complete the work by Monday 
+* by some time 在某个时间之前 I need to complete the work by Monday
 * work from home 在家办公
 * start a new business 开始一项新业务
 * unfortunately 不幸的是
 
-## 03/04
+* 03/04
 * regular meeting 例会
 * rock climbing 攀岩
 * have a competition 比赛
 * ask sb for help 寻求帮助
 * isn't working 不工作了
 
-## 03/05
+* 03/05
 * daily meeting 每日例会
 * meet to do sth 见面做某事
 * visit sb 看望某人
 
-## 03/06
+* 03/06
 * red envelope 红包
 * Chinese new year 春节
-* such a  good boy 
-* take a video of sth 
+* such a good boy
+* take a video of sth
 * gray hair 白头发
 * Everyone gets old.
-* let's hurry. hurry  后面没有 up
+* let's hurry. hurry 后面没有 up
 
-## 03/07
+* 03/07
 * camp 野营的动词
-* he was back from  the business trip. 他出差回来了
+* he was back from the business trip. 他出差回来了
 * hiking 徒步旅行
-* on new year's day  在元旦
+* on new year's day 在元旦
 
-## 03/08
+* 03/08
 * christmas eve 平安夜
 * wear read 穿红色
-* have some snacks 
+* have some snacks
 * build a snowman 堆雪人
 * make dumplings 包饺子
 * spend the whole day doing 注意有 the
 * be planning to do 跟一个未来的时间。 表示在未来的某个时间计划
-* shopping for sth 
+* shopping for sth
 * have a party 办聚会
 
-## 03/09
-* hurt 的过去式还是 hurt 
+* 03/09
+* hurt 的过去式还是 hurt
 * on a business trip 在出差
 * pool 游泳池
 * shampoo 洗发水
@@ -112,66 +112,66 @@ ticket  office 售票局
 * garage 车库
 * for sale 在出售
 * sink 水槽
-* at the front of  sth. 在 sth 内部的前面。
+* at the front of sth. 在 sth 内部的前面。
 * couch 沙发
-* singer room  单人房
+* singer room 单人房
 
-## 03/10
+* 03/10
 * trouble 用中文谐音为出包
 * dresser 柜子，衣柜
 * shelf 架子
 * wooden 木质的
-* paint sth  pink  把... 涂成...颜色
-* make some changes to sth 
-* play  upstairs 在楼上玩，upstairs 有 s
+* paint sth pink 把... 涂成...颜色
+* make some changes to sth
+* play upstairs 在楼上玩，upstairs 有 s
 * go upstairs 上楼。有s。
 * a good size 大小合适
 * bathroom 除了浴室还有洗手间的意思
 
-## 03/11
+* 03/11
 * living room walls. room 后面不带所有格
-* textbook  课本
+* textbook 课本
 * wash the dishes 洗碗
 * get some sleep 睡一会
 * sleep enough 睡够了
 * be upset 不开心
-* mad 生气 和 angry  同义词。be mad at sb
+* mad 生气 和 angry 同义词。be mad at sb
 * makeup 化妆品
 * wear makeup 化妆
-* get some fresh air 
-* go  for  a walk 
+* get some fresh air
+* go for a walk
 
-## 03/12
+* 03/12
 * jump on me 跳到我身上
 * heavy rain 大雨
 * storm: rain hard
 * talk a lot 说太多话
 * usually 平时
-* how do you feel 
-* call sb 给...打电话
+* how do you feel
+* call sb 给...打电话
 
-## 03/13
+* 03/13
 * wear makeup 化妆
-* what happened to / what's wrong with 
-* sleep for too long 
-* storm 暴风雨是可数的。 my cat is afraid of storms 
+* what happened to / what's wrong with
+* sleep for too long
+* storm 暴风雨是可数的。 my cat is afraid of storms
 * put a check 打勾
-* do well on the test 
+* do well on the test
 * put your hands up 举手
 * in class 在上课
 * what does sth mean
-* cafeteria： a place for eatting 食堂
+* cafeteria： a place for eating 食堂
 * do sth in pairs 两人结对做
 * in group of three
 * is taken 被占用的
-* sth be clear to sb 
+* sth be clear to sb
 * take notes 做笔记
 * have a busy day 忙了一天
 
-## 03/14
+* 03/14
 * ticket office 售票处
-* be  far from 
-* blond hair  金发
+* be far from
+* blond hair 金发
 * sit for too long. 坐太久 注意有 for
 * my back hurts. my back 是单数，所以用 hurts
 * timid 害羞的
@@ -180,16 +180,16 @@ ticket  office 售票局
 * how you been 你过得怎么样
 * come to work 来上班
 
-## 03/15
-* stay at work late 
+* 03/15
+* stay at work late
 * resume 简历，摘要。注意英文发音
-* what is it about 
-* take a seat  坐吧
-* this seat is taken 
+* what is it about
+* take a seat 坐吧
+* this seat is taken
 * dining hall 食堂。和 cafeteria 同义
 
-## 03/16
-* sit in the seat 
+* 03/16
+* sit in the
 * put a check next to the correct answer
 
 ## 03/17
@@ -527,3 +527,48 @@ ticket  office 售票局
 * suppose 猜，估计
 * put on a movie 放电影
 * have a jacket on 穿着皮夹克
+
+## 04/13
+* responsible person 
+* perfume 香水
+* insect 昆虫，虫子。 I am afraid of insects.
+* lecture 讲座
+* dorm 宿舍
+* a table for four 四人桌
+* omelet 蛋饼
+* clown 小丑
+* lemonade 柠檬汁
+* utensil 餐具
+* coconut 椰子
+* sour 酸的
+* anywhere.不管怎样 I joined the meeting anywhere 
+* be popular with sb 
+* puzzle 拼图
+tuna  金枪鱼
+* be allergic to  过敏
+* stay tuned 敬请关注
+* jar 罐头
+
+## 14
+* sore 酸痛，常用来形容喉咙
+* elbow  手肘
+* aspirin 阿司匹林
+* bandage  绷带
+* in connect with 
+* mop 拖把，拖
+* vacuum 吸尘器
+* rug 毯子 carpet 
+* pot 锅
+* freezer 冰柜
+* the old food 
+* the copy machine is in the copy room 
+* in fashion  很时尚
+* outfit 衣服
+* agenda 议程
+* an outgoing person 
+* fashion show 时装秀
+* playground  有游乐场的意思
+* shave 剃 shave the beard/face 刮胡子
+* mayor 市长
+* cushion 坐垫
+* plan on doing 计划做某事
