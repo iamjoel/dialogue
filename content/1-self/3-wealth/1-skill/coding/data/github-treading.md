@@ -6,4 +6,6 @@ title: GitHub Treading
 
 * [GitHub Treading 历史数据](https://github.com/yangwenmai/github-trending-backup)
 
-GitHub 项目排名: [Gitstar Ranking](https://gitstar-ranking.com/repositories)
+## 不同类型的排行
+* 项目排名: [Gitstar Ranking](https://gitstar-ranking.com/repositories)
+* 中国用户排行: [GitHub China User Ranking](https://wangchujiang.com/github-rank/users.china.html)
