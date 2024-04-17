@@ -571,3 +571,25 @@ tuna  金枪鱼
 * mayor 市长
 * cushion 坐垫
 * plan on doing 计划做某事。
+* relative 亲戚，可数
+* spouse 伴侣
+* niece 侄女
+* nephew 外甥
+* barber 理发师 get  a  haircut 
+* get a haircut 理发
+* be divorced 离婚了
+* annoying 烦人的
+
+## 15
+* make a feature plan 
+* throw away: throw to the rustbin 
+* sleeve 袖子
+* checkout  收银台
+* afterward 之后
+* take a  selfie 自拍
+* it looks great on you 
+
+## 16
+* sweetshirt 运动衫
+* some money discount 优惠多少 be on  sale 
+* embassy 大使馆
