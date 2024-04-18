@@ -593,3 +593,10 @@ tuna  金枪鱼
 * sweetshirt 运动衫
 * some money discount 优惠多少 be on  sale 
 * embassy 大使馆
+
+## 17
+* a great social life
+* have sb over 邀请某人来家里
+* sb avoid sb 拒绝接触某人 stay away from sb 
+* put sth away 收起来
+
