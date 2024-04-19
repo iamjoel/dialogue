@@ -44,10 +44,6 @@ LLM 是大语言模型。
 ## 资源
 * 国内媒体
   * [机器之心](https://www.jiqizhixin.com/)
+  * 极客公园
   * 量子位
-
-
-
-
-
-
+  * [雷锋网](https://www.leiphone.com/)

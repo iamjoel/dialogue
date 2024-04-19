@@ -26,6 +26,18 @@
     <loc>https://iamjoel.github.io/dialogue/1-self/0-worldview/habbit/sop/sop</loc>
     <lastmod>2024-03-27T02:38:07.758Z</lastmod>
   </url><url>
+    <loc>https://iamjoel.github.io/dialogue/1-self/0-worldview/km/contents/atom</loc>
+    <lastmod>2024-04-19T03:09:51.563Z</lastmod>
+  </url><url>
+    <loc>https://iamjoel.github.io/dialogue/1-self/0-worldview/km/contents/need-structed</loc>
+    <lastmod>2024-04-19T03:21:18.138Z</lastmod>
+  </url><url>
+    <loc>https://iamjoel.github.io/dialogue/1-self/0-worldview/km/contents/structed-schema/product</loc>
+    <lastmod>2024-04-19T03:25:51.254Z</lastmod>
+  </url><url>
+    <loc>https://iamjoel.github.io/dialogue/1-self/0-worldview/km/readme</loc>
+    <lastmod>2024-04-19T01:20:00.040Z</lastmod>
+  </url><url>
     <loc>https://iamjoel.github.io/dialogue/1-self/0-worldview/mind/think-in-different-angles</loc>
     <lastmod>2024-04-09T09:11:03.772Z</lastmod>
   </url><url>
@@ -986,9 +998,6 @@
     <loc>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai-old/infra/llm/gemini</loc>
     <lastmod>2024-04-12T08:25:02.767Z</lastmod>
   </url><url>
-    <loc>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai-old/infra/llm/llama</loc>
-    <lastmod>2023-12-27T06:09:44.782Z</lastmod>
-  </url><url>
     <loc>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai-old/infra/llm/moonshot</loc>
     <lastmod>2023-12-27T06:08:23.538Z</lastmod>
   </url><url>
@@ -1070,6 +1079,9 @@
     <loc>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai-old/solution/readme</loc>
     <lastmod>2023-12-19T14:53:27.867Z</lastmod>
   </url><url>
+    <loc>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/agent/readme</loc>
+    <lastmod>2024-04-18T10:03:37.811Z</lastmod>
+  </url><url>
     <loc>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/model/background/architecture/moe</loc>
     <lastmod>2024-04-16T09:01:10.469Z</lastmod>
   </url><url>
@@ -1079,6 +1091,9 @@
     <loc>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/model/benchmark/core/AI2-reasoning-challenge</loc>
     <lastmod>2024-04-16T09:59:39.076Z</lastmod>
   </url><url>
+    <loc>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/model/core/readme</loc>
+    <lastmod>2024-04-17T10:03:23.050Z</lastmod>
+  </url><url>
     <loc>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/model/core/reasoning-model/openai-gpt</loc>
     <lastmod>2024-04-16T08:56:07.276Z</lastmod>
   </url><url>
@@ -1087,6 +1102,15 @@
   </url><url>
     <loc>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/model/readme</loc>
     <lastmod>2024-04-17T03:39:52.700Z</lastmod>
+  </url><url>
+    <loc>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/prompt-engineer/readme</loc>
+    <lastmod>2024-04-17T10:01:46.138Z</lastmod>
+  </url><url>
+    <loc>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/readme</loc>
+    <lastmod>2024-04-17T10:14:52.590Z</lastmod>
+  </url><url>
+    <loc>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/readme</loc>
+    <lastmod>2024-04-17T09:58:24.757Z</lastmod>
   </url><url>
     <loc>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/schema</loc>
     <lastmod>2024-04-16T08:12:16.398Z</lastmod>
@@ -1268,15 +1292,6 @@
     <loc>https://iamjoel.github.io/dialogue/</loc>
     <lastmod>2024-01-30T09:35:53.902Z</lastmod>
   </url><url>
-    <loc>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/readme</loc>
-    <lastmod>2024-04-17T09:58:24.757Z</lastmod>
-  </url><url>
-    <loc>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/prompt-engineer/readme</loc>
-    <lastmod>2024-04-17T10:01:46.138Z</lastmod>
-  </url><url>
-    <loc>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/model/core/readme</loc>
-    <lastmod>2024-04-17T10:03:23.050Z</lastmod>
-  </url><url>
-    <loc>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/readme</loc>
-    <lastmod>2024-04-17T10:14:52.590Z</lastmod>
+    <loc>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/model/core/reasoning-model/llama/readme</loc>
+    <lastmod>2023-12-27T06:09:44.782Z</lastmod>
   </url></urlset>

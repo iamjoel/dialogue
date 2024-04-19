@@ -6,16 +6,46 @@
       <description>Last 10 notes on Joel 的大唠嗑</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>产品 Schema</title>
+    <link>https://iamjoel.github.io/dialogue/1-self/0-worldview/km/contents/structed-schema/product</link>
+    <guid>https://iamjoel.github.io/dialogue/1-self/0-worldview/km/contents/structed-schema/product</guid>
+    <description>产品简介 基础信息 官网 厂商 规格 紧紧围绕解决的问题。 优势 最多三条。 问题 最多三条。.</description>
+    <pubDate>Fri, 19 Apr 2024 03:25:51 GMT</pubDate>
+  </item><item>
+    <title>记录需要结构化吗?</title>
+    <link>https://iamjoel.github.io/dialogue/1-self/0-worldview/km/contents/need-structed</link>
+    <guid>https://iamjoel.github.io/dialogue/1-self/0-worldview/km/contents/need-structed</guid>
+    <description>记录结构化是指：同类记录有同样的结构(字段)。比如: 联系人的记录：会包含联系人姓名，手机号，备注。 优势 有利于检索关键信息。 问题 增加创建新的文档类型记录的成本。因为要先建结构。 我的看法 对于一些数量多(成熟)的同类记录。要建结构。 对于一些数量少(不成熟)的同类记录。可以新不建结构。等数量多后再加结构。.</description>
+    <pubDate>Fri, 19 Apr 2024 03:21:18 GMT</pubDate>
+  </item><item>
+    <title>原子化记录</title>
+    <link>https://iamjoel.github.io/dialogue/1-self/0-worldview/km/contents/atom</link>
+    <guid>https://iamjoel.github.io/dialogue/1-self/0-worldview/km/contents/atom</guid>
+    <description>原子化记录就是一条记录就写清楚一件小的事。很像写代码，一个函数只做一件事。 优势 方便记录之间的关联和组合。 记录的成本低。 问题 不方便通过文件名来查找。记录会很多，层级会比较深。解决方案: 通过关联和关键字来查找。 我的看法 推荐。.</description>
+    <pubDate>Fri, 19 Apr 2024 03:09:51 GMT</pubDate>
+  </item><item>
+    <title>知识管理</title>
+    <link>https://iamjoel.github.io/dialogue/1-self/0-worldview/km/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/1-self/0-worldview/km/readme</guid>
+    <description>目的 1 快速检索 遇到问题时，能快速到答案。 创建新的内容时，能快速素材。 2 获得新的洞见 通过回顾信息，发现新的洞见。 考虑的问题 一条记录的大小: 原子化记录。 记录需要结构化吗? 资源 构建基于Obsidian的学习生产力系统 .</description>
+    <pubDate>Fri, 19 Apr 2024 01:20:00 GMT</pubDate>
+  </item><item>
+    <title>Agent</title>
+    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/agent/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/agent/readme</guid>
+    <description></description>
+    <pubDate>Thu, 18 Apr 2024 10:03:37 GMT</pubDate>
+  </item><item>
     <title>LLM</title>
     <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/readme</link>
     <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/readme</guid>
-    <description>是什么 LLM 是大语言模型。 解决什么问题 提供智能服务。可辅助甚至替代知识工作者的工作。比如，写文章，做图，数据分析，客服。 如果能够达到 AGI 。那么也就不需要知识工作者了。。。 价值 降低成本(具体数据？)。减少知识工作者的工作。 提高效率(具体数据？)。形成 SOP 后，可以自动化。 评估 能力 推理能力。数学推理。常识推理。 多任务。 参数 Context 长度。 输出速度。 费用。 架构。 参数。 排行榜(LLM Leaderboard) Vellum LLM Leaderboard 包含开源和闭源模型。 Open LLM Leaderboard 只有开源模型。 评估工具: Language Model Evaluation Harness 关键结论 关键技术 关键公司 资源 国内媒体 机器之心 量子位 .</description>
+    <description>是什么 LLM 是大语言模型。 解决什么问题 提供智能服务。可辅助甚至替代知识工作者的工作。比如，写文章，做图，数据分析，客服。 如果能够达到 AGI 。那么也就不需要知识工作者了。。。 价值 降低成本(具体数据？)。减少知识工作者的工作。 提高效率(具体数据？)。形成 SOP 后，可以自动化。 评估 能力 推理能力。数学推理。常识推理。 多任务。 参数 Context 长度。 输出速度。 费用。 架构。 参数。 排行榜(LLM Leaderboard) Vellum LLM Leaderboard 包含开源和闭源模型。 Open LLM Leaderboard 只有开源模型。 评估工具: Language Model Evaluation Harness 关键结论 关键技术 关键公司 资源 国内媒体 机器之心 极客公园 量子位 雷锋网 .</description>
     <pubDate>Wed, 17 Apr 2024 10:14:52 GMT</pubDate>
   </item><item>
     <title>模型</title>
     <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/model/core/readme</link>
     <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/model/core/readme</guid>
-    <description>列表 推理模型 聊天模型 文本生成模型 Embedding 模型 Rerank 模型 文生图 文转语音 语音转文 文生视频 .</description>
+    <description>概述 开源模型最强(截止至 2024/4/18): Llama 3(官方自称)。 列表 推理模型 聊天模型 文本生成模型 Embedding 模型 Rerank 模型 文生图 文转语音 语音转文 文生视频 .</description>
     <pubDate>Wed, 17 Apr 2024 10:03:23 GMT</pubDate>
   </item><item>
     <title>Prompt 工程</title>
@@ -35,36 +65,6 @@
     <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/model/readme</guid>
     <description></description>
     <pubDate>Wed, 17 Apr 2024 03:39:52 GMT</pubDate>
-  </item><item>
-    <title>AI2 Reasoning Challenge</title>
-    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/model/benchmark/core/AI2-reasoning-challenge</link>
-    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/model/benchmark/core/AI2-reasoning-challenge</guid>
-    <description> a set of grade-school science questions 考察 AI 的推理能力。 简介 官网 简称 ARC。 语言：英文 题型：选择题。 涵盖内容：科学问题 难度： 数据集仅包含真实的小学科学问题（为人类测试而编写） ARC 问题集分为挑战集和简单集，其中挑战集仅包含基于检索的算法和单词共现算法都错误回答的问题。 资源 论文：Think you have Solved Question Answering? Try ARC, the AI2 Reasoning Challenge .</description>
-    <pubDate>Tue, 16 Apr 2024 09:59:39 GMT</pubDate>
-  </item><item>
-    <title>模型 Schema</title>
-    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/model/core/schema</link>
-    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/model/core/schema</guid>
-    <description>简介 厂商: 架构: 模型 名称: 简介: 参数: Benchmark: .</description>
-    <pubDate>Tue, 16 Apr 2024 09:03:06 GMT</pubDate>
-  </item><item>
-    <title>transform</title>
-    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/model/background/architecture/transform</link>
-    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/model/background/architecture/transform</guid>
-    <description></description>
-    <pubDate>Tue, 16 Apr 2024 09:01:20 GMT</pubDate>
-  </item><item>
-    <title>moe</title>
-    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/model/background/architecture/moe</link>
-    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/model/background/architecture/moe</guid>
-    <description></description>
-    <pubDate>Tue, 16 Apr 2024 09:01:10 GMT</pubDate>
-  </item><item>
-    <title>OpenAI reasoning model</title>
-    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/model/core/reasoning-model/openai-gpt</link>
-    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/model/core/reasoning-model/openai-gpt</guid>
-    <description>简介 厂商: 架构: 模型 名称: 简介: 参数: Benchmark: .</description>
-    <pubDate>Tue, 16 Apr 2024 08:56:07 GMT</pubDate>
   </item>
     </channel>
   </rss>

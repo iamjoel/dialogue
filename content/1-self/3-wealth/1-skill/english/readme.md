@@ -600,3 +600,13 @@ tuna  金枪鱼
 * sb avoid sb 拒绝接触某人 stay away from sb 
 * put sth away 收起来
 
+## 19
+* celebrity 名人
+* win first place 第一名
+* chess practice 国际象棋训练
+* religion 政治
+* nightlife, nightclub 
+* pay sb back 还钱
+* shrimp 虾 shrimp soup 
+* sweet roll 甜面包卷
+
