@@ -6,6 +6,18 @@
       <description>Last 10 notes on Joel 的大唠嗑</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>AI 场景</title>
+    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/product/scenario</link>
+    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/product/scenario</guid>
+    <description>各厂数据团队都是怎么用 AI 的？—LLM 实战学习笔记2 SQL 纠错工具 GPT 套壳的数据“分析师” 知识库问答 对话取数→输出（图表/看板/可编辑文件/报表…） 功能配置AI 助手 归因分析报告（AI 做总计） .</description>
+    <pubDate>Sat, 20 Apr 2024 16:07:54 GMT</pubDate>
+  </item><item>
+    <title>欲望</title>
+    <link>https://iamjoel.github.io/dialogue/1-self/0-worldview/mind/desire</link>
+    <guid>https://iamjoel.github.io/dialogue/1-self/0-worldview/mind/desire</guid>
+    <description>欲望是一把双刃剑。欲望满足时快乐的。然后呢，追求下一个让人更爽的欲望。如果没有更爽的欲望，或者欲望实现不了呢。欲望让我们冲上云霄，也让我们跌落谷底。.</description>
+    <pubDate>Sat, 20 Apr 2024 15:45:35 GMT</pubDate>
+  </item><item>
     <title>产品 Schema</title>
     <link>https://iamjoel.github.io/dialogue/1-self/0-worldview/km/contents/structed-schema/product</link>
     <guid>https://iamjoel.github.io/dialogue/1-self/0-worldview/km/contents/structed-schema/product</guid>
@@ -53,18 +65,6 @@
     <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/prompt-engineer/readme</guid>
     <description></description>
     <pubDate>Wed, 17 Apr 2024 10:01:46 GMT</pubDate>
-  </item><item>
-    <title>AI 技术</title>
-    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/readme</guid>
-    <description>内容 LLM 模型 Prompt 工程 RAG Agent .</description>
-    <pubDate>Wed, 17 Apr 2024 09:58:24 GMT</pubDate>
-  </item><item>
-    <title>readme</title>
-    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/model/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/model/readme</guid>
-    <description></description>
-    <pubDate>Wed, 17 Apr 2024 03:39:52 GMT</pubDate>
   </item>
     </channel>
   </rss>

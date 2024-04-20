@@ -610,3 +610,7 @@ tuna  金枪鱼
 * shrimp 虾 shrimp soup 
 * sweet roll 甜面包卷
 
+## 20
+* chili 辣椒
+* champagne 香槟
+* sauce 酱
