@@ -6,5 +6,5 @@ title: AI 技术
 * [LLM](./llm/readme)
   * [模型](./llm/model/core/readme.md)
   * [Prompt 工程](./llm/prompt-engineer/readme.md)
-* RAG
+* [RAG](./tech/rag/readme.md)
 * Agent

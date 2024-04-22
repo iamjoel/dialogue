@@ -6,6 +6,12 @@
       <description>Last 10 notes on Joel 的大唠嗑</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>landscape-of-ai-agent-architectures-survey</title>
+    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/agent/resource/landscape-of-ai-agent-architectures-survey</link>
+    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/agent/resource/landscape-of-ai-agent-architectures-survey</guid>
+    <description></description>
+    <pubDate>Mon, 22 Apr 2024 03:13:30 GMT</pubDate>
+  </item><item>
     <title>优先选择分类还是标签</title>
     <link>https://iamjoel.github.io/dialogue/1-self/0-worldview/km/contents/prefer-classify-or-tag</link>
     <guid>https://iamjoel.github.io/dialogue/1-self/0-worldview/km/contents/prefer-classify-or-tag</guid>
@@ -45,7 +51,7 @@
     <title>知识管理</title>
     <link>https://iamjoel.github.io/dialogue/1-self/0-worldview/km/readme</link>
     <guid>https://iamjoel.github.io/dialogue/1-self/0-worldview/km/readme</guid>
-    <description>目的 1 快速检索 遇到问题时，能快速到答案。 创建新的内容时，能快速素材。 2 获得新的洞见 通过回顾信息，发现新的洞见。 解决方案 标注出重点。 考虑的问题 一条记录的大小: 原子化记录。 优先选择分类还是标签。 记录需要结构化吗?。 资源 构建基于Obsidian的学习生产力系统 .</description>
+    <description>目的 1 快速检索 遇到问题时，能快速到答案。 创建新的内容时，能快速素材。 2 获得新的洞见 通过回顾信息，发现新的洞见。 解决方案 标注出重点。 强大的检索器。内容本身是适合检索的。 考虑的问题 一条记录的大小: 原子化记录。 优先选择分类还是标签。 记录需要结构化吗?。 资源 构建基于Obsidian的学习生产力系统 .</description>
     <pubDate>Fri, 19 Apr 2024 01:20:00 GMT</pubDate>
   </item><item>
     <title>Agent</title>
@@ -59,12 +65,6 @@
     <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/readme</guid>
     <description>是什么 LLM 是大语言模型。 解决什么问题 提供智能服务。可辅助甚至替代知识工作者的工作。比如，写文章，做图，数据分析，客服。 如果能够达到 AGI 。那么也就不需要知识工作者了。。。 价值 降低成本(具体数据？)。减少知识工作者的工作。 提高效率(具体数据？)。形成 SOP 后，可以自动化。 评估 能力 推理能力。数学推理。常识推理。 多任务。 参数 Context 长度。 输出速度。 费用。 架构。 参数。 排行榜(LLM Leaderboard) Vellum LLM Leaderboard 包含开源和闭源模型。 Open LLM Leaderboard 只有开源模型。 评估工具: Language Model Evaluation Harness 关键结论 关键技术 关键公司 资源 NLP 前沿 国内媒体 机器之心 极客公园 量子位 雷锋网 .</description>
     <pubDate>Wed, 17 Apr 2024 10:14:52 GMT</pubDate>
-  </item><item>
-    <title>模型</title>
-    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/model/core/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/model/core/readme</guid>
-    <description>概述 开源模型最强(截止至 2024/4/18): Llama 3(官方自称)。 列表 推理模型 聊天模型 文本生成模型 Embedding 模型 Rerank 模型 文生图 文转语音 语音转文 文生视频 .</description>
-    <pubDate>Wed, 17 Apr 2024 10:03:23 GMT</pubDate>
   </item>
     </channel>
   </rss>
