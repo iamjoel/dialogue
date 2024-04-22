@@ -6,6 +6,12 @@
       <description>Last 10 notes on Joel 的大唠嗑</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>优先选择分类还是标签</title>
+    <link>https://iamjoel.github.io/dialogue/1-self/0-worldview/km/contents/prefer-classify-or-tag</link>
+    <guid>https://iamjoel.github.io/dialogue/1-self/0-worldview/km/contents/prefer-classify-or-tag</guid>
+    <description>优先选择标签而不是分类。 设定分类很难 理想的分类是： 1 合适的分类维度。通俗来说，就是按什么来分类。 2 分类之间应该是 MECE(互相独立，完全穷尽)。 但实现上很难的实现。对一个领域不了解时，无法选择合适的分类，也无法做到 MECE。 当一个领域很大时，也是很难做。 随着领域的变化，分类也可能变化。 分类是很文件夹绑定的，分类的变化会导致文件夹的变化，就会导致文件路径的变化。 选择标签很容易，且灵活 用标签不会存在这个问题。标签可以随时添加，删除，修改。 标签的修改不会导致文件路径的变化。 标签是信息分组的一个方式。不同的分组方式，代表着不同的视角。 最后使用的形式 很粗的分类。每个内容有很多标签。比如，产品。每个产品都有很多标签。 情况是，一个文件目录(分类)下会有很多文件。.</description>
+    <pubDate>Mon, 22 Apr 2024 02:39:05 GMT</pubDate>
+  </item><item>
     <title>AI 场景</title>
     <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/product/scenario</link>
     <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/product/scenario</guid>
@@ -39,7 +45,7 @@
     <title>知识管理</title>
     <link>https://iamjoel.github.io/dialogue/1-self/0-worldview/km/readme</link>
     <guid>https://iamjoel.github.io/dialogue/1-self/0-worldview/km/readme</guid>
-    <description>目的 1 快速检索 遇到问题时，能快速到答案。 创建新的内容时，能快速素材。 2 获得新的洞见 通过回顾信息，发现新的洞见。 考虑的问题 一条记录的大小: 原子化记录。 记录需要结构化吗? 资源 构建基于Obsidian的学习生产力系统 .</description>
+    <description>目的 1 快速检索 遇到问题时，能快速到答案。 创建新的内容时，能快速素材。 2 获得新的洞见 通过回顾信息，发现新的洞见。 解决方案 标注出重点。 考虑的问题 一条记录的大小: 原子化记录。 优先选择分类还是标签。 记录需要结构化吗?。 资源 构建基于Obsidian的学习生产力系统 .</description>
     <pubDate>Fri, 19 Apr 2024 01:20:00 GMT</pubDate>
   </item><item>
     <title>Agent</title>
@@ -51,7 +57,7 @@
     <title>LLM</title>
     <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/readme</link>
     <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/readme</guid>
-    <description>是什么 LLM 是大语言模型。 解决什么问题 提供智能服务。可辅助甚至替代知识工作者的工作。比如，写文章，做图，数据分析，客服。 如果能够达到 AGI 。那么也就不需要知识工作者了。。。 价值 降低成本(具体数据？)。减少知识工作者的工作。 提高效率(具体数据？)。形成 SOP 后，可以自动化。 评估 能力 推理能力。数学推理。常识推理。 多任务。 参数 Context 长度。 输出速度。 费用。 架构。 参数。 排行榜(LLM Leaderboard) Vellum LLM Leaderboard 包含开源和闭源模型。 Open LLM Leaderboard 只有开源模型。 评估工具: Language Model Evaluation Harness 关键结论 关键技术 关键公司 资源 国内媒体 机器之心 极客公园 量子位 雷锋网 .</description>
+    <description>是什么 LLM 是大语言模型。 解决什么问题 提供智能服务。可辅助甚至替代知识工作者的工作。比如，写文章，做图，数据分析，客服。 如果能够达到 AGI 。那么也就不需要知识工作者了。。。 价值 降低成本(具体数据？)。减少知识工作者的工作。 提高效率(具体数据？)。形成 SOP 后，可以自动化。 评估 能力 推理能力。数学推理。常识推理。 多任务。 参数 Context 长度。 输出速度。 费用。 架构。 参数。 排行榜(LLM Leaderboard) Vellum LLM Leaderboard 包含开源和闭源模型。 Open LLM Leaderboard 只有开源模型。 评估工具: Language Model Evaluation Harness 关键结论 关键技术 关键公司 资源 NLP 前沿 国内媒体 机器之心 极客公园 量子位 雷锋网 .</description>
     <pubDate>Wed, 17 Apr 2024 10:14:52 GMT</pubDate>
   </item><item>
     <title>模型</title>
@@ -59,12 +65,6 @@
     <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/model/core/readme</guid>
     <description>概述 开源模型最强(截止至 2024/4/18): Llama 3(官方自称)。 列表 推理模型 聊天模型 文本生成模型 Embedding 模型 Rerank 模型 文生图 文转语音 语音转文 文生视频 .</description>
     <pubDate>Wed, 17 Apr 2024 10:03:23 GMT</pubDate>
-  </item><item>
-    <title>Prompt 工程</title>
-    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/prompt-engineer/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/prompt-engineer/readme</guid>
-    <description></description>
-    <pubDate>Wed, 17 Apr 2024 10:01:46 GMT</pubDate>
   </item>
     </channel>
   </rss>

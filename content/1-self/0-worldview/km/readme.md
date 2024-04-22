@@ -10,9 +10,14 @@ title: 知识管理
 ### 2 获得新的洞见
 通过回顾信息，发现新的洞见。
 
+## 解决方案
+标注出重点。
+
 ## 考虑的问题
 1. 一条记录的大小: [原子化记录](./contents/atom.md)。
-2. [记录需要结构化吗?](./contents/need-structed.md)
+2. [优先选择分类还是标签](./contents/prefer-classify-or-tag.md)。
+3. [记录需要结构化吗?](./contents/need-structed.md)。
+
 
 ## 资源
 * [构建基于Obsidian的学习生产力系统](https://news.dailyup.blog/p/constructing-a-learning-productivity-system-based-on-obsidian#5-)

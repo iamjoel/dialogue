@@ -42,6 +42,7 @@ LLM 是大语言模型。
 
 
 ## 资源
+* NLP 前沿
 * 国内媒体
   * [机器之心](https://www.jiqizhixin.com/)
   * 极客公园

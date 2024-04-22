@@ -614,3 +614,13 @@ tuna  金枪鱼
 * chili 辣椒
 * champagne 香槟
 * sauce 酱
+
+## 21
+* lift the glass and drink the Champagne 
+* wait a while / stay for a while 
+
+## 22
+* sb annoy sb 
+* be double the size of 
+* in a good mood 
+* sandals 凉鞋 前面沙子开头
