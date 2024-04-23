@@ -1,0 +1,21 @@
+{
+	// custom fold sort https://code.visualstudio.com/docs/editor/multi-root-workspaces
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "./content/personal"
+		},
+		{
+			"path": "./content/reality"
+		},
+		{
+			"path": "./content/tech"
+		},
+		{
+			"path": "./content/product"
+		},
+	],
+	"settings": {}
+}
