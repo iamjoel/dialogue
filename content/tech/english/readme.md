@@ -624,3 +624,9 @@ tuna  金枪鱼
 * be double the size of 
 * in a good mood 
 * sandals 凉鞋 前面沙子开头
+
+## 24
+* reach the goal 达成目标
+* sore back 酸痛的背
+* be stressful 有压力的
+* put sth against the wall 
