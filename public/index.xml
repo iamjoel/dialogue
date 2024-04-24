@@ -6,65 +6,65 @@
       <description>Last 10 notes on Joel 的大唠嗑</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>landscape-of-ai-agent-architectures-survey</title>
-    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/agent/resource/landscape-of-ai-agent-architectures-survey</link>
-    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/agent/resource/landscape-of-ai-agent-architectures-survey</guid>
+    <title>AI Pin</title>
+    <link>https://iamjoel.github.io/dialogue/product/3c/ai-pin</link>
+    <guid>https://iamjoel.github.io/dialogue/product/3c/ai-pin</guid>
+    <description>集成 AI 的 可穿戴设备。想要替代智能手机。 用户反馈使用体验不好。等待后续更新与竞品。 基础信息 创始人：从 Apple 出来的 投资机构： openai.</description>
+    <pubDate>Wed, 24 Apr 2024 16:28:53 GMT</pubDate>
+  </item><item>
+    <title>3C 产品</title>
+    <link>https://iamjoel.github.io/dialogue/product/3c/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/product/3c/readme</guid>
+    <description>“3C产品”，是计算机类、通信类和消费类电子产品三者的统称，亦称“信息家电”。例如电脑、平板电脑、手机或数字音频播放器等。.</description>
+    <pubDate>Wed, 24 Apr 2024 16:28:11 GMT</pubDate>
+  </item><item>
+    <title>《成都》</title>
+    <link>https://iamjoel.github.io/dialogue/product/song/folk/chengdu</link>
+    <guid>https://iamjoel.github.io/dialogue/product/song/folk/chengdu</guid>
+    <description>基本信息 歌手: 赵雷 歌词 让我掉下眼泪的 不止昨夜的酒 让我依依不舍的 不止你的温柔 余路还要走多久 你攥着我的手 让我感到为难的 是挣扎的自由 分别总是在九月 回忆是思念的愁 深秋嫩绿的垂柳 亲吻着我额头 在那座阴雨的小城里 我从未忘记你 成都 带不走的 只有你 和我在成都的街头走一走 喔… 直到所有的灯都熄灭了也不停留 你会挽着我的衣袖 我会把手揣进裤兜 走到玉林路的尽头 坐在小酒馆的门口 分别总是在九月 回忆是思念的愁 深秋嫩绿的垂柳 亲吻着我额头 在那座阴雨的小城里 我从未忘记你 成都 带不走的 只有你 和我在成都的街头走一走 喔… 直到所有的灯都熄灭了也不停留 你会挽着我的衣袖 我会把手揣进裤兜 走到玉林路的尽头 坐在小酒馆的门口 和我在成都的街头走一走 喔… 直到所有的灯都熄灭了也不停留 和我在成都的街头走一走 喔… 直到所有的灯都熄灭了也不停留 你会挽着我的衣袖 我会把手揣进裤兜 走到玉林路的尽头 走过小酒馆的门口.</description>
+    <pubDate>Wed, 24 Apr 2024 16:21:41 GMT</pubDate>
+  </item><item>
+    <title>《杀死比尔》</title>
+    <link>https://iamjoel.github.io/dialogue/product/movie/action/kill-bill</link>
+    <guid>https://iamjoel.github.io/dialogue/product/movie/action/kill-bill</guid>
     <description></description>
-    <pubDate>Mon, 22 Apr 2024 03:13:30 GMT</pubDate>
+    <pubDate>Wed, 24 Apr 2024 16:05:41 GMT</pubDate>
   </item><item>
-    <title>优先选择分类还是标签</title>
-    <link>https://iamjoel.github.io/dialogue/1-self/0-worldview/km/contents/prefer-classify-or-tag</link>
-    <guid>https://iamjoel.github.io/dialogue/1-self/0-worldview/km/contents/prefer-classify-or-tag</guid>
-    <description>优先选择标签而不是分类。 设定分类很难 理想的分类是： 1 合适的分类维度。通俗来说，就是按什么来分类。 2 分类之间应该是 MECE(互相独立，完全穷尽)。 但实现上很难的实现。对一个领域不了解时，无法选择合适的分类，也无法做到 MECE。 当一个领域很大时，也是很难做。 随着领域的变化，分类也可能变化。 分类是很文件夹绑定的，分类的变化会导致文件夹的变化，就会导致文件路径的变化。 选择标签很容易，且灵活 用标签不会存在这个问题。标签可以随时添加，删除，修改。 标签的修改不会导致文件路径的变化。 标签是信息分组的一个方式。不同的分组方式，代表着不同的视角。 最后使用的形式 很粗的分类。每个内容有很多标签。比如，产品。每个产品都有很多标签。 情况是，一个文件目录(分类)下会有很多文件。.</description>
-    <pubDate>Mon, 22 Apr 2024 02:39:05 GMT</pubDate>
-  </item><item>
-    <title>AI 场景</title>
-    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/product/scenario</link>
-    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/product/scenario</guid>
-    <description>各厂数据团队都是怎么用 AI 的？—LLM 实战学习笔记2 SQL 纠错工具 GPT 套壳的数据“分析师” 知识库问答 对话取数→输出（图表/看板/可编辑文件/报表…） 功能配置AI 助手 归因分析报告（AI 做总计） .</description>
-    <pubDate>Sat, 20 Apr 2024 16:07:54 GMT</pubDate>
-  </item><item>
-    <title>欲望</title>
-    <link>https://iamjoel.github.io/dialogue/1-self/0-worldview/mind/desire</link>
-    <guid>https://iamjoel.github.io/dialogue/1-self/0-worldview/mind/desire</guid>
-    <description>欲望是一把双刃剑。欲望满足时快乐的。然后呢，追求下一个让人更爽的欲望。如果没有更爽的欲望，或者欲望实现不了呢。欲望让我们冲上云霄，也让我们跌落谷底。.</description>
-    <pubDate>Sat, 20 Apr 2024 15:45:35 GMT</pubDate>
-  </item><item>
-    <title>产品 Schema</title>
-    <link>https://iamjoel.github.io/dialogue/1-self/0-worldview/km/contents/structed-schema/product</link>
-    <guid>https://iamjoel.github.io/dialogue/1-self/0-worldview/km/contents/structed-schema/product</guid>
-    <description>产品简介 基础信息 官网 厂商 规格 紧紧围绕解决的问题。 优势 最多三条。 问题 最多三条。.</description>
-    <pubDate>Fri, 19 Apr 2024 03:25:51 GMT</pubDate>
-  </item><item>
-    <title>记录需要结构化吗?</title>
-    <link>https://iamjoel.github.io/dialogue/1-self/0-worldview/km/contents/need-structed</link>
-    <guid>https://iamjoel.github.io/dialogue/1-self/0-worldview/km/contents/need-structed</guid>
-    <description>记录结构化是指：同类记录有同样的结构(字段)。比如: 联系人的记录：会包含联系人姓名，手机号，备注。 优势 有利于检索关键信息。 问题 增加创建新的文档类型记录的成本。因为要先建结构。 我的看法 对于一些数量多(成熟)的同类记录。要建结构。 对于一些数量少(不成熟)的同类记录。可以新不建结构。等数量多后再加结构。.</description>
-    <pubDate>Fri, 19 Apr 2024 03:21:18 GMT</pubDate>
-  </item><item>
-    <title>原子化记录</title>
-    <link>https://iamjoel.github.io/dialogue/1-self/0-worldview/km/contents/atom</link>
-    <guid>https://iamjoel.github.io/dialogue/1-self/0-worldview/km/contents/atom</guid>
-    <description>原子化记录就是一条记录就写清楚一件小的事。很像写代码，一个函数只做一件事。 优势 方便记录之间的关联和组合。 记录的成本低。 问题 不方便通过文件名来查找。记录会很多，层级会比较深。解决方案: 通过关联和关键字来查找。 我的看法 推荐。.</description>
-    <pubDate>Fri, 19 Apr 2024 03:09:51 GMT</pubDate>
-  </item><item>
-    <title>知识管理</title>
-    <link>https://iamjoel.github.io/dialogue/1-self/0-worldview/km/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/1-self/0-worldview/km/readme</guid>
-    <description>目的 1 快速检索 遇到问题时，能快速到答案。 创建新的内容时，能快速素材。 2 获得新的洞见 通过回顾信息，发现新的洞见。 解决方案 标注出重点。 强大的检索器。内容本身是适合检索的。 考虑的问题 一条记录的大小: 原子化记录。 优先选择分类还是标签。 记录需要结构化吗?。 资源 构建基于Obsidian的学习生产力系统 .</description>
-    <pubDate>Fri, 19 Apr 2024 01:20:00 GMT</pubDate>
-  </item><item>
-    <title>Agent</title>
-    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/agent/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/agent/readme</guid>
+    <title>产品</title>
+    <link>https://iamjoel.github.io/dialogue/product/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/product/readme</guid>
     <description></description>
-    <pubDate>Thu, 18 Apr 2024 10:03:37 GMT</pubDate>
+    <pubDate>Wed, 24 Apr 2024 15:37:01 GMT</pubDate>
   </item><item>
-    <title>LLM</title>
-    <link>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/2-society/1-economy/tech/base/ai/tech/llm/readme</guid>
-    <description>是什么 LLM 是大语言模型。 解决什么问题 提供智能服务。可辅助甚至替代知识工作者的工作。比如，写文章，做图，数据分析，客服。 如果能够达到 AGI 。那么也就不需要知识工作者了。。。 价值 降低成本(具体数据？)。减少知识工作者的工作。 提高效率(具体数据？)。形成 SOP 后，可以自动化。 评估 能力 推理能力。数学推理。常识推理。 多任务。 参数 Context 长度。 输出速度。 费用。 架构。 参数。 排行榜(LLM Leaderboard) Vellum LLM Leaderboard 包含开源和闭源模型。 Open LLM Leaderboard 只有开源模型。 评估工具: Language Model Evaluation Harness 关键结论 关键技术 关键公司 资源 NLP 前沿 国内媒体 机器之心 极客公园 量子位 雷锋网 .</description>
-    <pubDate>Wed, 17 Apr 2024 10:14:52 GMT</pubDate>
+    <title>技术</title>
+    <link>https://iamjoel.github.io/dialogue/tech/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/tech/readme</guid>
+    <description></description>
+    <pubDate>Wed, 24 Apr 2024 15:36:27 GMT</pubDate>
+  </item><item>
+    <title>现实</title>
+    <link>https://iamjoel.github.io/dialogue/reality/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/reality/readme</guid>
+    <description></description>
+    <pubDate>Wed, 24 Apr 2024 15:34:21 GMT</pubDate>
+  </item><item>
+    <title>dynamicland</title>
+    <link>https://iamjoel.github.io/dialogue/product/3c/dynamicland</link>
+    <guid>https://iamjoel.github.io/dialogue/product/3c/dynamicland</guid>
+    <description>官网 No screens, no devices. Just ordinary physical materials — paper and clay, tokens and toy cars — brought to life by technology in the ceiling. Every scrap of paper has the capabilities of a full computer, while remaining a fully-functional scrap of paper.</description>
+    <pubDate>Wed, 24 Apr 2024 10:11:18 GMT</pubDate>
+  </item><item>
+    <title>世界观</title>
+    <link>https://iamjoel.github.io/dialogue/personal/world-view</link>
+    <guid>https://iamjoel.github.io/dialogue/personal/world-view</guid>
+    <description> 经验是知识的唯一来源。 - 经验主义 相对的，有的哲学学派认为有的知识是先验的。 对世界的理解 世界是由一些定律支配的。 定律是人类的定义。定律是一些因果。有些定律人类能掌握，有些不能掌握。 对人类的理解 对自己的理解.</description>
+    <pubDate>Wed, 24 Apr 2024 10:01:22 GMT</pubDate>
+  </item><item>
+    <title>产品导航</title>
+    <link>https://iamjoel.github.io/dialogue/product/nav</link>
+    <guid>https://iamjoel.github.io/dialogue/product/nav</guid>
+    <description>3C 产品 Pendant AI Pin dynamic land 书 哲学 《哲学家们都干了些什么？》 《菜根谭》 《娱乐为王》 财经 《纳瓦尔宝典》 科学 《量子大唠嗑》 小说 《偷香》 《官场酒局》 《东莞打工妹生存实录》 电影 动作 《杀死比尔》 连续剧 历史 《大明王朝 1556》 《大清盐商》 《走向共和》 歌 流行歌曲 《一生所爱》 民谣 《成都》 建筑 主题公园 迪士尼 环球影城 创作者 导演 姜文 歌手 孙燕姿 乐队 Glass animals .</description>
+    <pubDate>Wed, 24 Apr 2024 02:49:09 GMT</pubDate>
   </item>
     </channel>
   </rss>

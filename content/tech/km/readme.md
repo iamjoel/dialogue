@@ -18,6 +18,7 @@ title: 知识管理
 1. 一条记录的大小: [原子化记录](./contents/atom.md)。
 2. [优先选择分类还是标签](./contents/prefer-classify-or-tag.md)。
 3. [记录需要结构化吗?](./contents/need-structed.md)。
+4. [获取哪些信息](./contents/in.md)
 
 
 ## 资源

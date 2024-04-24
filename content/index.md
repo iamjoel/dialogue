@@ -6,8 +6,14 @@ title: Joel 的大唠嗑
 > \- 马兆远 [《量子大唠嗑》](./1-self/1-happiness/1-aware/resource/quantum-dialog.md)
 
 人生需要思考的，主要分为三块：
-1. [与自己的关系](./1-self/readme.md)。
-2. [与社会的关系](./2-society/readme.md)。
-3. [与自然的关系](./3-nature/readme.md)。
+1. 与自己的关系。
+2. 与社会的关系。
+3. 与自然的关系。
+
+本站主要分为如下几块内容: 
+1. [现实](./reality/readme.md)
+1. [技术](./tech/readme.md)
+1. [产品](./product/readme.md)。[产品导航](./product/nav.md)
+
 
 [标签导航](/tags)

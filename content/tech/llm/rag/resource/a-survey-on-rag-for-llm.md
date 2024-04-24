@@ -1,6 +1,5 @@
 ---
-title: A Survey on Retrieval-Augmented Text Generation for Large Language
-Models
+title: A Survey on Retrieval-Augmented Text Generation for Large Language Models
 ---
 
 ## 基础信息

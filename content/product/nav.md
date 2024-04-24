@@ -1,0 +1,58 @@
+---
+title: 产品导航
+---
+
+## 3C 产品
+* [Pendant](./3c/pendant.md)
+* [AI Pin](./3c/ai-pin.md)
+* [dynamic land](./3c/dynamicland.md)
+
+## 书
+### 哲学
+* [《哲学家们都干了些什么？》](./book/philosophy/what-did-philosophers-do.md)
+* [《菜根谭》](./book/philosophy/caigentan.md)
+* [《娱乐为王》](./book/philosophy/just-for-fun.md)
+
+### 财经
+* [《纳瓦尔宝典》](./book/econmy/the-almanack-of-naval-ravikant.md)
+
+### 科学
+* [《量子大唠嗑》](./book/science/quantum-dialog.md)
+
+### 小说
+* [《偷香》](./book/novel/steal-fragrance.md)
+* [《官场酒局》](./book/novel/official-wine-bureau.md)
+* [《东莞打工妹生存实录》](./book/novel/dongguan-girls-work-record.md)
+
+## 电影
+### 动作
+* [《杀死比尔》](./movie/works/action/kill-bill.md)
+
+## 连续剧
+### 历史
+* [《大明王朝 1556》](./series/history/ming-dynasty-in-1566.md)
+* [《大清盐商》](./series/history/the-merchants-of-qing-dynasty.md)
+* [《走向共和》](./series/history/toward-a-republic.md)
+
+## 歌
+### 流行歌曲
+* [《一生所爱》](./song/pop/life-long-love.md)
+
+### 民谣
+* [《成都》](./song/folk/chengdu.md)
+
+## [建筑](./building/readme.md)
+
+## 主题公园
+* [迪士尼](./theme-park/disney/readme.md)
+* [环球影城](./theme-park/universal/readme.md)
+
+## 创作者
+### 导演
+* [姜文](./creator/director/jiang-wen.md)
+
+## 歌手
+* [孙燕姿](./creator/singer/stefanie-sun.md)
+
+## 乐队
+* [Glass animals](./creator/band/glass-animals.md)
