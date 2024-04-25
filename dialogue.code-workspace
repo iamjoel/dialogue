@@ -5,6 +5,9 @@
 			"path": "."
 		},
 		{
+			"path": "./content/problem"
+		},
+		{
 			"path": "./content/personal"
 		},
 		{

@@ -1,11 +1,19 @@
 ---
-title: 产品导航
+title: 产品列表
 ---
 
 ## 3C 产品
 * [Pendant](./3c/pendant.md)
 * [AI Pin](./3c/ai-pin.md)
 * [dynamic land](./3c/dynamicland.md)
+
+## 软件
+### 开发者
+* 爬网页转化成给 LLM 用的数据
+  * [Reader](./software/dev/crawl-data-for-llm/jina-reader.md)
+  * [FireCrawl](./software/dev/crawl-data-for-llm/firecrawl.md)
+  * [LLM Scraper](./software/dev/crawl-data-for-llm/llm-scraper.md)
+
 
 ## 书
 ### 哲学

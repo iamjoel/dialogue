@@ -6,6 +6,36 @@
       <description>Last 10 notes on Joel 的大唠嗑</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>LLM Scraper</title>
+    <link>https://iamjoel.github.io/dialogue/product/software/dev/crawl-data-for-llm/llm-scraper</link>
+    <guid>https://iamjoel.github.io/dialogue/product/software/dev/crawl-data-for-llm/llm-scraper</guid>
+    <description> LLM Scraper is a TypeScript library that allows you to convert any webpages into structured data using LLMs. 基本信息 GitHub .</description>
+    <pubDate>Thu, 25 Apr 2024 02:32:24 GMT</pubDate>
+  </item><item>
+    <title>reader</title>
+    <link>https://iamjoel.github.io/dialogue/product/software/dev/crawl-data-for-llm/jina-reader</link>
+    <guid>https://iamjoel.github.io/dialogue/product/software/dev/crawl-data-for-llm/jina-reader</guid>
+    <description> Your LLMs deserve better input. Reader converts any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/. Get improved output for your agent and RAG systems at no cost.</description>
+    <pubDate>Thu, 25 Apr 2024 02:30:05 GMT</pubDate>
+  </item><item>
+    <title>FireCrawl</title>
+    <link>https://iamjoel.github.io/dialogue/product/software/dev/crawl-data-for-llm/firecrawl</link>
+    <guid>https://iamjoel.github.io/dialogue/product/software/dev/crawl-data-for-llm/firecrawl</guid>
+    <description> Crawl and convert any website into LLM-ready markdown. Firecrawl is an API service that takes a URL, crawls it, and converts it into clean markdown. We crawl all accessible subpages and give you clean markdown for each.</description>
+    <pubDate>Thu, 25 Apr 2024 02:25:26 GMT</pubDate>
+  </item><item>
+    <title>问题</title>
+    <link>https://iamjoel.github.io/dialogue/problem/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/readme</guid>
+    <description>问题列表.</description>
+    <pubDate>Thu, 25 Apr 2024 02:19:29 GMT</pubDate>
+  </item><item>
+    <title>问题列表</title>
+    <link>https://iamjoel.github.io/dialogue/problem/list</link>
+    <guid>https://iamjoel.github.io/dialogue/problem/list</guid>
+    <description>生存 娱乐.</description>
+    <pubDate>Thu, 25 Apr 2024 02:17:40 GMT</pubDate>
+  </item><item>
     <title>AI Pin</title>
     <link>https://iamjoel.github.io/dialogue/product/3c/ai-pin</link>
     <guid>https://iamjoel.github.io/dialogue/product/3c/ai-pin</guid>
@@ -33,38 +63,8 @@
     <title>产品</title>
     <link>https://iamjoel.github.io/dialogue/product/readme</link>
     <guid>https://iamjoel.github.io/dialogue/product/readme</guid>
-    <description></description>
+    <description>产品列表.</description>
     <pubDate>Wed, 24 Apr 2024 15:37:01 GMT</pubDate>
-  </item><item>
-    <title>技术</title>
-    <link>https://iamjoel.github.io/dialogue/tech/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/tech/readme</guid>
-    <description></description>
-    <pubDate>Wed, 24 Apr 2024 15:36:27 GMT</pubDate>
-  </item><item>
-    <title>现实</title>
-    <link>https://iamjoel.github.io/dialogue/reality/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/reality/readme</guid>
-    <description></description>
-    <pubDate>Wed, 24 Apr 2024 15:34:21 GMT</pubDate>
-  </item><item>
-    <title>dynamicland</title>
-    <link>https://iamjoel.github.io/dialogue/product/3c/dynamicland</link>
-    <guid>https://iamjoel.github.io/dialogue/product/3c/dynamicland</guid>
-    <description>官网 No screens, no devices. Just ordinary physical materials — paper and clay, tokens and toy cars — brought to life by technology in the ceiling. Every scrap of paper has the capabilities of a full computer, while remaining a fully-functional scrap of paper.</description>
-    <pubDate>Wed, 24 Apr 2024 10:11:18 GMT</pubDate>
-  </item><item>
-    <title>世界观</title>
-    <link>https://iamjoel.github.io/dialogue/personal/world-view</link>
-    <guid>https://iamjoel.github.io/dialogue/personal/world-view</guid>
-    <description> 经验是知识的唯一来源。 - 经验主义 相对的，有的哲学学派认为有的知识是先验的。 对世界的理解 世界是由一些定律支配的。 定律是人类的定义。定律是一些因果。有些定律人类能掌握，有些不能掌握。 对人类的理解 对自己的理解.</description>
-    <pubDate>Wed, 24 Apr 2024 10:01:22 GMT</pubDate>
-  </item><item>
-    <title>产品导航</title>
-    <link>https://iamjoel.github.io/dialogue/product/nav</link>
-    <guid>https://iamjoel.github.io/dialogue/product/nav</guid>
-    <description>3C 产品 Pendant AI Pin dynamic land 书 哲学 《哲学家们都干了些什么？》 《菜根谭》 《娱乐为王》 财经 《纳瓦尔宝典》 科学 《量子大唠嗑》 小说 《偷香》 《官场酒局》 《东莞打工妹生存实录》 电影 动作 《杀死比尔》 连续剧 历史 《大明王朝 1556》 《大清盐商》 《走向共和》 歌 流行歌曲 《一生所爱》 民谣 《成都》 建筑 主题公园 迪士尼 环球影城 创作者 导演 姜文 歌手 孙燕姿 乐队 Glass animals .</description>
-    <pubDate>Wed, 24 Apr 2024 02:49:09 GMT</pubDate>
   </item>
     </channel>
   </rss>

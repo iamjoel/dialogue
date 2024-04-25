@@ -529,20 +529,20 @@ ticket office 售票局
 * have a jacket on 穿着皮夹克
 
 ## 04/13
-re* sponsible person 
-pe* rfume 香水
-in* insect 昆虫，虫子。 I am afraid of insects.e* cture 讲座
-do* rm 宿舍
-a * table for four 四人桌
-om* elet 蛋饼
-cl* own 小丑
-le* monade 柠檬汁
-ut* ensil 餐具
-co* conut 椰子
-so* ur 酸的
-an* ywhere.不管怎样 I joined the meeting anywhere 
-be*  popular with sb 
-pu* zzle 拼图
+* responsible person 
+* perfume 香水
+* ininsect 昆虫，虫子。 I am afraid of insects
+* dorm 宿舍
+* a table for four 四人桌
+* omelet 蛋饼
+* clown 小丑
+* lemonade 柠檬汁
+* utensil 餐具
+* coconut 椰子
+* sour 酸的
+* anywhere.不管怎样 I joined the meeting anywhere 
+* be popular with sb 
+* puzzle 拼图
 tuna  金枪鱼
 * be allergic to  过敏
 * stay tuned 敬请关注
@@ -630,3 +630,12 @@ tuna  金枪鱼
 * sore back 酸痛的背
 * be stressful 有压力的
 * put sth against the wall 
+
+## 25
+* in the last of every month  
+* sb get paid 
+* the branch of the company 分公司。 The  company has branches 
+* be terrible at doing 
+* the right person for 
+* have many success in my career 
+* write your signature 签名
