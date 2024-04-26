@@ -639,3 +639,8 @@ tuna  金枪鱼
 * the right person for 
 * have many success in my career 
 * write your signature 签名
+
+## 04/26
+* hairstylist 发型师
+* baker 面包师
+* shake hands with sb 

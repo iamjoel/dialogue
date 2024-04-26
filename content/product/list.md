@@ -8,18 +8,24 @@ title: 产品列表
 * [dynamic land](./3c/dynamicland.md)
 
 ## 软件
+### CRM
+* [twenty](./software/crm/twenty.md)
+
 ### 开发者
 * 爬网页转化成给 LLM 用的数据
   * [Reader](./software/dev/crawl-data-for-llm/jina-reader.md)
   * [FireCrawl](./software/dev/crawl-data-for-llm/firecrawl.md)
   * [LLM Scraper](./software/dev/crawl-data-for-llm/llm-scraper.md)
 
-
 ## 书
 ### 哲学
 * [《哲学家们都干了些什么？》](./book/philosophy/what-did-philosophers-do.md)
 * [《菜根谭》](./book/philosophy/caigentan.md)
 * [《娱乐为王》](./book/philosophy/just-for-fun.md)
+
+### 历史
+* [《人类简史》](./book/history/a-brief-history-of-humankind.md)
+* [《昨日之前的世界》](./book/history/the-world-util-yesterday.md)
 
 ### 财经
 * [《纳瓦尔宝典》](./book/econmy/the-almanack-of-naval-ravikant.md)
