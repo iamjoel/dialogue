@@ -644,3 +644,21 @@ tuna  金枪鱼
 * hairstylist 发型师
 * baker 面包师
 * shake hands with sb 
+* will succeed, a success
+* read the fact
+
+## 04/27
+* 邮件写作以 `Dear + 对方称呼` 开头，以 `Sincerely + 作者` 结尾。
+* I want nine thousand dollars a year after tax. Talking about salary.
+* A photocopy of your ID. 身份证复印件。
+* landmark 地标
+* my pay isn't enough for what I'm doing 
+* sb get paid enough money 
+* tell me your thoughts 
+* get completed
+* be right about sth 认为…是对的
+* be argued about 争论
+* make up sb mind 做决定
+* realtor 房产经纪人
+* fiction 虚构类
+* the third act 第三幕

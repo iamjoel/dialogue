@@ -16,6 +16,11 @@ title: 产品列表
   * [Reader](./software/dev/crawl-data-for-llm/jina-reader.md)
   * [FireCrawl](./software/dev/crawl-data-for-llm/firecrawl.md)
   * [LLM Scraper](./software/dev/crawl-data-for-llm/llm-scraper.md)
+* [Clash verge rev](./software/other/clash-verge-rev.md)
+* 生成代码
+  * [GitHub Copilot](./software/dev/code-gen/github-copilot.md)
+  * [V0](./software/dev/code-gen/v0.md)
+  * Sentry Fix bug: https://blog.sentry.io/ai-powered-autofix-debugs-and-fixes-your-code-in-minutes/
 
 ## 书
 ### 哲学
@@ -25,7 +30,10 @@ title: 产品列表
 
 ### 历史
 * [《人类简史》](./book/history/a-brief-history-of-humankind.md)
-* [《昨日之前的世界》](./book/history/the-world-util-yesterday.md)
+* [《昨日之前的世界》](./book/history/the-world-until-yesterday.md)
+
+## 教育
+* [《正面管教》](./book/edcation/positive-discipine.md)
 
 ### 财经
 * [《纳瓦尔宝典》](./book/econmy/the-almanack-of-naval-ravikant.md)
