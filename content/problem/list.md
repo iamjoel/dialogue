@@ -7,7 +7,8 @@ title: 问题列表
 
 ## 生存
 ### 健康
-如何不晚睡
+* 休息：[如何不晚睡?](../tech/health/sleep/avoid-staying-up.md)
+* 饮食：[如何吃的健康](../tech/health/food/readme.md)
 
 
 ### 提升效率

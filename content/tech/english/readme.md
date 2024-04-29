@@ -662,3 +662,13 @@ tuna  金枪鱼
 * realtor 房产经纪人
 * fiction 虚构类
 * the third act 第三幕
+* fan 风扇
+* mattress 床垫
+* lullaby 摇篮曲
+* lately 最近
+* fairly good means pretty good 
+
+## 04/28
+* be unemployed 失业，未被雇佣
+* chin 下巴 shaving 刮胡子
+* teenage 十几岁的 teenage son 
