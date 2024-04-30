@@ -672,3 +672,10 @@ tuna  金枪鱼
 * be unemployed 失业，未被雇佣
 * chin 下巴 shaving 刮胡子
 * teenage 十几岁的 teenage son 
+
+## 04/29
+* would you mind doing
+
+## 04/30
+* rugby 橄榄球
+* costume 服装 outfit 

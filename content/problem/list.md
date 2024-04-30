@@ -9,6 +9,7 @@ title: 问题列表
 ### 健康
 * 休息：[如何不晚睡?](../tech/health/sleep/avoid-staying-up.md)
 * 饮食：[如何吃的健康](../tech/health/food/readme.md)
+* 积极的心态: [如何放松](../tech/psychology/terms/relax.md)
 
 
 ### 提升效率
