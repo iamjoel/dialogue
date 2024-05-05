@@ -679,3 +679,6 @@ tuna  金枪鱼
 ## 04/30
 * rugby 橄榄球
 * costume 服装 outfit 
+
+## 05/01
+* loose 宽松的

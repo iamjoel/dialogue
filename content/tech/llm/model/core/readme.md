@@ -19,7 +19,7 @@ title: 模型
   * 百川
   * 月之暗面
   * 阶越星辰(微软的一波人稿的)
-  * 
+  * MiniMax  模型叫 abab
 
 
 ### Embedding 模型
