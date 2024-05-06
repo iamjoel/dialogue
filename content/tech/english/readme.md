@@ -682,3 +682,8 @@ tuna  金枪鱼
 
 ## 05/01
 * loose 宽松的
+
+## 05/02
+* tear sth  in  half 一撕二
+* van  面包车
+* set the date for  sth 
