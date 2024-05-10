@@ -687,3 +687,9 @@ tuna  金枪鱼
 * tear sth  in  half 一撕二
 * van  面包车
 * set the date for  sth 
+
+## 05/06
+* rarely 很少
+* typical 典型的
+* anniversary 年度纪念日
+* in a relationship 谈朋友
