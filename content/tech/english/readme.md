@@ -693,3 +693,7 @@ tuna  金枪鱼
 * typical 典型的
 * anniversary 年度纪念日
 * in a relationship 谈朋友
+
+## 05/11
+* the whole time 
+* post it online 
