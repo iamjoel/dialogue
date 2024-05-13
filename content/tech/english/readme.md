@@ -697,3 +697,14 @@ tuna  金枪鱼
 ## 05/11
 * the whole time 
 * post it online 
+
+## 05/13
+* valley 山谷
+* peak 山顶
+* take this path 
+* stick 树枝
+* outdoor activity 
+* pile 堆 a pile of sand 
+* dusty 满是灰尘的 a lot of dust 
+* stylish 时髦的
+* fancy 华丽的
