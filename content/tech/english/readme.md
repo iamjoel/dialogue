@@ -708,3 +708,8 @@ tuna  金枪鱼
 * dusty 满是灰尘的 a lot of dust 
 * stylish 时髦的
 * fancy 华丽的
+
+## 05/14
+* TV program 电视节目
+* a gentle rain 
+* the beauty of thing 

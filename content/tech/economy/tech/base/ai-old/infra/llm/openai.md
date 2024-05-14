@@ -4,6 +4,32 @@ title: OpenAI
 
 推理模型，文本生成模型，文本转音频模型，文本转视频模型，图像识别模型，Embedding 模型。
 
+## [GPT-4o](https://openai.com/index/hello-gpt-4o/)
+> We’re announcing GPT-4o, our new flagship model that can reason across audio, vision, and text in real time.
+
+## 特性
+GPT-4o 是 OpenAI 推出的新模型，可以实时跨越音频、视觉和文本进行聊天。简单来说，可以进行实时的视频聊天：
+1. 延迟很低。和正常人类的聊天的延迟差不多（短至232毫秒、平均320毫秒的时间内响应音频输入）。
+2. 可以随时打断 AI 的回答：AI 在回答时，如果用户有新的问题， AI 会停下来，回答新的问题。
+3. 可以感受到人类回答的语调和速度。
+4. 能用比以前更丰富的语气实时回复。唱歌啥的。
+
+4o 中的 o 是 Omni的缩写，也就是“全能”的意思。
+
+费用上也降低了(价格打5折，速度提高一倍，单位时间调用次数足足是原来的5倍)。非付费用户也可以用。
+
+2024/05/13(美国时间) 发布的。
+
+## 技术
+如何做到回复的低延迟？
+在GPT-4o之前，ChatGPT语音模式由三个独立模型组成，语音转文本→GPT3.5/GPT-4→文本转语音。整个系统的延迟足足有2.8秒（GPT-3.5）和5.4秒（GPT-4），而且丢失了大量的信息，它无法直接感受音调、多个说话者或背景噪音，也无法输出笑声、唱歌声，或表达情感。
+
+GPT-4o则是跨文本、视觉和音频端到端训练的新模型，这意味着所有输入和输出都由同一个神经网络处理。
+
+### 参考
+* [GPT-4o深夜炸场！AI实时视频通话丝滑如人类，Plus功能免费可用，奥特曼：《她》来了](https://mp.weixin.qq.com/s/cAeLgg46Wq81rhgsJp0l4Q)
+* [直播回放](https://www.youtube.com/watch?v=DQacCB9tDaw)
+
 ## Sora
 [通俗易懂地解释OpenAI Sora视频生成的特点有哪些？Sora与此前的Stable Video Diffusion、Runway Gen2、Pika等有什么区别？OpenAI Sora的缺点是什么？](https://www.datalearner.com/blog/1051708185278059)
 
@@ -26,3 +52,6 @@ title: OpenAI
 | 人工过程(数字世界)模拟 | 支持 | 不支持 |
 
 ## GPT-4
+
+## GPT-4V
+带视觉(version)的功能。
