@@ -713,3 +713,6 @@ tuna  金枪鱼
 * TV program 电视节目
 * a gentle rain 
 * the beauty of thing 
+
+## 05/15
+* a clear stream  清澈的水流
