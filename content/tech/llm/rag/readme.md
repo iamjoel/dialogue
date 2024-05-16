@@ -29,4 +29,5 @@ RAG 可能部分会被 Long Context 技术所取代。即把整个文档作为 C
 ## 资源
 * [A Survey on Retrieval-Augmented Text Generation for Large Language
 Models](./resource/a-survey-on-rag-for-llm.md)
+* [阿里RAG新框架R4：增强检索器-重排序-响应器，5个知识密集任务上都超过Self-RAG等！](https://mp.weixin.qq.com/s/Lsom93jtIr4Pv7DjpQuiDQ) R4：Reinforced Retriever-Reorder-Responder（增强检索器-重排序-响应器）
 

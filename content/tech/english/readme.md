@@ -716,3 +716,11 @@ tuna  金枪鱼
 
 ## 05/15
 * a clear stream  清澈的水流
+
+## 05/16
+* watch out for sth 
+* in the fog 
+* fly toward me 
+* dusty  满是灰尘的
+* Mia 人名
+* according  to  means  in the opinion 
