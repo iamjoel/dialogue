@@ -724,3 +724,14 @@ tuna  金枪鱼
 * dusty  满是灰尘的
 * Mia 人名
 * according  to  means  in the opinion 
+
+## 05/17
+* hear  sb scream 
+* ride back of the motorcycle 
+* have a very big mouth 喜欢传谣言
+* discover the secret 
+* break into somewhere 
+
+## 05/18
+* straw 吸管
+* baker 面包师
