@@ -735,3 +735,8 @@ tuna  金枪鱼
 ## 05/18
 * straw 吸管
 * baker 面包师
+
+## 05/19
+* reunion 重逢
+* broccoli 西兰花
+* in general 
