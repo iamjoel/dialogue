@@ -740,3 +740,11 @@ tuna  金枪鱼
 * reunion 重逢
 * broccoli 西兰花
 * in general 
+
+## 05/21
+* business trip 出差
+* take a right means turn right 
+
+## 05/22
+* sandals 拖鞋
+* Babies get sick a lot.
