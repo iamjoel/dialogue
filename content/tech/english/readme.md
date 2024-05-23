@@ -748,3 +748,11 @@ tuna  金枪鱼
 ## 05/22
 * sandals 拖鞋
 * Babies get sick a lot.
+
+## 05/23
+* horn 角
+* internship 实习岗位 get  a internship 
+* hand out sth  发下去
+* hand in  sth 上交
+* register for class 
+* essential 必须的
