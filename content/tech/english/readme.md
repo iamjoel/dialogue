@@ -756,3 +756,7 @@ tuna  金枪鱼
 * hand in  sth 上交
 * register for class 
 * essential 必须的
+
+## 05/24
+* plenty of means enough 
+* instructor  means teacher 
