@@ -760,3 +760,6 @@ tuna  金枪鱼
 ## 05/24
 * plenty of means enough 
 * instructor  means teacher 
+
+## 05/25
+* make  a web 织网
