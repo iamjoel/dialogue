@@ -763,3 +763,16 @@ tuna  金枪鱼
 
 ## 05/25
 * make  a web 织网
+
+## 05/26
+* get rid of means  throw  away 
+* backyard means the yard next to the house 
+* bathtab 浴缸
+* grill 烤架. grilled meat
+* sheet 床单
+* yikes 哎呀
+* car break down
+
+## 05/27
+* have problem doing 
+* a lot of nature 
