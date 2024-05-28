@@ -776,3 +776,6 @@ tuna  金枪鱼
 ## 05/27
 * have problem doing 
 * a lot of nature 
+
+## 05/28
+* sing me a lullaby 摇篮曲
