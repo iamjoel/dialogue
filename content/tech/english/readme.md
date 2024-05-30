@@ -779,3 +779,16 @@ tuna  金枪鱼
 
 ## 05/28
 * sing me a lullaby 摇篮曲
+
+## 05/29
+* close by means near by 
+
+## 05/30
+* lane 车道 the street has two lanes. a bike lane.
+* busy street, rush hour 
+* there's a traffic jam 
+* get  stuck in a traffic jam/on the highway 
+* speed up , slow  down 
+* a stop sign 
+* make sure to look  both ways before you across the street at the crosswalk（斑马线）
+* the speed limit here is 60 km per hour.
