@@ -6,65 +6,65 @@
       <description>Last 10 notes on Joel 的大唠嗑</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>《正面管教》</title>
-    <link>https://iamjoel.github.io/dialogue/product/book/edcation/positive-discipine</link>
-    <guid>https://iamjoel.github.io/dialogue/product/book/edcation/positive-discipine</guid>
-    <description> 正面管教能够帮助大人们找到一条既不惩罚也不娇纵的中间路线。正面管教倡导的是和善而坚定，并且把有价值的社会技能和人生技能教给孩子。 基础信息 作者：简·尼尔森 豆瓣 是基于阿德勒的学说的。 主要想法 惩罚的问题 偶有/短期有效。长期没有用。其次，让亲子关系变得疏离。.</description>
-    <pubDate>Sun, 28 Apr 2024 02:10:57 GMT</pubDate>
+    <title>贝叶斯推理</title>
+    <link>https://iamjoel.github.io/dialogue/tech/math/bayesian-inference</link>
+    <guid>https://iamjoel.github.io/dialogue/tech/math/bayesian-inference</guid>
+    <description>Wiki 贝叶斯定理是一种用于描述事件发生概率的数学原理,其核心思想是根据先验知识和新的证据来更新对事件概率的认识。 条件概率 条件概率”（Conditional probability），就是指在事件B发生的情况下，事件A发生的概率，用P(A|B)来表示。 贝叶斯定理的数学公式如下: P(A|B) = P(B|A) × P(A) / P(B) p(AB): 事件A和事件B同时发生的概率 p(A|B) * p(B): 事件B发生的条件下事件A发生的概率 * B 发生 = A 和 B 同时发生 p(AB) = p(A|B) * p(B) = p(B|A) * p(A) P(A|B) = p(AB) / p(B) = p(B|A) * p(A) / p(B) 其中,P(A|B)是在事件B发生的条件下事件A发生的概率,即后验概率;P(A)是事件A的先验概率;P(B|A)是在事件A发生的条件下事件B发生的概率,即似然性;P(B)是事件B发生的概率 ## 文章 * [贝叶斯推断及其互联网应用（一）：定理简介](https://www.</description>
+    <pubDate>Thu, 30 May 2024 09:58:44 GMT</pubDate>
   </item><item>
-    <title>V0</title>
-    <link>https://iamjoel.github.io/dialogue/product/software/dev/code-gen/v0</link>
-    <guid>https://iamjoel.github.io/dialogue/product/software/dev/code-gen/v0</guid>
-    <description>基础信息 官网 公司: Vercel .</description>
-    <pubDate>Fri, 26 Apr 2024 09:00:20 GMT</pubDate>
+    <title>《囚徒健身》</title>
+    <link>https://iamjoel.github.io/dialogue/tech/health/sport/books/convict-conditioning</link>
+    <guid>https://iamjoel.github.io/dialogue/tech/health/sport/books/convict-conditioning</guid>
+    <description>观点 依赖自身体重来健身，相对的是依赖健身器械。 健身房锻炼的人可以练出健美的力量和肌肉线条，但整体的协调性不行。.</description>
+    <pubDate>Tue, 28 May 2024 02:24:20 GMT</pubDate>
   </item><item>
-    <title>LLM Scraper</title>
-    <link>https://iamjoel.github.io/dialogue/product/software/dev/crawl-data-for-llm/llm-scraper</link>
-    <guid>https://iamjoel.github.io/dialogue/product/software/dev/crawl-data-for-llm/llm-scraper</guid>
-    <description> LLM Scraper is a TypeScript library that allows you to convert any webpages into structured data using LLMs. 基本信息 GitHub .</description>
-    <pubDate>Thu, 25 Apr 2024 02:32:24 GMT</pubDate>
+    <title>《你是你吃出来的2》</title>
+    <link>https://iamjoel.github.io/dialogue/tech/health/food/resource/you-are-what-you-eat-2</link>
+    <guid>https://iamjoel.github.io/dialogue/tech/health/food/resource/you-are-what-you-eat-2</guid>
+    <description>基本信息 作者：夏萌。 曾就职于北京天坛医院神经内科、北京安贞医院神经内科和营养科，曾任北京安贞医院营养科主任。 有丰富的临床经验。 慢性病康复的饮食密码 主要内容 介绍了一些慢性病的成因，影响，以及如何通过改变饮食和生活方式来治疗。 高血压 血压四怕：盐多、肉少、宅、情绪差。 建议： 适量的盐。少吃面条，少喝汤，别吃咸菜 优质蛋白 戒烟戒酒 多运动 少熬夜 保持心情愉快。 基本概念 收缩压： 心脏收缩时，把血液推入大血管时，会对动脉壁产生侧壁压力叫做收缩压。也叫上压。 舒张压： 心脏舒张时，大血管中的血液回流，会再次对血管壁产生压力叫做舒张压，也叫下压。 脉压：收缩压和舒张压的差值。 什么算高血压 收缩压 和 舒张压 血压类型收缩压舒张压一级高血压140 - 16090 - 100二级高血压160 - 180100 - 110三级高血压&gt; 180&gt; 110 脉压 中国正常人的脉压标准一般是30～40毫米汞柱，欧洲的标准是不超过65毫米汞柱，美国的标准是不超过70毫米汞柱——脉压65～70毫米汞柱是极限。 影响血压值的因素 最常见的影响血压值的有五大因素： 血容量 血管壁弹性 周围血管阻力 神经内分泌调节系统 心脏搏动。 血容量 血容量增加，血压上升。 人吃得过咸，会导致血容量增加。人吃得过咸时，血中的钠含量升高，就会激活人体的饥渴中枢，人感觉口渴就会喝水，目的是让血液中的钠浓度恢复正常。血容量随之增加。血容量不可能无限增加，血容量增加的同时，肾脏也会努力工作——排钠，排水，这样又加重了肾脏的负担。 按照《中国居民膳食指南（2016）》中的规定，成年人每天摄入盐的总量不要超过6克。 血管壁弹性 摄入优质蛋白有利于提升血管壁弹性。此外，维生素C、钙、镁、钾的摄入量对血管壁弹性也有重要影响。 血管弹性越好，侧压力被血管壁吸收得越多，测出来的收缩压就会偏低。血管壁弹性差的体现是脉压大：脉压大于40毫米汞柱。 血管壁的弹性与蛋白质密切相关。血管壁的弹性主要取决于血管壁中层弹性组织。大动脉的中层有40～70层弹性膜。弹性膜呈波浪状，主要成分是弹性蛋白。不仅如此，弹性膜之间还有平滑肌和一些胶原蛋白。 周围血管阻力 周围血管阻力与血管半径、血液黏度和血管长度有关。影响血管半径的因素很多，比如，神经内分泌系统是否稳定，动脉是否有粥样硬化，血液黏稠度问题，周围组织缺氧程度，等等。 有一种情况非常常见——不爱运动。不爱运动会造成组织细胞对氧的需求量减少，毛细血管前小动脉关闭，导致周围血管阻力加大。 周围血管阻力的体现是：高压正常，低压高。 情绪 当情绪紧张时，肾上腺素分泌会增多，交感神经会兴奋，这样会提高心脏的收缩力，并使外周血管收缩，导致血压高。 高血压的危害 严重后，容易引起并发症：冠心病、脑卒中、肾功能衰竭等。 高血压的处理 一级高血压暂时不用吃降压药，开始严格地管理自己，同时监测自己的血压变化。 二级和三级高血压需要马上吃药，让血压降下来，同时在生活方式上努力改变，做到标本兼治。 降压药 降压药有好几类，有扩张周围血管的钙离子阻断剂、有利尿剂、有抑制肾素-血管紧张素系统的，还有抑制心肌收缩及周围血管平滑肌收缩的。现在比较讲究的用药是几类药物各取一点，增强药物的协同性，减少药物的不良反应。.</description>
+    <pubDate>Sun, 19 May 2024 14:10:55 GMT</pubDate>
   </item><item>
-    <title>reader</title>
-    <link>https://iamjoel.github.io/dialogue/product/software/dev/crawl-data-for-llm/jina-reader</link>
-    <guid>https://iamjoel.github.io/dialogue/product/software/dev/crawl-data-for-llm/jina-reader</guid>
-    <description> Your LLMs deserve better input. Reader converts any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/. Get improved output for your agent and RAG systems at no cost.</description>
-    <pubDate>Thu, 25 Apr 2024 02:30:05 GMT</pubDate>
+    <title>Writer</title>
+    <link>https://iamjoel.github.io/dialogue/tech/economy/tech/base/ai-old/app/content-generation/writer</link>
+    <guid>https://iamjoel.github.io/dialogue/tech/economy/tech/base/ai-old/app/content-generation/writer</guid>
+    <description> Transform work with full-stack generative AI Writer 基于 LLM 的 2B 的企业营销内容创作平台。 2020 年成立。 其收入在过去两年翻了 10 倍，收入规模超过 2,000 万美金，且 NDR 超过 150%。 自研了LLM： Palmyra。在获得商业授权的 1 万亿 tokens 的数据集上进行训练，并针对医疗保健、营销、法律等领域进行了微调，更好地满足专业垂直领域内容写作者的需求。Writer 很注重模型优化，使模型更小、更快速且成本更低。 亮点 准确性，安全性。 准确性 Top-ranked by Stanford HELM for a range of scenarios, PubMedQA for biomedical question answering, and BLEU for translations.</description>
+    <pubDate>Wed, 15 May 2024 06:45:42 GMT</pubDate>
   </item><item>
-    <title>FireCrawl</title>
-    <link>https://iamjoel.github.io/dialogue/product/software/dev/crawl-data-for-llm/firecrawl</link>
-    <guid>https://iamjoel.github.io/dialogue/product/software/dev/crawl-data-for-llm/firecrawl</guid>
-    <description> Crawl and convert any website into LLM-ready markdown. Firecrawl is an API service that takes a URL, crawls it, and converts it into clean markdown. We crawl all accessible subpages and give you clean markdown for each.</description>
-    <pubDate>Thu, 25 Apr 2024 02:25:26 GMT</pubDate>
+    <title>hume.ai</title>
+    <link>https://iamjoel.github.io/dialogue/tech/economy/tech/base/ai-old/infra/llm/hume-ai</link>
+    <guid>https://iamjoel.github.io/dialogue/tech/economy/tech/base/ai-old/infra/llm/hume-ai</guid>
+    <description>官网 Empathic AI to serve human well-being With a single API call, interpret emotional expressions and generate empathic responses. Meet the first AI with emotional intelligence.</description>
+    <pubDate>Tue, 14 May 2024 23:54:30 GMT</pubDate>
   </item><item>
-    <title>问题</title>
-    <link>https://iamjoel.github.io/dialogue/problem/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/readme</guid>
-    <description>问题列表.</description>
-    <pubDate>Thu, 25 Apr 2024 02:19:29 GMT</pubDate>
+    <title>《葬送的芙莉莲》</title>
+    <link>https://iamjoel.github.io/dialogue/product/cartoon/works/frieren-beyond-journey's-end</link>
+    <guid>https://iamjoel.github.io/dialogue/product/cartoon/works/frieren-beyond-journey's-end</guid>
+    <description>表面看起来是个游戏类冒险故事：打魔王。实际有深邃的内核：寿命悬殊的生物间是否能有爱情（精灵几千年的寿命和人类不到一百年的寿命）。 芙莉莲收集各种魔法是因为辛美尔之前经常对芙莉莲的魔法的赞美。 金句 苍月草 辛美尔: 苍月草是我故乡是花，非常美丽，将来我想带你看亲眼看看。 芙莉莲: 多年以后，芙莉莲费尽千辛万苦，终于在某个小村庄的废弃塔楼里，找到了苍月草，蓝色的花瓣飞散在空中，果真是和传闻中一样美丽的花朵，辛美尔没有骗人。 可惜没能和你一起看看呢。 强大的杀人魔法 80年前，魔王手下有个强大的手下，他的魔法很强大，称为杀人魔法，很多人死于他的魔法之下。 因为他的强大，辛美尔的勇者小队也无法杀死他，只能够将他封印。 80年后，封印即将到期。芙莉莲带着她的徒弟魔法师：菲尔主动打开的封印，轻松的打败了他。为什么呢？因为他的强大，人们在这80年里，在研究他的魔法，以及对应之法。80年后，他的“杀人魔法”已经和普通魔法一样了。 魔族 魔族会人类的语言说为了欺骗，从而达到吃人的目的，而不是为了沟通。或者是为了求饶，比如说妈妈。 魔族对魔法的执着，犹如人类对 财富，地位的执着。 魔族用语言欺骗人类，人类魔法师通过限制魔力(扮猪吃老虎)输出来批评魔族。 最喜欢的魔法 芙莉莲和她师傅最喜欢的魔法：催生出花田的魔法。 茄子：去除衣物上的异物的魔法。.</description>
+    <pubDate>Mon, 13 May 2024 00:53:54 GMT</pubDate>
   </item><item>
-    <title>问题列表</title>
-    <link>https://iamjoel.github.io/dialogue/problem/list</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/list</guid>
-    <description>通用的解决问题的方法 数据分析：AWESOME DATA SCIENCE 生存 健康 如何不晚睡 提升效率 标准化 技能 多邻国如何考 110 分 娱乐.</description>
-    <pubDate>Thu, 25 Apr 2024 02:17:40 GMT</pubDate>
+    <title>《不完美受害人》</title>
+    <link>https://iamjoel.github.io/dialogue/product/series/imperfect-victim</link>
+    <guid>https://iamjoel.github.io/dialogue/product/series/imperfect-victim</guid>
+    <description> 权力异化下人的反应。在位高者面前说不是很难的事。 权力不对等的关系中，弱者往往只能默默承受。 权力，是我给你，你不能拒绝的操作感。 温柔的强迫也是强迫 .</description>
+    <pubDate>Mon, 13 May 2024 00:51:16 GMT</pubDate>
   </item><item>
-    <title>AI Pin</title>
-    <link>https://iamjoel.github.io/dialogue/product/3c/ai-pin</link>
-    <guid>https://iamjoel.github.io/dialogue/product/3c/ai-pin</guid>
-    <description>集成 AI 的 可穿戴设备。想要替代智能手机。 用户反馈使用体验不好。等待后续更新与竞品。 基础信息 创始人：从 Apple 出来的 投资机构： openai.</description>
-    <pubDate>Wed, 24 Apr 2024 16:28:53 GMT</pubDate>
+    <title>桐庐</title>
+    <link>https://iamjoel.github.io/dialogue/fact/city/tonglu/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/fact/city/tonglu/readme</guid>
+    <description>基础信息 位于浙江省西北部 以丘陵山区为主，平原稀少。 待探索 马岭古道。 同事推荐的。 马岭古道，建于元朝，位于浙江省桐庐县、建德市、浦江县三地交界处的崇山峻岭中，始于浦江县虞宅乡马岭脚村，经建德一直到桐庐县芦茨村，所经之处，奇峰怪石，古木参天。 [1-4] 2023年12月27日，马岭古道被浙江省林业局等部门认定为浙江省一级古道，核定总长度40624米（桐庐段14810米、建德段12408米、浦江段13406米）。 个人感受 很适合放松。满眼的山，山上都是树，常见到清澈的山泉。 天子地景区 2024/05/02 - 2024/05/03 去那玩的。感觉还不错，景区看着很大，走的并不多。 项目： 坐 “魔毯” 上山。“魔毯”是斜向上的传送台 喊泉。声音越大，泉水喷的越高。 溶洞。 从山顶到山底到玻璃轨道漂流。以为会很快，其实不快，基本是匀速下降，不刺激。 7D 电影。VR 项目：画面加晃动的车。会晕。 .</description>
+    <pubDate>Mon, 06 May 2024 15:12:55 GMT</pubDate>
   </item><item>
-    <title>3C 产品</title>
-    <link>https://iamjoel.github.io/dialogue/product/3c/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/product/3c/readme</guid>
-    <description>“3C产品”，是计算机类、通信类和消费类电子产品三者的统称，亦称“信息家电”。例如电脑、平板电脑、手机或数字音频播放器等。.</description>
-    <pubDate>Wed, 24 Apr 2024 16:28:11 GMT</pubDate>
+    <title>Rabbit R1</title>
+    <link>https://iamjoel.github.io/dialogue/product/3c/rabbit-r1</link>
+    <guid>https://iamjoel.github.io/dialogue/product/3c/rabbit-r1</guid>
+    <description> we have developed a system that can infer and model human actions on computer applications, perform the actions reliably and quickly, and is well-suited for deployment in various AI assistants and operating systems.</description>
+    <pubDate>Mon, 06 May 2024 09:24:55 GMT</pubDate>
   </item><item>
-    <title>《成都》</title>
-    <link>https://iamjoel.github.io/dialogue/product/song/folk/chengdu</link>
-    <guid>https://iamjoel.github.io/dialogue/product/song/folk/chengdu</guid>
-    <description>基本信息 歌手: 赵雷 歌词 让我掉下眼泪的 不止昨夜的酒 让我依依不舍的 不止你的温柔 余路还要走多久 你攥着我的手 让我感到为难的 是挣扎的自由 分别总是在九月 回忆是思念的愁 深秋嫩绿的垂柳 亲吻着我额头 在那座阴雨的小城里 我从未忘记你 成都 带不走的 只有你 和我在成都的街头走一走 喔… 直到所有的灯都熄灭了也不停留 你会挽着我的衣袖 我会把手揣进裤兜 走到玉林路的尽头 坐在小酒馆的门口 分别总是在九月 回忆是思念的愁 深秋嫩绿的垂柳 亲吻着我额头 在那座阴雨的小城里 我从未忘记你 成都 带不走的 只有你 和我在成都的街头走一走 喔… 直到所有的灯都熄灭了也不停留 你会挽着我的衣袖 我会把手揣进裤兜 走到玉林路的尽头 坐在小酒馆的门口 和我在成都的街头走一走 喔… 直到所有的灯都熄灭了也不停留 和我在成都的街头走一走 喔… 直到所有的灯都熄灭了也不停留 你会挽着我的衣袖 我会把手揣进裤兜 走到玉林路的尽头 走过小酒馆的门口.</description>
-    <pubDate>Wed, 24 Apr 2024 16:21:41 GMT</pubDate>
+    <title>01 light</title>
+    <link>https://iamjoel.github.io/dialogue/product/3c/01-light</link>
+    <guid>https://iamjoel.github.io/dialogue/product/3c/01-light</guid>
+    <description> The 01 Light is a portable voice interface that controls your home computer. It can see your screen, use your apps, and learn new skills. 01 Light 是一款便携式语音接口，可控制您的家用计算机。它可以查看您的屏幕、使用您的应用程序并学习新技能。 01 light Open Interpreter 做的基于 LLM 的语音交互的硬件。.</description>
+    <pubDate>Mon, 06 May 2024 09:06:17 GMT</pubDate>
   </item>
     </channel>
   </rss>
