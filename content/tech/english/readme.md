@@ -792,3 +792,11 @@ tuna  金枪鱼
 * a stop sign 
 * make sure to look  both ways before you across the street at the crosswalk（斑马线）
 * the speed limit here is 60 km per hour.
+
+## 06/01
+* sailing trip 
+* no way means I can't believe that 
+
+## 06/02
+* guess what  means  I  have  news 
+* go on means continue 

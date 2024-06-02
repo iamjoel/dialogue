@@ -6,6 +6,12 @@
       <description>Last 10 notes on Joel 的大唠嗑</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>2024年06月</title>
+    <link>https://iamjoel.github.io/dialogue/personal/daily/2024-06</link>
+    <guid>https://iamjoel.github.io/dialogue/personal/daily/2024-06</guid>
+    <description>概览 体力锻炼 跑步每天 20分钟: 达成率： 2/2。 脑力锻炼 多邻国: 5 个单元+。达成率： 2/2。 饮食: 不吃早饭早饭。达成率： 2/2。 不吃夜宵。达成率： 1/2。未达成：06/01。 休息: 不熬夜。11点30之前睡觉。达成率：2/2。未达成 06/01。 Template 体力锻炼 跑步: 脑力锻炼 多邻国: 饮食: 没吃早饭。 信息: 休息: 02 体力锻炼 跑步: 20分钟，8 圈， 3.</description>
+    <pubDate>Sun, 02 Jun 2024 14:45:10 GMT</pubDate>
+  </item><item>
     <title>贝叶斯推理</title>
     <link>https://iamjoel.github.io/dialogue/tech/math/bayesian-inference</link>
     <guid>https://iamjoel.github.io/dialogue/tech/math/bayesian-inference</guid>
@@ -59,12 +65,6 @@
     <guid>https://iamjoel.github.io/dialogue/product/3c/rabbit-r1</guid>
     <description> we have developed a system that can infer and model human actions on computer applications, perform the actions reliably and quickly, and is well-suited for deployment in various AI assistants and operating systems.</description>
     <pubDate>Mon, 06 May 2024 09:24:55 GMT</pubDate>
-  </item><item>
-    <title>01 light</title>
-    <link>https://iamjoel.github.io/dialogue/product/3c/01-light</link>
-    <guid>https://iamjoel.github.io/dialogue/product/3c/01-light</guid>
-    <description> The 01 Light is a portable voice interface that controls your home computer. It can see your screen, use your apps, and learn new skills. 01 Light 是一款便携式语音接口，可控制您的家用计算机。它可以查看您的屏幕、使用您的应用程序并学习新技能。 01 light Open Interpreter 做的基于 LLM 的语音交互的硬件。.</description>
-    <pubDate>Mon, 06 May 2024 09:06:17 GMT</pubDate>
   </item>
     </channel>
   </rss>
