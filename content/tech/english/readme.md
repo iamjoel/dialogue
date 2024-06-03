@@ -800,3 +800,7 @@ tuna  金枪鱼
 ## 06/02
 * guess what  means  I  have  news 
 * go on means continue 
+
+## 06/03
+* make  up  mind  下定决心
+* Chinese food 中餐
