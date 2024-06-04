@@ -804,3 +804,9 @@ tuna  金枪鱼
 ## 06/03
 * make  up  mind  下定决心
 * Chinese food 中餐
+
+## 06/04
+* volume  means  the  level  of  sound 
+* voicemail  means a voice message 
+* plug in the phone 给手机充电
+* set something up 设置
