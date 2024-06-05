@@ -810,3 +810,6 @@ tuna  金枪鱼
 * voicemail  means a voice message 
 * plug in the phone 给手机充电
 * set something up 设置
+
+## 06/05
+* picture frame 相框

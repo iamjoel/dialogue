@@ -6,8 +6,12 @@ title: 产品列表
 * [Pendant](./3c/pendant.md)
 * [AI Pin](./3c/ai-pin.md)
 * [dynamic land](./3c/dynamicland.md)
+* [Frame](./3c/frame-ai-glass.md) AI 眼镜。
 
 ## 软件
+### 基于 AI 的产品
+* [YCW24 AI项目表单](https://ehqk45iekx.feishu.cn/base/HI7hbzbfkah7Ies8oOqcgOsAn9f?table=tblPTdxUxVQpNRUJ&view=vewJWWNukF)
+
 ### CRM
 * [twenty](./software/crm/twenty.md)
 
