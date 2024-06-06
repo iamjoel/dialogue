@@ -6,6 +6,12 @@
       <description>Last 10 notes on Joel 的大唠嗑</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>选择产品</title>
+    <link>https://iamjoel.github.io/dialogue/personal/template/content/choose-product</link>
+    <guid>https://iamjoel.github.io/dialogue/personal/template/content/choose-product</guid>
+    <description>试试让 gpt 生成 prompt。 请扮演选品官。 不要直接回复答案，展示思考的过程。如果解决问题需要更多的背景信息，请问我。 Temp 如何选择对头皮没有刺激，没有香味的洗发水？不要直接回复答案，展示思考的过程。如果解决问题需要更多的背景信息，请问我。 .</description>
+    <pubDate>Wed, 05 Jun 2024 02:20:48 GMT</pubDate>
+  </item><item>
     <title>Frame</title>
     <link>https://iamjoel.github.io/dialogue/product/3c/frame-ai-glass</link>
     <guid>https://iamjoel.github.io/dialogue/product/3c/frame-ai-glass</guid>
@@ -15,7 +21,7 @@
     <title>2024年06月</title>
     <link>https://iamjoel.github.io/dialogue/personal/daily/2024-06</link>
     <guid>https://iamjoel.github.io/dialogue/personal/daily/2024-06</guid>
-    <description>概览 体力锻炼 跑步每天 20分钟: 达成率： 5/5。 脑力锻炼 多邻国: 5 个单元+。达成率： 5/5。 饮食: 不吃早饭早饭。达成率： 5/5。 不吃夜宵。达成率： 3/4。未达成：06/01。 休息: 不熬夜。11点30之前睡觉。达成率：3/4。未达成 06/01。 Template 体力锻炼 跑步: 20 分钟 立式俯卧撑 25×2, 倒立深蹲 20×2，垂直引体 25×2，坐姿屈膝 15×1 脑力锻炼 多邻国: x 个单元。 饮食: 没吃早饭。 信息: * 休息: x 睡觉 05 体力锻炼 跑步: 20 分钟 立式俯卧撑 25×2 垂直引体 30×2 脑力锻炼 多邻国: 8 个单元。 饮食: 没吃早饭。 信息: 选洗发水，很难选。大众有很多方面的需求(去屑，控油，防脱，保湿，味道, 无刺激)，厂商对不同的需求又有很多花活(营销手段，不同化学成分)。可以让 GPT 来理清思路。 选了花王的珂润。 休息: x 睡觉 04 体力锻炼 跑步: 20 分钟 立式俯卧撑 25×4 垂直引体 25×5 坐姿屈膝 15×2。做到最后几个艰难 脑力锻炼 多邻国: 7 个单元。 饮食: 没吃早饭。 信息: 看《植物的战斗》。讲植物为了生存的各种花活。 休息: 11:29 睡觉。 03 体力锻炼 跑步: 20 分钟 立式俯卧撑 25×5 倒立深蹲 15×4。 脖子附近的背有点弯的不舒服。 坐姿屈膝 15×1 脑力锻炼 多邻国: 7个单元 饮食: 没吃早饭。 信息: https://trends.</description>
+    <description>概览 体力锻炼 跑步每天 20分钟: 达成率： 5/5。 脑力锻炼 多邻国: 5 个单元+。达成率： 5/5。 饮食: 不吃早饭早饭。达成率： 5/5。 不吃夜宵。达成率： 3/4。未达成：06/01。 休息: 不熬夜。11点30之前睡觉。达成率：3/4。未达成 06/01。 Template 体力锻炼 跑步: 20 分钟 立式俯卧撑 25×2, 倒立深蹲 20×2，垂直引体 25×2，坐姿屈膝 15×1 脑力锻炼 多邻国: x 个单元。 饮食: 没吃早饭。 信息: * 休息: x 睡觉 05 体力锻炼 跑步: 20 分钟 立式俯卧撑 25×2 垂直引体 30×2 脑力锻炼 多邻国: 8 个单元。 饮食: 没吃早饭。 信息: 选洗发水，很难选。大众有很多方面的需求(去屑，控油，防脱，保湿，味道, 无刺激)，厂商对不同的需求又有很多花活(营销手段，不同化学成分)。可以让 GPT 来理清思路（如何选择对头皮没有刺激，没有香味的洗发水？不要直接回复答案，展示思考的过程。如果解决问题需要更多的背景信息，请问我。）选择产品 Prompt。 选了花王的珂润。 休息: x 睡觉 04 体力锻炼 跑步: 20 分钟 立式俯卧撑 25×4 垂直引体 25×5 坐姿屈膝 15×2。做到最后几个艰难 脑力锻炼 多邻国: 7 个单元。 饮食: 没吃早饭。 信息: 看《植物的战斗》。讲植物为了生存的各种花活。 休息: 11:29 睡觉。 03 体力锻炼 跑步: 20 分钟 立式俯卧撑 25×5 倒立深蹲 15×4。 脖子附近的背有点弯的不舒服。 坐姿屈膝 15×1 脑力锻炼 多邻国: 7个单元 饮食: 没吃早饭。 信息: https://trends.</description>
     <pubDate>Sun, 02 Jun 2024 14:45:10 GMT</pubDate>
   </item><item>
     <title>贝叶斯推理</title>
@@ -59,12 +65,6 @@
     <guid>https://iamjoel.github.io/dialogue/product/series/imperfect-victim</guid>
     <description> 权力异化下人的反应。在位高者面前说不是很难的事。 权力不对等的关系中，弱者往往只能默默承受。 权力，是我给你，你不能拒绝的操作感。 温柔的强迫也是强迫 .</description>
     <pubDate>Mon, 13 May 2024 00:51:16 GMT</pubDate>
-  </item><item>
-    <title>桐庐</title>
-    <link>https://iamjoel.github.io/dialogue/fact/city/tonglu/readme</link>
-    <guid>https://iamjoel.github.io/dialogue/fact/city/tonglu/readme</guid>
-    <description>基础信息 位于浙江省西北部 以丘陵山区为主，平原稀少。 待探索 马岭古道。 同事推荐的。 马岭古道，建于元朝，位于浙江省桐庐县、建德市、浦江县三地交界处的崇山峻岭中，始于浦江县虞宅乡马岭脚村，经建德一直到桐庐县芦茨村，所经之处，奇峰怪石，古木参天。 [1-4] 2023年12月27日，马岭古道被浙江省林业局等部门认定为浙江省一级古道，核定总长度40624米（桐庐段14810米、建德段12408米、浦江段13406米）。 个人感受 很适合放松。满眼的山，山上都是树，常见到清澈的山泉。 天子地景区 2024/05/02 - 2024/05/03 去那玩的。感觉还不错，景区看着很大，走的并不多。 项目： 坐 “魔毯” 上山。“魔毯”是斜向上的传送台 喊泉。声音越大，泉水喷的越高。 溶洞。 从山顶到山底到玻璃轨道漂流。以为会很快，其实不快，基本是匀速下降，不刺激。 7D 电影。VR 项目：画面加晃动的车。会晕。 .</description>
-    <pubDate>Mon, 06 May 2024 15:12:55 GMT</pubDate>
   </item>
     </channel>
   </rss>
