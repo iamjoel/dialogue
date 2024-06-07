@@ -813,3 +813,7 @@ tuna  金枪鱼
 
 ## 06/05
 * picture frame 相框
+
+## 06/07
+* tiny 小的，紧的
+* democracy 民主 in a democracy 
