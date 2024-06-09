@@ -817,3 +817,19 @@ tuna  金枪鱼
 ## 06/07
 * tiny 小的，紧的
 * democracy 民主 in a democracy 
+
+## 06/08
+* former means from before 
+* mean to do means try to do 
+* be essential for  means be necessary for 
+* shocking means surprised and very bad 
+* in the election 选举 win the election 
+* stand sb 支持某人
+
+## 06/09
+* steakhouse 牛排店
+* think of doing sth 
+* buffet 自助餐
+* book a table 
+* offer to do  主动提供做
+* dim sum 甜点
