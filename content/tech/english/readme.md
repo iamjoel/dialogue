@@ -833,3 +833,18 @@ tuna  金枪鱼
 * book a table 
 * offer to do  主动提供做
 * dim sum 甜点
+
+## 06/10
+* be/feel  anxious 
+* a fear of sth 
+* cliff 悬崖
+* earthquake means earth shakes 
+* be scared of means be afraid of 
+
+## 06/11
+* creep means scary and strange 
+* yikes means oh no
+* thank goodness  means  it's good thing 
+* stress sb out means make sb stressful 
+* run a marathon 跑马拉松
+* be used to doing 
