@@ -848,3 +848,6 @@ tuna  金枪鱼
 * stress sb out means make sb stressful 
 * run a marathon 跑马拉松
 * be used to doing 
+
+## 06/12
+* Maybe I will graduate next year. maybe 放句子开头
