@@ -851,3 +851,8 @@ tuna  金枪鱼
 
 ## 06/12
 * Maybe I will graduate next year. maybe 放句子开头
+
+## 06/13
+* two-day pass 两日票
+* get used to doing ， use to do 
+* a fan of independent films
