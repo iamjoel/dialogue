@@ -856,3 +856,9 @@ tuna  金枪鱼
 * two-day pass 两日票
 * get used to doing ， use to do 
 * a fan of independent films
+
+## 06/14
+* the  plot of the movie 
+* documentary 纪录片
+* popcorn 爆米花
+* can't stand 不能忍受
