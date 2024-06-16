@@ -862,3 +862,13 @@ tuna  金枪鱼
 * documentary 纪录片
 * popcorn 爆米花
 * can't stand 不能忍受
+* thriller 惊悚小说/电影
+
+## 06/15
+* film the documentary 拍摄纪录片
+* contest 比赛
+* judge 裁判
+
+## 06/16
+* this writing is not in English 
+* stay fit 保持身材
