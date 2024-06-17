@@ -872,3 +872,6 @@ tuna  金枪鱼
 ## 06/16
 * this writing is not in English 
 * stay fit 保持身材
+
+## 06/17
+* athlete 运动员
