@@ -875,3 +875,8 @@ tuna  金枪鱼
 
 ## 06/17
 * athlete 运动员
+* beat sb means win for sb 
+* tie the game 打平比赛
+
+## 06/18
+* score a lot of goals
