@@ -880,3 +880,16 @@ tuna  金枪鱼
 
 ## 06/18
 * score a lot of goals
+
+## 06/19
+* hold a fashion show 
+* in a moment 马上
+
+## 06/20
+* make a transaction 
+* deposit 存款 make a deposit 
+* bank teller 
+* temporary 临时的
+* increase credit card limit 
+* is your information up to date 
+* budget 预算 make a budget 
