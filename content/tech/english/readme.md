@@ -893,3 +893,6 @@ tuna  金枪鱼
 * increase credit card limit 
 * is your information up to date 
 * budget 预算 make a budget 
+
+## 06/21
+* reception 信号。手机的信号。
