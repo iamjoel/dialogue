@@ -896,3 +896,10 @@ tuna  金枪鱼
 
 ## 06/21
 * reception 信号。手机的信号。
+
+## 06/22
+* babyset sb 照看某人，经常是小孩
+
+## 06/23
+* ma'am 对女士的尊称，对应 sir 
+* look forward to 期待
