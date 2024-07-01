@@ -903,3 +903,7 @@ tuna  金枪鱼
 ## 06/23
 * ma'am 对女士的尊称，对应 sir 
 * look forward to 期待
+
+## 07/01
+* realtor 房产经纪人
+* steakhouse 牛排馆
