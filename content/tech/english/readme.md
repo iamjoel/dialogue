@@ -907,3 +907,14 @@ tuna  金枪鱼
 ## 07/01
 * realtor 房产经纪人
 * steakhouse 牛排馆
+* meme generator。表情包生成器。
+
+## 07/02
+* be tiring 
+* professor xxx. xxx 教授
+* have a fish allergy 
+* starving 饿极了
+* buy groceries 
+* The sauce is so spicy. My mouse is on fire.
+* chili 辣椒 chili sauce 
+* causal place 休闲/随意的地方
