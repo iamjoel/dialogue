@@ -918,3 +918,13 @@ tuna  金枪鱼
 * The sauce is so spicy. My mouse is on fire.
 * chili 辣椒 chili sauce 
 * causal place 休闲/随意的地方
+
+## 07/03
+* for here or to go 堂食还是带走
+* herb 香草。一种增加风味的调料
+* be out of sth 没有了
+* get your order wrong 
+* disgusting 恶心的
+* sour 酸的
+* it's my treat 我来买单
+* split sth with sb  means share sth with sb 

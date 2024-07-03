@@ -7,6 +7,8 @@ title: 问题列表
 
 ## 生存
 ### 健康
+[如何健康](../tech/health/overview/readme.md)
+
 * 休息：[如何不晚睡?](../tech/health/sleep/avoid-staying-up.md)
 * 饮食：[如何吃的健康](../tech/health/food/readme.md)
 * 积极的心态: [如何放松](../tech/psychology/terms/relax.md)
