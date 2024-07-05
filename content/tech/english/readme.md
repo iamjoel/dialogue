@@ -928,3 +928,8 @@ tuna  金枪鱼
 * sour 酸的
 * it's my treat 我来买单
 * split sth with sb  means share sth with sb 
+
+## 07/04
+* leave  a  tip  留小费
+* band aid 创口贴
+* curtain 窗帘

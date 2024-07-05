@@ -13,4 +13,7 @@
               querySelector: '.mermaid'
             })
           });
-          </script><script src="/dialogue/postscript.js" type="module"></script></html>
+          </script><script type="application/javascript">
+          const socket = new WebSocket('ws://localhost:3001')
+          socket.addEventListener('message', () => document.location.reload())
+        </script><script src="/dialogue/postscript.js" type="module"></script></html>
