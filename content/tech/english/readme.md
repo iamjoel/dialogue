@@ -933,3 +933,13 @@ tuna  金枪鱼
 * leave  a  tip  留小费
 * band aid 创口贴
 * curtain 窗帘
+
+## 07/05
+* olive 橄榄
+* lemonade 柠檬汁
+
+## 07/06
+* album 专辑
+* admission 入场费 the fee of  the admission 
+* balcony 阳台
+* enormous means huge 
