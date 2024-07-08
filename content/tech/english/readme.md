@@ -943,3 +943,12 @@ tuna  金枪鱼
 * admission 入场费 the fee of  the admission 
 * balcony 阳台
 * enormous means huge 
+
+## 07/07
+* receipt  收据
+* school supply 学习用品
+* a robbery 
+* innocent 无罪的
+
+## 07/08
+* file a police report 录口供
