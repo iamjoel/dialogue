@@ -952,3 +952,11 @@ tuna  金枪鱼
 
 ## 07/08
 * file a police report 录口供
+
+## 07/09
+* embassy 大使馆
+
+## 07/10
+* budget 预算
+* athlete 运动员
+* locker 储物柜
