@@ -960,3 +960,12 @@ tuna  金枪鱼
 * budget 预算
 * athlete 运动员
 * locker 储物柜
+* buy one get one free 买一送一
+
+## 07/11
+* routine 日常
+* be about to do means will do something soon 
+* get off means leave work 
+* championship 锦标赛
+* sociable 善于社交的
+* faint 晕倒
