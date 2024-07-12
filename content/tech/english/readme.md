@@ -969,3 +969,7 @@ tuna  金枪鱼
 * championship 锦标赛
 * sociable 善于社交的
 * faint 晕倒
+
+## 07/12
+* learn to do 
+* in charge of some project/sth
