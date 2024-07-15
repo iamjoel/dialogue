@@ -973,3 +973,12 @@ tuna  金枪鱼
 ## 07/12
 * learn to do 
 * in charge of some project/sth
+
+## 07/14
+* fitting room 更衣室
+* zipper 拉链
+* inexpensive 不贵
+* bargain 促销品 some goods on sale 
+
+## 07/15
+* show sb around 
