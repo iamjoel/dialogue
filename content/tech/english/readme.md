@@ -982,3 +982,8 @@ tuna  金枪鱼
 
 ## 07/15
 * show sb around 
+
+## 07/16
+* neighbourhood 这附近
+* armchair 扶手椅
+* stadium 体育馆
