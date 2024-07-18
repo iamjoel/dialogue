@@ -987,3 +987,10 @@ tuna  金枪鱼
 * neighbourhood 这附近
 * armchair 扶手椅
 * stadium 体育馆
+
+## 07/17
+* invention 发明。a great invention 
+* nowadays 如今
+
+## 07/18
+* fifties 50 年代 eighties 80 年代
