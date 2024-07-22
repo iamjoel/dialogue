@@ -1004,3 +1004,6 @@ tuna  金枪鱼
 * depart 出发
 * layover 转机 fly to Shanghai without a layover 
 * hitchhike 搭便车
+
+## 07/22
+* racket 球拍
