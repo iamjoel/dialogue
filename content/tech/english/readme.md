@@ -994,3 +994,13 @@ tuna  金枪鱼
 
 ## 07/18
 * fifties 50 年代 eighties 80 年代
+
+## 07/20
+* cruise 游轮
+* backpacking 背包旅行 go backpacking 
+
+## 07/21
+* ferry 船
+* depart 出发
+* layover 转机 fly to Shanghai without a layover 
+* hitchhike 搭便车
