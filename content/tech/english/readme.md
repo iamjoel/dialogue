@@ -1007,3 +1007,10 @@ tuna  金枪鱼
 
 ## 07/22
 * racket 球拍
+
+## 07/23
+* depart 起飞，出发. The airplane departed this morning.
+* appreciate 感激
+* elderly 老的
+* walk the puppy 
+* be sweet of sb to do 
