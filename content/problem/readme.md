@@ -2,8 +2,15 @@
 title: 问题
 ---
 
-解决问题前，搞清楚：  
-1. 问题本身是个问题吗？
-2. 这是个需要解决的问题吗？
+## 问题
+对我来说，人生有 3 个重要的问题:  
+1. [如何延长健康寿命？](../tech/health/overview/readme.md)
+2. [如何获取财富？](../tech/wealth/readme.md)
+3. [如何找到人生的意义](../tech/the-meaning-of-life/readme.md)。
 
-[问题列表](./list.md)
+延长健康寿命，有更多机会获取下面两个问题的答案。
+
+## 原则
+* [这是个问题吗?](./rule/is-this-a-question.md)
+* 解决问题
+  * [寻找最优解而不是最大化](./rule/is-this-a-question.md)

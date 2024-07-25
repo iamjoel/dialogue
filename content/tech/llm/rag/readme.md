@@ -37,6 +37,24 @@ RAG 可能部分会被 Long Context 技术所取代。即把整个文档作为 C
 ## RAG 和 长 Context LLM 中的使用
 [Unifying RAG and long context LLMs](./resource/unifying-rag-and-long-context-LLMs.md)
 
+## 工具库
+### [R2R](https://www.sciphi.ai/)
+> SciPhi Cloud is powered by R2R, the Supabase for RAG.
+Start your AI application with vector search, authentication,
+hybrid search, advanced RAG, observability, and more.
+
+[GitHub](https://github.com/SciPhi-AI/R2R) [文档](https://r2r-docs.sciphi.ai/walkthrough)
+
+功能：
+* 📁 Multimodal Support: Ingest files ranging from .txt, .pdf, .json to .png, .mp3, and more.
+* 🔍 Hybrid Search: Combine semantic and keyword search with reciprocal rank fusion for enhanced relevancy.
+* 🔗 Graph RAG: Automatically extract relationships and build knowledge graphs.
+* 🗂️ App Management: Efficiently manage documents and users with full authentication.
+* 🔭 Observability: Observe and analyze your RAG engine performance.
+* 🧩 Configurable: Provision your application using intuitive configuration files.
+* 🔌 Extensibility: Develop your application further with easy builder + factory pattern.
+* 🖥️ Dashboard: Use the R2R Dashboard, an open-source React+Next.js app with optional authentication, to interact with R2R via GUI.
+
 ## 资源
 * [A Survey on Retrieval-Augmented Text Generation for Large Language
 Models](./resource/a-survey-on-rag-for-llm.md)

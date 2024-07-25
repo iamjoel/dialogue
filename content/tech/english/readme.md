@@ -1014,3 +1014,7 @@ tuna  金枪鱼
 * elderly 老的
 * walk the puppy 
 * be sweet of sb to do 
+
+## 07/25
+* plan on doing 
+* how may I help you 
