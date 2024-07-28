@@ -12,5 +12,3 @@ title: 问题
 
 ## 原则
 * [这是个问题吗?](./rule/is-this-a-question.md)
-* 解决问题
-  * [寻找最优解而不是最大化](./rule/is-this-a-question.md)

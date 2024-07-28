@@ -1018,3 +1018,15 @@ tuna  金枪鱼
 ## 07/25
 * plan on doing 
 * how may I help you 
+
+## 07/26
+* personality  个性
+* easygoing  随和的 an easygoing person
+* kettle  热水壶. If you want to drink some tea, put on the kettle.
+* occasion 场合. Celebrate the occasion.
+
+## 07/28
+* normally 通常. Normally, he gets up early in the morning.
+* stop by 停留. He stopped by here to say hello.
+* tire 轮胎
+* PDA: Public Display of Affection. 在公开场合表达爱意。
