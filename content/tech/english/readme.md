@@ -1030,3 +1030,9 @@ tuna  金枪鱼
 * stop by 停留. He stopped by here to say hello.
 * tire 轮胎
 * PDA: Public Display of Affection. 在公开场合表达爱意。
+
+## 07/29
+* set the table 
+* jog 慢跑
+* scuba diving 潜水
+* league 联盟
