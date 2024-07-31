@@ -1036,3 +1036,11 @@ tuna  金枪鱼
 * jog 慢跑
 * scuba diving 潜水
 * league 联盟
+
+## 07/30
+* that  sort of thing means  something like that
+* leisure activity 休闲运动
+
+## 07/31
+* gold chain 金链子
+* on the test 
