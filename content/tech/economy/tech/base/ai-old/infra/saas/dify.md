@@ -4,7 +4,7 @@ tags: open-source
 ---
 > The Innovation Engine for Generative AI Applications
 
-[官网](https://dify.ai/) [GitHub](https://github.com/langgenius/dify)
+[官网](https://dify.ai/) [GitHub](https://github.com/langgenius/dify) [G2](https://www.g2.com/products/dify-ai/reviews)
 
 帮助开发者更容易的构建 AI 应用。功能
 * 集成 LLM。支持一堆 LLM。

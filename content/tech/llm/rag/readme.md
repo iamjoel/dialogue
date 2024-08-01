@@ -7,7 +7,7 @@ title: RAG
 ## 解决的问题
 检索增强生成 (简称 RAG) 将检索方法与深度学习进步相结合，通过动态集成最新外部信息来解决大型语言模型 (LLMs) 的静态限制。
 
-简单来说，就是支持从私域数据中(LLM 中不包换的数据)检索信息。从而确保生成内容的准确性。
+简单来说，就是支持从私域数据中(LLM 中不包换的数据)检索信息。从而确保生成内容的准确性。本质就是检索信息。
 
 ## 局限性
 
@@ -60,4 +60,5 @@ hybrid search, advanced RAG, observability, and more.
 Models](./resource/a-survey-on-rag-for-llm.md)
 * [阿里RAG新框架R4：增强检索器-重排序-响应器，5个知识密集任务上都超过Self-RAG等！](https://mp.weixin.qq.com/s/Lsom93jtIr4Pv7DjpQuiDQ) R4：Reinforced Retriever-Reorder-Responder（增强检索器-重排序-响应器）
 * [LLM企业应用落地场景中的问题一览 ｜LLM ｜RAG ｜Agent ｜TorchV](https://mp.weixin.qq.com/s/NvRyRXxhBKT-LSyYZ1llqg)
-
+* GraphRAG: [Implementing ‘From Local to Global’ GraphRAG with Neo4j and LangChain: Constructing the Graph](https://neo4j.com/developer-blog/global-graphrag-neo4j-langchain/) 抽取实体和关系。
+  * 对应论文: https://arxiv.org/abs/2404.16130
