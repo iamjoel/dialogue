@@ -1044,3 +1044,14 @@ tuna  金枪鱼
 ## 07/31
 * gold chain 金链子
 * on the test 
+
+## 08/01
+* get rid of stress 
+* speaking of sth 
+* hang on a minute 
+
+## 08/02
+* hardly know  each other  means  not familiar 
+* nice doing 
+* cereal 麦片
+* pasta 意大利面
