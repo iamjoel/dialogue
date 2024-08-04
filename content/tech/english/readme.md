@@ -1055,3 +1055,7 @@ tuna  金枪鱼
 * nice doing 
 * cereal 麦片
 * pasta 意大利面
+
+## 08/04
+* typically means in general 
+* in common means  the same 
