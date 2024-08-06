@@ -1062,3 +1062,7 @@ tuna  金枪鱼
 
 ## 08/05
 * mainland China 中国大陆
+
+## 08/06
+* receipt 收据
+* racket 球拍
