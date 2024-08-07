@@ -10,5 +10,7 @@ title: 问题
 
 延长健康寿命，有更多机会获取下面两个问题的答案。
 
+引导思考的[最常问的 12 个问题](./feynman-questions.md)。
+
 ## 原则
 * [这是个问题吗?](./rule/is-this-a-question.md)

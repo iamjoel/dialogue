@@ -1066,3 +1066,12 @@ tuna  金枪鱼
 ## 08/06
 * receipt 收据
 * racket 球拍
+
+## 08/07
+* custom 海关
+* make a complaints 
+* quit complaining 
+* cabin 小木屋
+* have three days stay, after a  short stay 
+* contest 比赛
+* brochure 手册
