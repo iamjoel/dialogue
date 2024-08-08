@@ -1075,3 +1075,9 @@ tuna  金枪鱼
 * have three days stay, after a  short stay 
 * contest 比赛
 * brochure 手册
+
+## 08/08
+* karaoke 卡拉 OK
+* toronto 多伦多
+* cabin 小木屋
+* picture frame 相框
