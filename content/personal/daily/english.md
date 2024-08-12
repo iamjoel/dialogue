@@ -1086,3 +1086,20 @@ tuna  金枪鱼
 * plan on doing 
 * brochure 手册
 * intend  to do 打算
+
+## 08/10
+* political party 政党
+* disaster 灾难
+* the majority of 大部分
+* poverty 贫穷 a lot of poverty 
+* rescue sb 
+* charity 慈善机构
+
+## 08/11
+* mayor 市长
+* mainly 主要的
+
+## 08/12
+* photocopy 复印的的名词 make a photocopy 
+* painful 
+* driver's license 驾照
