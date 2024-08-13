@@ -2,7 +2,11 @@
 title: 健康
 ---
 
-* [概览](./overview/readme.md): [身体健康](./overview/physical.md) [心理健康](./overview/mental.md)
-* [饮食](./food/readme.md)
-* [运动](./sport/readmd.md)
-* [资源](./resource/readme.md)
+
+| 内容                   |         作用          |
+|-------------------------|------------------------------|
+| [饮食](./nutrition/readme.md)       |  身体的能量来源。抵抗熵增。 |
+| [运动](./sport/readmd.md)    |   增强身体的活力。  |
+| [休息](./rest/readme.md)    |   有利于身体恢复。  | 
+| [情绪](./mood/readme.md)    |  对影响到行为，对身体健康有只要意义   |
+| [治疗](./treatment/readme.md)    |    辅助身体恢复健康。  |

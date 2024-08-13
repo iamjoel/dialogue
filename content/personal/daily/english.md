@@ -1103,3 +1103,15 @@ tuna  金枪鱼
 * photocopy 复印的的名词 make a photocopy 
 * painful 
 * driver's license 驾照
+
+## 08/13
+* episode 集
+* so far 到目前为止
+* the story is based on real people 
+* soap opera 肥皂剧
+* comedian 喜剧演员
+* game show 
+* remote controller 遥控板
+* kitten 小猫
+* cheerful means happy 
+* detective 侦探

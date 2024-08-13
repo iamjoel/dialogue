@@ -19,5 +19,5 @@ title: 保持活力的 5 种方法
   2. 吃深色的蔬菜。吃和蛋白质。
 
 ## 金句
-> That which cost us energy giveth energy.
+> That which cost us energy given energy.
 > 消耗我们能量的东西会带来能量。

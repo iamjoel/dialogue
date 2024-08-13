@@ -6,6 +6,12 @@
       <description>Last 10 notes on Joel 的大唠嗑</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>治疗</title>
+    <link>https://iamjoel.github.io/dialogue/tech/health/treatment/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/tech/health/treatment/readme</guid>
+    <description></description>
+    <pubDate>Mon, 12 Aug 2024 15:15:44 GMT</pubDate>
+  </item><item>
     <title>考虑清楚要解决什么问题后再行动</title>
     <link>https://iamjoel.github.io/dialogue/problem/rule/think-clearly-to-solve-which-problem-before-action</link>
     <guid>https://iamjoel.github.io/dialogue/problem/rule/think-clearly-to-solve-which-problem-before-action</guid>
@@ -59,12 +65,6 @@
     <guid>https://iamjoel.github.io/dialogue/to-orgnize/core/action-effective-roadmap/automation</guid>
     <description>网络世界的自动化可以靠程序。 工具 浏览器自动化 automa 无头浏览器的库。 .</description>
     <pubDate>Thu, 08 Aug 2024 09:10:40 GMT</pubDate>
-  </item><item>
-    <title>最常问的 12 个问题</title>
-    <link>https://iamjoel.github.io/dialogue/problem/feynman-questions</link>
-    <guid>https://iamjoel.github.io/dialogue/problem/feynman-questions</guid>
-    <description> 你需要12个最喜欢的问题，让它们不断出现在你的脑海里，虽然它们大多时候在休眠。 当你听到一个新的技巧或新结果时，就用你的12个问题分别去测试它，看看是否有帮助。 每隔一段时间你就会有一个大成果，人们会说：「他是怎么做到的？他一定是个天才！」 -费曼的 12 个问题 日常 最近做的频繁的事的流程还可以优化吗？(SOP，自动化) 对于现象： 这个问题的本质是什么？ 这是一个值得思考的问题吗？ TODO:.</description>
-    <pubDate>Wed, 07 Aug 2024 06:54:24 GMT</pubDate>
   </item>
     </channel>
   </rss>

@@ -4,7 +4,7 @@ title: 问题
 
 ## 问题
 对我来说，人生有 3 个重要的问题:  
-1. [如何延长健康寿命？](../tech/health/overview/readme.md)
+1. [如何延长健康寿命？](../tech/health/to-hande-readme.md)
 2. [如何获取财富？](../tech/wealth/readme.md)
 3. [如何找到人生的意义?](../tech/the-meaning-of-life/readme.md)。
 
