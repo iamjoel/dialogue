@@ -1115,3 +1115,11 @@ tuna  金枪鱼
 * kitten 小猫
 * cheerful means happy 
 * detective 侦探
+
+## 08/14
+* spoil the ending 剧透
+* jogging 慢跑
+* high heels 高跟鞋
+
+## 08/15
+* lead actor 主演
