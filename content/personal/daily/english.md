@@ -1123,3 +1123,7 @@ tuna  金枪鱼
 
 ## 08/15
 * lead actor 主演
+
+## 08/16
+* by the time means  before 
+* walk over to 
