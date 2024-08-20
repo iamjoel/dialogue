@@ -1127,3 +1127,8 @@ tuna  金枪鱼
 ## 08/16
 * by the time means  before 
 * walk over to 
+
+## 08/20
+* we've got to get together soon. we really must  ...
+* plain food means simple food 
+* give regards to sb means say hello to sb 
