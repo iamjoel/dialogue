@@ -7,6 +7,7 @@ title: 身体是如何工作的
   * 呼吸
 * 运动
 * 睡眠
+* 大脑
 * 情绪。情绪相关的激素：多巴胺，内啡肽，血清素，催产素。
   * [有压力时，身体会发生些了什么](./mood/feel-stressed-what-happened.md)
   * [调节情绪的血清素](./mood/serotonin-for-mood-regulation.md)

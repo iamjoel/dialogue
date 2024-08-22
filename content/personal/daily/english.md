@@ -1132,3 +1132,7 @@ tuna  金枪鱼
 * we've got to get together soon. we really must  ...
 * plain food means simple food 
 * give regards to sb means say hello to sb 
+
+## 08/22
+* put on makeup 
+* pink is in fashion 
