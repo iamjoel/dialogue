@@ -1136,3 +1136,10 @@ tuna  金枪鱼
 ## 08/22
 * put on makeup 
 * pink is in fashion 
+
+## 08/23
+* mother-in-law 丈母娘，婆婆
+* stepfather 继父
+* immediate family means the direct family member 
+* split up 离婚
+* middle-aged 中年
