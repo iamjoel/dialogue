@@ -1,11 +1,21 @@
 ---
 title: 英语
 ---
-* [人人都能用英语](./why/every-one-can-use-english/readme.md)
+
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
-* 笔记
-* 02/25
+## 08/26
+* put them away 放到他们该在的位置
+* it's my fault 
+* take back an item 退货
+* run out of sth 没货了
+* put up  with 忍受
+
+## 08/25
+* workbook 练习册
+* buy one get one free 
+
+## 02/25
 * bag 有行李的意思 flight 航班
 * board game 桌游 video game 电子游戏
 * take the elevator 坐电梯，用 take
