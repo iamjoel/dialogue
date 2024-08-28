@@ -1153,3 +1153,6 @@ tuna  金枪鱼
 * immediate family means the direct family member 
 * split up 离婚
 * middle-aged 中年
+
+## 08/24
+* driver's license
