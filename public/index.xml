@@ -6,6 +6,18 @@
       <description>Last 10 notes on Joel 的大唠嗑</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>一加</title>
+    <link>https://iamjoel.github.io/dialogue/personal/minimize-dependencies/content/one-t</link>
+    <guid>https://iamjoel.github.io/dialogue/personal/minimize-dependencies/content/one-t</guid>
+    <description> 应用捷径的实现(IOS 的捷径功能)。 自动化 AutoX.js .</description>
+    <pubDate>Thu, 29 Aug 2024 02:19:54 GMT</pubDate>
+  </item><item>
+    <title>个人</title>
+    <link>https://iamjoel.github.io/dialogue/personal/readme</link>
+    <guid>https://iamjoel.github.io/dialogue/personal/readme</guid>
+    <description>日常 保持健康的日常计划 工具 最小化依赖的工具 .</description>
+    <pubDate>Wed, 28 Aug 2024 03:01:04 GMT</pubDate>
+  </item><item>
     <title>人为什么容易有消极情绪？</title>
     <link>https://iamjoel.github.io/dialogue/tech/health/base/mood/why-tend-to-have-nagative-mood</link>
     <guid>https://iamjoel.github.io/dialogue/tech/health/base/mood/why-tend-to-have-nagative-mood</guid>
@@ -18,11 +30,17 @@
     <description>基础信息 作者: 里克•汉森：冥想教练，同时也是一位神经心理学家。理查德•蒙迪思：一位神经学家，从事内科医生近30年。 中文版的翻译比较奇葩： 原版书名：《Buddha´s Brain The Practical Neuroscience of Happiness, Love, and Wisdom》 台湾版: 《像佛陀一樣快樂：愛和智慧的大腦奧祕》 未处理 当你今天有了一个积极乐观的经历时，把它渗入过去的伤痛中去。 当悲观消极的情绪来袭的时候，回想那些积极乐观的情绪和看法，把消极悲观的情绪中和掉。 大脑皮层是在进化的晚期才出现的，要更复杂、更精巧一些，反应速度则较慢，对于各类神经信号都有缓解和抑制作用。 你的精神也一样，是靠你过往的经历构建起来的。你应该创造、呵护和增加那些积极乐观的内隐记忆，并阻挡、消灭和减少那些消极悲观的内隐记忆。 保持你当下的状态，不论你意识到发生了什么——不要过分反应，那你就可以身心安宁。 发脾气往往会把事情搞得更糟。 冥想 加强对情绪脑的控制，避免被奶头乐和无意义的焦虑绑架。 佛陀在他的四圣谛理论里，就确认了痛苦（苦谛），诊断出了痛苦的成因（集谛，对外物的拼命攫取），并指出了解决办法（灭谛，从“集”中解放出来），给出了具体的治疗方案（道谛，也就是八正道）。 一旦你理解了自己为什么感到紧张、厌烦、激愤、失落、忧郁或者不平，这些负面情绪对你就没有那么大的威胁了。 稳定状态被打破，机会消失，威胁靠近，痛苦就产生了。但避免这些（稳定状态，机会，威胁）本身都是妄想。 丘脑，压力荷尔蒙 丘脑——你头部正中的中继站——会向你的脑干发出一个信号：“快清醒过来吧！”脑干紧接着会释放去甲肾上腺素，激活整个大脑。 交感神经系统会向你身体里的主要器官和肌肉群发出信号，让它们做好或战或逃的准备。 下丘脑——大脑的首席荷尔蒙系统调节器官——会激活脑垂体，并向肾上腺发出信号，让它们释放“压力荷尔蒙”肾上腺素和皮质醇。 皮质醇会抑制你的免疫系统，减少伤口发炎的程度。它还会通过两种不同的神经回路反复强化你的紧张反应。 第一，它会通过脑干进一步提高杏仁核的活性，杏仁核又会提升交感神经/下丘脑-垂体-性腺轴(SNS/HPAA)系统的活性，从而分泌更多的皮质醇。 第二，皮质醇会抑制海马体的活性（海马体通常能够抑制杏仁核），这就相当于把杏仁核的刹车器给卸掉了，显然会导致更多的皮质醇分泌。 被唤起的交感神经/下丘脑-垂体-性腺轴系统会进一步激活杏仁核，让这个大脑硬件能够全力以赴，对消极悲观的信息做出快速反应。此时，你的情绪也会强化你的大脑，动员和协调整个大脑的各种资源，时刻准备行动。至此，紧张的感觉已经让你彻底做好准备，随时可以惊恐万状（马上逃跑），或者愤怒异常（立刻战斗）。 当你深呼吸时，会先激活交感神经，然后激活副交感神经。上述这些积极乐观的感觉，就是这对油门和刹车亲密合作的结果。 保持副交感神经处于激活状态，以确保安宁和平和。 温和地激活交感神经，拥有热情、活力和健康的激情。 偶尔让交感神经雄起一把，以应付要求比较高的局面，比如得到了新的工作机会，或者接到了孩子的电话，去一个乱了套的聚会上接他/她回家。 消极悲观经历形成的记忆就像尼龙搭扣一样方便，积极乐观的经历则像特氟龙不粘锅一样难搞。.</description>
     <pubDate>Tue, 27 Aug 2024 09:48:49 GMT</pubDate>
   </item><item>
-    <title>最小化依赖的产品工具</title>
+    <title>最小化依赖的工具</title>
     <link>https://iamjoel.github.io/dialogue/personal/minimize-dependencies/readme</link>
     <guid>https://iamjoel.github.io/dialogue/personal/minimize-dependencies/readme</guid>
-    <description>生活中，可靠的最小的依赖。 最小化。干扰小。 可靠。不容易蹦。 生态。配置性强，可隐藏信息。支持自动化。可拓展。可 信息的检索，筛选。 Chrome。 自动化。 高频 APP Chrome VSCode 微信 微信读书 飞书 .</description>
+    <description>最小化依赖的工具 Mac，手机 Chrome VSCode 微信 微信读书 飞书 筛选标准 生活中，可靠的最小的依赖。 最小化。干扰小。 可靠。不容易蹦。 生态。配置性强，可隐藏信息。支持自动化。可拓展。可 信息的检索，筛选。 Chrome。 自动化。 .</description>
     <pubDate>Tue, 27 Aug 2024 02:32:53 GMT</pubDate>
+  </item><item>
+    <title>Chrome</title>
+    <link>https://iamjoel.github.io/dialogue/personal/minimize-dependencies/content/chrome</link>
+    <guid>https://iamjoel.github.io/dialogue/personal/minimize-dependencies/content/chrome</guid>
+    <description>核心功能 浏览网页。 辅助功能 基于当前网页的检索。 .</description>
+    <pubDate>Tue, 27 Aug 2024 02:32:48 GMT</pubDate>
   </item><item>
     <title>读书记录</title>
     <link>https://iamjoel.github.io/dialogue/personal/daily/read-record</link>
@@ -47,24 +65,6 @@
     <guid>https://iamjoel.github.io/dialogue/tech/health/base/mood/triune-brain</guid>
     <description>三重脑假说(Triune brain)是一个由美国医生、神经科学家保罗·D·麦克莱恩所提出，用以描述脊椎动物前脑与行为的演化过程的模型。 本能脑(爬虫脑复合区) 本能脑负责物种的典型本能行为。例如，调节心跳、呼吸、血压、血液循环、消化以及战斗或逃跑反应。 现代爬行动物和鸟类也具有这部分脑。人类的这部分脑位于脑干中。 它对我们的生存至关重要，不需要我们思考或感知就能运作。 情绪脑(古哺乳动物脑) 情绪脑产生觅食、生殖与育幼行为的动机与情绪。能产生饥饿、疼痛、困倦、愤怒、恐惧与快乐等。情绪脑的反应也是自动的，而且经常是本能反应。 情绪脑由中膈、杏仁核、下丘脑与海马回组成。这部分也被称为边缘系统。 杏仁核是威胁—响应和威胁—解释系统的控制中心。当动物的杏仁核被故意破坏时，这些动物就丧失了攻击行为，同时也丧失了对恐惧做出正常反应的能力，它们变得无所畏惧。杏仁核功能异常可能与抑郁症、创伤后应激障碍、恐惧症、焦虑症和冲动行为等有关。 海马体是主要的记忆中枢：这些大脑结构在情绪事件发生后被激活，并在记忆巩固的过程中相互“交谈”​。由海马体决定短期记忆会被变成长期记忆(存在大脑中)。 情绪脑与多巴胺和内啡肽的释放有关。它影响着习惯的养成和成瘾。 新皮质(新哺乳动物脑) 新皮质的这部分赋予了我们高度的推理能力——进行分析性和逻辑性思考、解决问题、规划未来以及抽象思考的能力。这是大脑中进化程度最高的部分，它调节并努力控制更古老、更原始大脑的冲动。 新皮质组成，这种结构只在高等哺乳类动物，特别是人类身上出现。 前额叶皮质是新皮质的关键组成部分，其复杂性是人类所独有的。它约占大脑总体积的10%，而且正如我们前面提到的，它约占据整个新皮质的1/3。就像首席执行官指挥着众多员工进行业务操作一样，在他的监督下，前额叶皮质努力为传入的信息寻找最佳的可能反应。它使我们能够深思熟虑，而不是立即对情况做出反应，与易做出反应的杏仁核的功能正好相反。 杏仁核和前额叶皮质一直处于交流之中​。这两个区域之间的连接影响着我们的行为以及我们调节冲动和情绪的能力。当交流活动过于失衡，杏仁核的原始反应不受控制地占据主导地位时，麻烦就会出现。例如，科学家们发现焦虑跟杏仁核和前额叶皮质之间的连接微弱有关。没有前额叶皮质的监督，就像房间里没有大人，情绪不成熟的孩子会恣意妄为，无视规则、纪律和边界。.</description>
     <pubDate>Thu, 22 Aug 2024 09:06:23 GMT</pubDate>
-  </item><item>
-    <title>rationality-and-the-prefrontal-cortex</title>
-    <link>https://iamjoel.github.io/dialogue/tech/health/base/mood/rationality-and-the-prefrontal-cortex</link>
-    <guid>https://iamjoel.github.io/dialogue/tech/health/base/mood/rationality-and-the-prefrontal-cortex</guid>
-    <description></description>
-    <pubDate>Thu, 22 Aug 2024 07:44:02 GMT</pubDate>
-  </item><item>
-    <title>控制情绪的前额叶皮质</title>
-    <link>https://iamjoel.github.io/dialogue/tech/health/base/mood/prefrontal-cortex</link>
-    <guid>https://iamjoel.github.io/dialogue/tech/health/base/mood/prefrontal-cortex</guid>
-    <description> 我们拥有异常复杂且特别大的前额叶皮质，因此，我们有能力同情、爱进行有意识的、深思熟虑的创造。 《排毒吧，大脑》 前额叶皮质（prefrontal cortex, PFC）位于大脑额叶的前部。前额叶皮质涉及与计划相关的高层次认知活动、人格表现、作出决定的过程。 控制情绪 边缘系统”负责产生情绪，而“前额叶”负责控制情绪。不通过前额叶的情绪走的是“快”通道，是本能的战斗或逃跑，往往会失控、冲动、负面情绪较多，容易伤人。通过前额叶调节控制的情绪，走的是“慢”通道，前额叶皮层可以抑制冲动的爆发，有理性。事件发生后，等待6秒，前额叶就可接管。从与情绪博弈的角度来看，当情绪（边缘系统）战胜理智与自控（前额叶），很可能拖延行为就产生了。反之，则实现了“自律”。 前额叶皮层属于控制和注意中心，“控制”是主要职责，把你的注意力转移到某个目标上，并进行详细、理性的思考。边缘系统位于脑干的顶部，包括海马、下丘脑、杏仁核等部分，负责情绪和记忆的产生。人类的快乐、悲伤、愤怒、惊讶、恐惧和厌恶等基本情绪，均来自于边缘系统。 发育时间 “前额叶”的成熟时间相对较晚，一般要到25岁以后，才能完全成熟。因此，在儿童时期，由于“前额叶”发育不成熟，在“边缘系统”与“前额叶”的博弈中，负责理智、自控的“前额叶”常常失败。尽管，“控制”对于儿童来讲十分不易，但是，一旦他们体会过“控制”后的快乐，这种场景同样会存储在“边缘系统”中，为下一次情绪与理智的博弈提供助力。 前额叶的发育依赖于亲身经历与体验，他人的说教、经验、讲道理对前额叶的发育无益。人所处的环境越复杂、所在的社群越庞大、经历的事情越多，越能促进前额叶的发育成熟。 前额叶的故事---控制为核心，与情绪博弈 .</description>
-    <pubDate>Thu, 22 Aug 2024 07:38:12 GMT</pubDate>
-  </item><item>
-    <title>让人上瘾的多巴胺</title>
-    <link>https://iamjoel.github.io/dialogue/tech/health/base/mood/addictive-dopamine</link>
-    <guid>https://iamjoel.github.io/dialogue/tech/health/base/mood/addictive-dopamine</guid>
-    <description> 多巴胺是一种渴望。 令人上瘾的会激活奖赏系统。奖赏给我们带来兴奋和愉悦。奖赏机制能促进维持生命的活动，如寻找食物和水、为繁衍后代而发生性行为、照料新生婴儿等。 多巴胺是奖赏系统的一个关键组成部分。多巴胺的升高，会产生强烈的渴求感。当你感受到一个触发奖赏回路的刺激时，多巴胺得到释放，引起一连串的化学信号传递，然后大脑告诉身体要继续获得奖赏，并记住再做一次。 具体来说：杏仁核将某种刺激识别为需要奖赏的体验时，海马体就会将该体验存储到记忆中，以便这种体验能够重复获得。同时，随着多巴胺水平的上升，伏隔核就会活跃起来，并促使你继续做你正在做的事情。举个例子，比如你吃了一大勺冰激凌，好吃极了。你的杏仁核注意到吃冰激凌让你感觉很快乐，而你的海马记录了你为获得冰激凌所做的事情，这样一来，你就会记住如何再次获得冰激凌，而你的伏隔核会促使你再吃一口。同时，你的前额叶皮质会帮助你专注于吃完冰激凌。这样，奖赏回路会一直运转下去。 甜味，赌博，刷抖音等极大的激活了大脑中多巴胺的奖赏回路。.</description>
-    <pubDate>Thu, 22 Aug 2024 06:44:39 GMT</pubDate>
   </item>
     </channel>
   </rss>

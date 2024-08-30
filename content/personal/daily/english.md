@@ -1156,3 +1156,11 @@ tuna  金枪鱼
 
 ## 08/24
 * driver's license
+
+## 08/29
+* promote 晋升，促销。 sb get promoted. sb promote sb 
+* be jealous of sb 嫉妒
+* admit 承认
+* due to  means  because of 
+* get a loan 贷款
+* it depends means maybe 

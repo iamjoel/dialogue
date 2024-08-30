@@ -7,7 +7,7 @@
 本仓库是围绕解决我的 **[问题](./content/problem/readme.md)** 的知识管理系统。
 
 人活一世，本质都是在解决问题。大到生存，人生意义的问题，小到抓住一次机会，度过一次危机。围绕问题，有如下几块内容: 
-1. [问题](./content/problem/list.md) 要解决的问题。
+1. [问题](./content/problem/readme.md) 要解决的问题。
 1. [现实](./content/fact/readme.md) 现实数据。
 1. [技术](./content/tech/readme.md) 解决问题的方法论。所谓 “道”。
 1. [产品](./content/product/readme.md) 解决问题的具体方案。所谓 “术”。
