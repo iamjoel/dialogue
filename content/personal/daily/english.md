@@ -4,6 +4,14 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 09/01
+* say a prayer 祷告
+* jewish 犹太人
+* religion 宗教
+* buddist 佛教徒
+* preist 神父
+* aniest
+
 ## 08/26
 * put them away 放到他们该在的位置
 * it's my fault 
