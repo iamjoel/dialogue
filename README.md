@@ -17,3 +17,6 @@
 > \- 马兆远 [《量子大唠嗑》](./content/product/book/science/quantum-dialog.md)
 
 唠嗑是解决问题的有效方法。
+
+## 其他
+当该项目有内容时，会自动触发预览(https://github.com/iamjoel/dialogue-view-service) 服务。
