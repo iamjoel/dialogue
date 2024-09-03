@@ -33,5 +33,6 @@ title: Joel 的大唠嗑
 * 琐碎低频信息的记录。是噪音，是负担。
 
 ## 导航
+* [Nav](./nav.md) 没那么常用，但有价值的链接的导航。
 * [标签导航](/tags)。[标签整理](./tag.md)
 * [经验](./product/experience/readme.md)
