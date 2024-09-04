@@ -19,4 +19,4 @@
 唠嗑是解决问题的有效方法。
 
 ## 其他
-当该项目有内容时，会自动触发预览(https://github.com/iamjoel/dialogue-view-service) 服务。
+当该项目有内容变动时，会自动触发构建新的[预览服务](https://github.com/iamjoel/dialogue-view-service)。

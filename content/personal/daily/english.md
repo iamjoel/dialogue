@@ -4,6 +4,13 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 09/04
+* resort 度假村
+* souvenir 纪念品
+* vegetarian 素食的 vegetarian dishes 
+* but me means except me 
+* make a great progress on sth
+
 ## 09/02
 * goodness 女神
 * atheist 无神论者
