@@ -4,6 +4,9 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 09/05
+* a good point  means a good idea  
+
 ## 09/04
 * resort 度假村
 * souvenir 纪念品
