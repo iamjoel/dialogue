@@ -4,6 +4,10 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 09/07
+* antique 古董
+* basement 地下室
+
 ## 09/05
 * a good point  means a good idea  
 
