@@ -12,3 +12,6 @@ title: Nav
 
 ## 资源
 * [z library](https://z-lib.io/)
+
+## 小工具
+* [计算器](https://v0.build/suxRd03)
