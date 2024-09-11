@@ -4,6 +4,10 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 09/08
+* mess up 搞砸了
+* do something on purpose 
+
 ## 09/07
 * antique 古董
 * basement 地下室
