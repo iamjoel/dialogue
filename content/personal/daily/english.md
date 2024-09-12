@@ -4,6 +4,11 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 09/12
+* apologize 
+* faint 晕倒
+* I'm thinking of staying in Japan for an extra day 
+
 ## 09/08
 * mess up 搞砸了
 * do something on purpose 
