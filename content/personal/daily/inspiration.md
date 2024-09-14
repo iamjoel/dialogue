@@ -2,6 +2,11 @@
 title: 灵感
 ---
 
+## Monika
+[从Monica.im“智能工具箱”，Websim.ai，及李继刚“汉语新解”：AI Coding带来的新范式，不止Cursor！](https://mp.weixin.qq.com/s/hwOAxwTi4oilCTqx62wyxg)
+
+工具上的工具。灵活性很高
+
 ## 支持在线调整 UI 的 Tailwind 组件库
 
 一些 Tailwind 的组件库。支持以可视化的方式调整 UI
