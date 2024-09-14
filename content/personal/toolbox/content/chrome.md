@@ -59,3 +59,7 @@ title: Chrome
 | 不熟悉的名词 | 不熟悉领域的名词，如 RAG | 文字搜索 |
 | 不熟悉的图片 | 对图片上的内容感兴趣 | 图片搜索(Search with Google Len) |
 | 外语 | 概念的搜索 | 翻译。 沉浸式翻译 |
+
+## 工具
+* 油猴，暴力猴，篡改猴这种： 确定的 JS。 https://linux.do/t/topic/163038/23
+* Monica 这种 AI 工具浏览器插件： 把页面内容丢给 LLM。 https://mp.weixin.qq.com/s/hwOAxwTi4oilCTqx62wyxg
