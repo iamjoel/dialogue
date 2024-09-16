@@ -4,6 +4,16 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 09/16
+* sweep the floor 
+* tank 油箱
+* trunk 后备箱
+* sidewalk 步行道
+* fill up the tank 
+
+## 09/15
+* unemployed
+
 ## 09/14
 * the  benefits of the job 
 * put effort into sth  努力做
