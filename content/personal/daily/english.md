@@ -4,6 +4,12 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 09/18
+* car wash 洗车店
+* windshield 挡风玻璃
+* brake 刹车
+* lap 大腿
+
 ## 09/16
 * sweep the floor 
 * tank 油箱
