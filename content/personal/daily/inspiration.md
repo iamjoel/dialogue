@@ -9,7 +9,9 @@ title: 灵感
 [An interesting spreadsheet of 5000 npm packages](https://docs.google.com/spreadsheets/d/1oYJxQgMA7lQ6-wNaBKNNDz6vr3Yaa1EDsI_Hakr4ROg/edit?gid=1891857584#gid=1891857584) ranked by package size, weekly downloads, and traffic. Amazingly, one package is responsible for 278 terabytes of traffic per week.  
 
 ## Monika
-[从Monica.im“智能工具箱”，Websim.ai，及李继刚“汉语新解”：AI Coding带来的新范式，不止Cursor！](https://mp.weixin.qq.com/s/hwOAxwTi4oilCTqx62wyxg)
+[从Monica.im“智能工具箱”，Websim.ai，及李继刚“汉语新解”：AI Coding带来的新范式，不止Cursor！](https://mp.weixin.qq.com/s/hwOAxwTi4oilCTqx62wyxg)。
+
+[sider](https://sider.ai/zh-CN) 也是类似的产品。
 
 工具上的工具。灵活性很高
 
