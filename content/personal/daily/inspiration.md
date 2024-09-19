@@ -2,6 +2,12 @@
 title: 灵感
 ---
 
+## [Top 5 HTTP Request Libraries for Node.js](https://blog.appsignal.com/2024/09/11/top-5-http-request-libraries-for-nodejs.html)
+
+对比库的维度。
+
+[An interesting spreadsheet of 5000 npm packages](https://docs.google.com/spreadsheets/d/1oYJxQgMA7lQ6-wNaBKNNDz6vr3Yaa1EDsI_Hakr4ROg/edit?gid=1891857584#gid=1891857584) ranked by package size, weekly downloads, and traffic. Amazingly, one package is responsible for 278 terabytes of traffic per week.  
+
 ## Monika
 [从Monica.im“智能工具箱”，Websim.ai，及李继刚“汉语新解”：AI Coding带来的新范式，不止Cursor！](https://mp.weixin.qq.com/s/hwOAxwTi4oilCTqx62wyxg)
 

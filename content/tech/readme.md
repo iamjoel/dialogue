@@ -34,5 +34,5 @@ title: 技术
 
 
 ## 模板
-* [学科/主题概览](../personal/template/content/subject.md)
+* [学科/主题概览](../personal/sop/content/subject.md)
 

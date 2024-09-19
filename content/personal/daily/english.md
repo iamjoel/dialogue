@@ -4,6 +4,9 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 09/19
+* stop sign is a street sign 
+
 ## 09/18
 * car wash 洗车店
 * windshield 挡风玻璃
