@@ -4,6 +4,16 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 09/20
+* gas and brake 油门和刹车
+* can't stand sth 不能忍受 
+* silverware 餐具
+* lime 酸橙
+* squash 南瓜
+* alcoholic drink 含酒精饮料
+* bacon 培根
+* scrambled eggs 炒蛋
+
 ## 09/19
 * stop sign is a street sign 
 
