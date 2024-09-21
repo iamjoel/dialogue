@@ -2,6 +2,23 @@
 title: 灵感
 ---
 
+## [termshot](https://github.com/homeport/termshot)
+生成命令行截图的工具。 是不是可以搞成 Markdown 那种: 声明语意，根据语意来生成结果。感觉 PPT 是不是也可以这样：把语意和 UI 解耦。
+
+> The idea is similar to what carbon.now.sh, instaco.de, or codekeep.io/screenshot do. Instead of applying syntax highlight based on a programming language, termshot is using the ANSI escape codes of the program output. 
+
+## [next-saas-starter](https://github.com/leerob/next-saas-starter)
+Framework: Next.js
+Database: Postgres
+ORM: Drizzle
+Payments: Stripe
+UI Library: shadcn/ui
+
+
+## [Animate to height: auto; (and other intrinsic sizing keywords) in CSS](https://developer.chrome.com/docs/css-ui/animate-to-height-auto/)
+
+CSS 动画能力的拓展。
+
 ## [Top 5 HTTP Request Libraries for Node.js](https://blog.appsignal.com/2024/09/11/top-5-http-request-libraries-for-nodejs.html)
 
 对比库的维度。

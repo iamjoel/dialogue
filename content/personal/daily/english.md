@@ -4,6 +4,9 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 09/21
+* flour 面粉
+
 ## 09/20
 * gas and brake 油门和刹车
 * can't stand sth 不能忍受 
