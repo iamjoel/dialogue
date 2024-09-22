@@ -4,6 +4,9 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 09/22
+* get lost, get  tired 到什么状态
+
 ## 09/21
 * flour 面粉
 
