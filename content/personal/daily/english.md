@@ -4,6 +4,14 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 09/23
+* pregnant 怀孕的
+* symptom 生病的症状。My main symptom is an ache in the arm.
+* have surgery on 做手术
+* elbow 手肘
+* healthy insurance 
+* earache 耳痛
+
 ## 09/22
 * get lost, get  tired 到什么状态
 
