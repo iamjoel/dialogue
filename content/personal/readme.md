@@ -2,8 +2,6 @@
 title: 个人
 ---
 
-## 日常
-* [保持健康的日常计划](./daily-plan/0.0.2.md)
-
-## 工具
-* [最小化依赖的工具](./minimize-dependencies/readme.md)
+## 内容
+* [SOP](./sop/readme.md)。我解决一些问题和做一些任务的最佳路径。
+* [观点](./sop/readme.md)
