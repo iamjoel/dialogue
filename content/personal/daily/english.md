@@ -4,6 +4,9 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 09/24
+* patient 病人
+
 ## 09/23
 * pregnant 怀孕的
 * symptom 生病的症状。My main symptom is an ache in the arm.
