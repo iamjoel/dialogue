@@ -4,6 +4,9 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 09/25
+* sour 酸的
+
 ## 09/24
 * patient 病人
 
