@@ -4,6 +4,13 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 09/26
+* midterm 期中考试
+* final exam 
+* absent 缺席的
+* report card 学习报告单
+* rewrite the essay
+
 ## 09/25
 * sour 酸的
 
@@ -19,7 +26,7 @@ title: 英语
 * earache 耳痛
 
 ## 09/22
-* get lost, get  tired 到什么状态
+* get lost, get tired 到什么状态
 
 ## 09/21
 * flour 面粉
@@ -54,11 +61,11 @@ title: 英语
 * unemployed
 
 ## 09/14
-* the  benefits of the job 
-* put effort into sth  努力做
+* the benefits of the job 
+* put effort into sth 努力做
 
 ## 09/13
-* put up with 忍受 xxx
+* put up with 忍受 xxx
 
 ## 09/12
 * apologize 
@@ -74,7 +81,7 @@ title: 英语
 * basement 地下室
 
 ## 09/05
-* a good point  means a good idea  
+* a good point means a good idea  
 
 ## 09/04
 * resort 度假村
@@ -99,7 +106,7 @@ title: 英语
 * it's my fault 
 * take back an item 退货
 * run out of sth 没货了
-* put up  with 忍受
+* put up with 忍受
 
 ## 08/25
 * workbook 练习册
@@ -119,11 +126,11 @@ title: 英语
 * spend time with/ spend the day with the / spend some time doing sth
 * have fun doing 做啥事很开心
 
-* 02/26
+## 02/26
 * 在未来的某个时间点正在做什么也可以用现在进行时。 I am doing my homework tomorrow evening
 ticket office 售票局
 
-* 02/27
+## 02/27
 * get lost in 除了有迷路的意思，还有被…迷住的引申意。 如 I get lost in her beautiful eyes
 * back 还有背的意思。 backpack
 * get some rest 休息一下
@@ -136,27 +143,27 @@ ticket office 售票局
 * make an appointment 预约。make an appointment for some time/ for sb
 * available 有空
 
-* 02/28
+## 02/28
 * good for my body 对我的身体好
 * have a cold 感冒了
 * pick up something 捡起…
 * carry bags 拿着行李
 
-* 02/29
+## 02/29
 * tourist 旅行者
 * take a tour of , on a tour of
 
-* 03/01
+## 03/01
 * have fun doing
 * dessert 甜点
 * start doing
 * fall down 摔倒
 * on vacation 在度假
 
-* 03/02
+## 03/02
 * vegetables are good for the body. 注意 body 前有 the
 
-* 03/03
+## 03/03
 * on a trial 在一条小道上
 * ask for help 寻求方式
 * could I speak to sb 我能和谁打电话吗
@@ -165,19 +172,19 @@ ticket office 售票局
 * start a new business 开始一项新业务
 * unfortunately 不幸的是
 
-* 03/04
+## 03/04
 * regular meeting 例会
 * rock climbing 攀岩
 * have a competition 比赛
 * ask sb for help 寻求帮助
 * isn't working 不工作了
 
-* 03/05
+## 03/05
 * daily meeting 每日例会
 * meet to do sth 见面做某事
 * visit sb 看望某人
 
-* 03/06
+## 03/06
 * red envelope 红包
 * Chinese new year 春节
 * such a good boy
@@ -186,15 +193,15 @@ ticket office 售票局
 * Everyone gets old.
 * let's hurry. hurry 后面没有 up
 
-* 03/07
+## 03/07
 * camp 野营的动词
 * he was back from the business trip. 他出差回来了
 * hiking 徒步旅行
 * on new year's day 在元旦
 
-* 03/08
+## 03/08
 * christmas eve 平安夜
-* wear read 穿红色
+* wear red 穿红色
 * have some snacks
 * build a snowman 堆雪人
 * make dumplings 包饺子
@@ -203,7 +210,7 @@ ticket office 售票局
 * shopping for sth
 * have a party 办聚会
 
-* 03/09
+## 03/09
 * hurt 的过去式还是 hurt
 * on a business trip 在出差
 * pool 游泳池
@@ -216,7 +223,7 @@ ticket office 售票局
 * couch 沙发
 * singer room 单人房
 
-* 03/10
+## 03/10
 * trouble 用中文谐音为出包
 * dresser 柜子，衣柜
 * shelf 架子
@@ -228,7 +235,7 @@ ticket office 售票局
 * a good size 大小合适
 * bathroom 除了浴室还有洗手间的意思
 
-* 03/11
+## 03/11
 * living room walls. room 后面不带所有格
 * textbook 课本
 * wash the dishes 洗碗
@@ -241,7 +248,7 @@ ticket office 售票局
 * get some fresh air
 * go for a walk
 
-* 03/12
+## 03/12
 * jump on me 跳到我身上
 * heavy rain 大雨
 * storm: rain hard
@@ -250,7 +257,7 @@ ticket office 售票局
 * how do you feel
 * call sb 给...打电话
 
-* 03/13
+## 03/13
 * wear makeup 化妆
 * what happened to / what's wrong with
 * sleep for too long
@@ -268,7 +275,7 @@ ticket office 售票局
 * take notes 做笔记
 * have a busy day 忙了一天
 
-* 03/14
+## 03/14
 * ticket office 售票处
 * be far from
 * blond hair 金发
@@ -280,7 +287,7 @@ ticket office 售票局
 * how you been 你过得怎么样
 * come to work 来上班
 
-* 03/15
+## 03/15
 * stay at work late
 * resume 简历，摘要。注意英文发音
 * what is it about
@@ -288,7 +295,7 @@ ticket office 售票局
 * this seat is taken
 * dining hall 食堂。和 cafeteria 同义
 
-* 03/16
+## 03/16
 * sit in the
 * put a check next to the correct answer
 
@@ -298,7 +305,7 @@ ticket office 售票局
 * take a seat 
 * did they get back 
 * garlic 蒜
-* have nothing to do  没什么要做
+* have nothing to do 没什么要做
 * ten thousand 一万
 * a simple life
 * take the day off 请假
@@ -321,7 +328,7 @@ ticket office 售票局
 * umbrella 
 * sit on the sofa less and go to the gym more 
 * yesterday at 6 a.m
-* don't do sth at  all  一点也不
+* don't do sth at all 一点也不
 * at that time 在那个时候
 * bar 也有吧台的意思
 * get food 也是买东西的意思
@@ -331,7 +338,6 @@ ticket office 售票局
 * tent 帐篷
 * take out my phone 
 * a beginner level English class 
-
 
 ## 03/21
 * get a taxi 打车
@@ -356,9 +362,9 @@ ticket office 售票局
 * somewhere else: some place is not here 
 * bracelet 手链
 * stay away from: not go to 
-* except for someone:  not include someone 
+* except for someone:  not include someone 
 * in the end 
-* spill  弄撒
+* spill 弄撒
 * libra 天秤座
 * take from the rich people and give to poor people 
 * this is the letter that the king wrote
@@ -367,10 +373,10 @@ ticket office 售票局
 * millions of animal
 * swimsuit 泳衣
 * get something for free
-* he looks nice in  that  suit 
+* he looks nice in  that  suit 
 * the suit look good on him 
 * on sale: the price is cheaper than regular 
-* try on  试穿 try the  sweater on 
+* try on 试穿 try the  sweater on 
 * wrong size 尺码不对
 * a hundred and ten 
 * the total cost of sth 
@@ -378,6 +384,7 @@ ticket office 售票局
 * wait in line 排队
 
 ## 03/23
+* pay  过去式 paid 
 * pay  过去式 paid 
 * purse  手提包
 * are you all right 你没事吧

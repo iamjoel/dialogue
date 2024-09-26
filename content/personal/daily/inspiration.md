@@ -2,6 +2,14 @@
 title: 灵感
 ---
 
+## [Masonry layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout/Masonry_layout)
+> Masonry layout is a layout method where one axis uses a typical strict grid layout, most often columns, and the other a masonry layout. On the masonry axis, rather than sticking to a strict grid with gaps being left after shorter items, the items in the following row rise up to completely fill the gaps.
+
+## [new-values-and-functions-in-CSS](https://alvaromontoro.com/blog/68062/new-values-and-functions-in-CSS)
+一些有意思的 css 方法。
+比如 random 值，设置值为属性的值。
+
+
 ## [termshot](https://github.com/homeport/termshot)
 生成命令行截图的工具。 是不是可以搞成 Markdown 那种: 声明语意，根据语意来生成结果。感觉 PPT 是不是也可以这样：把语意和 UI 解耦。
 
