@@ -8,6 +8,7 @@ title: SOP
 ### 保持健康和好状态
 * [每月生活记录模板](./content/life/daily.md)
 * [保持健康的日常计划 0.0.3](./content/life/daily-plan/0.0.3.md)
+* [推荐](./content/life/good-bad/good.md) & [避免](./content/life/good-bad/bad.md)
 
 ### 提升社交的效率
 * [人模板](./content/life/relationship/people.md)

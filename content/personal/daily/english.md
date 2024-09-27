@@ -4,6 +4,9 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 09/27
+* literature
+
 ## 09/26
 * midterm 期中考试
 * final exam 
