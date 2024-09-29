@@ -4,6 +4,11 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 09/29
+* set up the party means prepare for the party 
+* high heels 高跟鞋
+* accent 口音
+
 ## 09/27
 * literature
 

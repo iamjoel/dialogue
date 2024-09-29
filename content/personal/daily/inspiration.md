@@ -2,6 +2,13 @@
 title: 灵感
 ---
 
+## [driver.js](https://github.com/kamranahmedse/driver.js?tab=readme-ov-file)
+制作精良的做新手引导的库。
+
+## [Start Building These Projects to Become an LLM Engineer](https://dswharshit.medium.com/start-building-these-projects-to-become-an-llm-engineer-0064e9e68d9d)
+
+专门做 LLM 课程的。
+
 ## [Masonry layout](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout/Masonry_layout)
 > Masonry layout is a layout method where one axis uses a typical strict grid layout, most often columns, and the other a masonry layout. On the masonry axis, rather than sticking to a strict grid with gaps being left after shorter items, the items in the following row rise up to completely fill the gaps.
 
