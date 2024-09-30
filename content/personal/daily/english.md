@@ -4,6 +4,12 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 09/30
+* charming 迷人的
+* mustache 胡子
+* gorgeous 美丽的
+* lyric 歌词
+
 ## 09/29
 * set up the party means prepare for the party 
 * high heels 高跟鞋
@@ -358,7 +364,7 @@ ticket office 售票局
 * for how many nights 住几晚
 * have room available 
 * I don't mind 我不介意
-* a long flight 漫长的航班。long 也有时间漫长的意思
+* a long flight 漫长的航班。long ��有时间漫长的意思
 
 ## 03/22
 * close the curtain(窗帘)
