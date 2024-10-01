@@ -2,8 +2,6 @@
 title: Nav
 ---
 
-TODO: 导航会有散的问题。将生活拆成一个个场景，用场景来组织导航是不是会比较好。
-
 ## 健康
 * [BioloGPT](https://biologpt.com/)
 
