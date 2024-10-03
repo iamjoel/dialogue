@@ -4,6 +4,9 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 10/03
+sweat 流汗
+
 ## 09/30
 * charming 迷人的
 * mustache 胡子

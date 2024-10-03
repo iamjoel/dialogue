@@ -4,6 +4,9 @@ title: SOP
 
 我解决一些问题和做一些任务的最佳路径。
 
+## 通用
+* 精进: [PDCA](./content/common/pdca.md)
+
 ## 生活
 ### 保持健康和好状态
 * [每月生活记录模板](./content/life/daily.md)
