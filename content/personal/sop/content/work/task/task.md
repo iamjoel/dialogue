@@ -1,8 +1,10 @@
 ---
-title: 任务模板
+title: 任务
 ---
 
 ![任务模板](./images/task-template.jpg)
+
+单个任务的管理。
 
 ## 资源
 放这个任务相关的资源的链接。这个可以用飞书的多列来减少占用的垂直空间。类似：
@@ -31,4 +33,4 @@ title: 任务模板
 
 ## 测试用例
 [测试用例模板](./test-case.md)
-[接口问题协助](help-wanted-api.md)
+[接口问题协助](./help-wanted-api.md)

@@ -7,9 +7,9 @@ title: 输出
 
 ## 09
 * SOP
-  * [日常工作任务管理](../sop/content/work/task-management.md)
-  * [任务](../sop/content/work/task.md)
-  * [测试用例](../sop/content/work/test-case.md)
-  * [接口问题协助](../sop/content/work/help-wanted-api.md)
+  * [日常工作任务管理](../sop/content/work/task/task-management.md)
+  * [任务](../sop/content/work/task/task.md)
+  * [测试用例](../sop/content/work/task/test-case.md)
+  * [接口问题协助](../sop/content/work/task/help-wanted-api.md)
 * 观点
   * [生命的本质](../viewpoint/content/the-essence-of-life/readme.md)

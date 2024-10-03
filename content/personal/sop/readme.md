@@ -24,5 +24,5 @@ title: SOP
 
 ## 工作
 ### 提升工作效率
-* [每周任务管理](./content/work/task-management.md)
-* [任务模板](./content/work/task.md)
+* [每周任务管理](content/work/task/task-management.md)
+* [任务模板](content/work/task/task.md)
