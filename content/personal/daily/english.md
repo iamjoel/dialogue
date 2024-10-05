@@ -4,8 +4,15 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 10/05
+* explode 爆炸
+* yesterday's fire
+
+## 10/04
+* protest 抗议游行
+
 ## 10/03
-sweat 流汗
+* sweat 流汗
 
 ## 09/30
 * charming 迷人的
