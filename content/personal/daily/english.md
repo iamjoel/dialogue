@@ -4,6 +4,20 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 10/08
+* windshield 挡风玻璃
+* lamp 台灯
+* shorts 短裤
+* jog 慢跑
+* town 城里
+
+
+## 10/07
+* the holiday sale 假日特卖
+
+## 10/06
+* shoot the gun
+
 ## 10/05
 * explode 爆炸
 * yesterday's fire
