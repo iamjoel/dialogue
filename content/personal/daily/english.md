@@ -4,6 +4,16 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 10/09
+* concentrate 专注 pay attention 
+* had better not  do 
+* against the law means not follow the law,break   the law 
+* seatbelt 安全带 buckle the seatbelt 
+* speeding 超速的
+* a ticket 罚单
+* fast lane 快车道
+* meditate 冥想
+
 ## 10/08
 * windshield 挡风玻璃
 * lamp 台灯

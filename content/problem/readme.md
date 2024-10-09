@@ -13,7 +13,8 @@ title: 问题
 健康是基础，财富是工具，意义是指引。三者相互支持，共同构建了一个充实而平衡的人生。
 
 ## 基础问题
-1. [如何提升做事的效率？](./how-to-improve-working-efficiency/readme.md)
+1. 如何从现实中识别出问题
+2. [如何提升做事的效率？](./how-to-improve-working-efficiency/readme.md)
   1. [如何做好信息管理](./how-to-improve-working-efficiency/how-to-manage-info.md)
 
 ## 通用结构
