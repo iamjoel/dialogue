@@ -4,6 +4,10 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 10/10
+* stoplight 红绿灯
+* go through a red light 闯红灯
+
 ## 10/09
 * concentrate 专注 pay attention 
 * had better not  do 
