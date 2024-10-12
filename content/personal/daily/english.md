@@ -4,6 +4,13 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 10/12
+* get light 天亮
+* ranch 牧场
+* calf 小牛
+* cattle 牛。各种牛(bull,cow, calf)的统称。
+* shore 岸边就 walk along the shore 
+
 ## 10/10
 * stoplight 红绿灯
 * go through a red light 闯红灯
