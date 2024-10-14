@@ -6,6 +6,10 @@ AI 本质上就是能执行复杂任务。在这些复杂任务的表现上能�
 
 ## AI 的能力边界
 OpenAI 泄露的，他们认为的 AI 的 [5 个 level](https://medium.com/@dheeren.velu/ais-s-5-level-framework-to-agi-2d0ef4880f95) ,用于理解AI功能的演变的路线图。
+> On July 9th, OpenAI internally presented a five-step roadmap to track its progress towards achieving Artificial General Intelligence (AGI). 
+> It’s a structured framework for tracking progress in AI development - and it leaked via Bloomberg.
+
+
 
 ### Level 1: Conversational AI
 第一级：对话式人工智能

@@ -2,6 +2,8 @@
 title: Nav
 ---
 
+![](./imgs/cute.jpg)
+
 ## 健康
 * [BioloGPT](https://biologpt.com/)
 
