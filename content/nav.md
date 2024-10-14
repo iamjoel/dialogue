@@ -2,7 +2,7 @@
 title: Nav
 ---
 
-![](./imgs/cute.jpg)
+<img src='./imgs/cute.jpg' width='300px' />
 
 ## 健康
 * [BioloGPT](https://biologpt.com/)
