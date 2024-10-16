@@ -4,6 +4,12 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 10/13
+* athletic 运动的
+* clap 鼓掌
+* curriculum 课程
+* get permission to do 
+
 ## 10/12
 * get light 天亮
 * ranch 牧场

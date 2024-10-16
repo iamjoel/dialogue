@@ -2,6 +2,9 @@
 title: 灵感
 ---
 
+## 人类简史
+用人类简史的抽象高度来写前端之类的简史。
+
 ## [If Design](https://ifdesign.com/en/winner-ranking/winner-overview?awardId=2&disciplineId=1&sort=random&yearId=0)
 看到一些得奖的东西。感受设计好的感觉。
 
