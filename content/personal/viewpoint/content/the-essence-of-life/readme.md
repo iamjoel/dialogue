@@ -11,5 +11,8 @@ title: 生命的本质
 
 生存的过程中，会做一个个决策，决策的本质都是[趋利避害](./survival-strategy-seeking-benefits-and-avoiding-harm.md)。
 
+### 生存能力
+生存能力，本质是适应环境变化的能力。
+
 ## 繁殖
 没有繁殖就没有后代。再强的生命总有消亡的一天。
