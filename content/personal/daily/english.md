@@ -4,6 +4,9 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 10/18
+* if  I  were sb  I'd do sth 
+
 ## 10/13
 * athletic 运动的
 * clap 鼓掌
