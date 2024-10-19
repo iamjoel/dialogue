@@ -4,6 +4,14 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 19
+* employment 就业 many employment opportunities 
+* meet face to face 
+* CV means resume 
+* hourly wage 时薪
+* vet 兽医
+* hairdresser 理发师
+
 ## 10/18
 * if  I  were sb  I'd do sth 
 

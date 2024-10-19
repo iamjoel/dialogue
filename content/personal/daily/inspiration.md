@@ -2,6 +2,9 @@
 title: 灵感
 ---
 
+## [Essential Black Hole Facts](https://science.nasa.gov/universe/black-holes/)
+描述一个东西，挑九个最核心的点来描述。如果九个点都写不到，则不值得写。如果超过九个点，只筛选九个点。
+
 ## [Machines of Loving Grace](https://darioamodei.com/machines-of-loving-grace) - How AI Could Transform the World for the Better
 
 Anthropic 的 CEO Dario Amodei 写的 AI 如何从根本上改变世界的愿景。具体从他最关注的 5 个方面来展开：
