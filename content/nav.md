@@ -4,6 +4,7 @@ title: Nav
 
 > NASA’s missions are helping us understand life, and its possibilities, near and far.
 
+<img src='./imgs/nasa-2025.jpg' />
 
 <img src='./imgs/cute.jpg' width='300px' />
 
