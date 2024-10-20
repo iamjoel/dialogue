@@ -4,6 +4,9 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 20
+* make 200 dollars an hour 
+
 ## 19
 * employment 就业 many employment opportunities 
 * meet face to face 
