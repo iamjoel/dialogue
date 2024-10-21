@@ -4,6 +4,11 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 21
+* gallery 美术馆
+* an interesting tour 
+* a large crowd 一大群人
+
 ## 20
 * make 200 dollars an hour 
 
