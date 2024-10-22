@@ -4,6 +4,14 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 22
+* departure  飞机起飞
+* hot tub 泡澡的浴缸
+* massage 马杨鸡
+* cave 洞穴
+* life jacket 救生衣
+* work out means do exercises to be fit 
+
 ## 21
 * gallery 美术馆
 * an interesting tour 

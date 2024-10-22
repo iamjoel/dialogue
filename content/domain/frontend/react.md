@@ -18,6 +18,8 @@ React 的通过模板语言(JSX, TSX) 声明了 数据 和 UI 的对应关系。
   2. 一个 state 变化，在 useEffect 中派生改其他 state 导致额外的一次 ReRender。
   3. ...
 
+DOM 数量很多时。虚拟列表(react window)。
+
 ## 组件
 组件间的通信。常见的场景:
 * 父组件配置子组件: Props
