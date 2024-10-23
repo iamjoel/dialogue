@@ -4,6 +4,10 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 23
+* resort 度假村
+* work out 锻炼 work out at a gym 
+
 ## 22
 * departure  飞机起飞
 * hot tub 泡澡的浴缸
