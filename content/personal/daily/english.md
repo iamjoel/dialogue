@@ -4,6 +4,19 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 25
+* extraordinary mean not ordinary (extra + ordinary)
+* best actor of all time
+* autograph 亲笔签名
+* biography 传记
+* gossip 八卦信息
+
+## 24
+* run out 耗尽
+* mop  the floor 
+* in good health 身体很好
+* washing machine 洗衣机
+
 ## 23
 * resort 度假村
 * work out 锻炼 work out at a gym 
