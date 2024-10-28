@@ -4,6 +4,10 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 26
+* make recording of sth 
+* awards show 颁奖典礼
+
 ## 25
 * extraordinary mean not ordinary (extra + ordinary)
 * best actor of all time
