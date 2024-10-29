@@ -4,6 +4,10 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 28
+* spices 香料
+* boil an egg 
+
 ## 26
 * make recording of sth 
 * awards show 颁奖典礼
