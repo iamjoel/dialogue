@@ -4,9 +4,15 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 30
+* dressing  调料
+* fur coat  皮草外套
+* cruel 残忍的
+
 ## 28
 * spices 香料
 * boil an egg 
+* sparkling water 气泡水
 
 ## 26
 * make recording of sth 
