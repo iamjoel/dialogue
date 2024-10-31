@@ -4,6 +4,11 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 31
+* stir 搅拌
+* salad dressing 沙拉酱
+* half-eaten 吃了一半的
+
 ## 30
 * dressing  调料
 * fur coat  皮草外套
