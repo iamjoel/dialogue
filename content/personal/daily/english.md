@@ -4,6 +4,10 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 1101
+* hike 徒步旅行
+* dorm 宿舍
+
 ## 31
 * stir 搅拌
 * salad dressing 沙拉酱

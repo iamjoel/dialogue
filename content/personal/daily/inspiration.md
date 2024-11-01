@@ -2,6 +2,14 @@
 title: 灵感
 ---
 
+## [tailwindcss-highlights](https://tailwindcss-highlights.hubatsch.dev/)
+一些毛刷的 highlight 效果不错。
+
+
+## [WOW](https://github.com/matthieua/WOW)
+29$ for 1 project: https://www.delac.io/WOW/#pricing
+做一个这种的赚得到钱么。。。
+
 ## [Essential Black Hole Facts](https://science.nasa.gov/universe/black-holes/)
 描述一个东西，挑九个最核心的点来描述。如果九个点都写不到，则不值得写。如果超过九个点，只筛选九个点。
 
