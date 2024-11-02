@@ -2,6 +2,8 @@
 title: 身体是如何工作的
 ---
 
+## 生命科学
+* 基因
 * [代谢](./metabolism/readme.md)
   * [食物转化成能量](./metabolism/food-to-energy.md)
   * 菌群和代谢
@@ -10,6 +12,13 @@ title: 身体是如何工作的
 * 睡眠
   * 睡眠时发生了什么
   * 如何提升睡眠质量
+* 资源
+  * 《它们的性》
+
+### 综合
+* [人体主要器官及其功能](./organ.md)
+
+## 神经科学
 * 情绪。
   * [三重模型](./mood/triune-brain.md) 本能脑，情绪脑，新皮质。
   * 情绪是如何产生的
@@ -25,5 +34,4 @@ title: 身体是如何工作的
     * [调节情绪的血清素](./mood/serotonin-for-mood-regulation.md)
     * [爱的荷尔蒙催产素](https://www.bbc.com/ukchina/simp/vert-earth-47787682)。催产素能减少焦虑。有助于建立信任、维系感情纽带。
 
-## 综合
-* [人体主要器官及其功能](./organ.md)
+

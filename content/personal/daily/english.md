@@ -4,6 +4,10 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 1102
+* cab means taxi 
+* insist on  sth 坚持
+
 ## 1101
 * hike 徒步旅行
 * dorm 宿舍
