@@ -4,6 +4,9 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 1103
+* be impressed 觉得 … 刮目相看
+
 ## 1102
 * cab means taxi 
 * insist on  sth 坚持
