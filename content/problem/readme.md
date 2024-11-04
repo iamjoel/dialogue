@@ -14,7 +14,8 @@ title: 问题
 
 ## 基础问题
 1. 如何从现实中识别出问题
-2. [如何提升做事的效率？](./how-to-improve-working-efficiency/readme.md)
+2. [解决问题的方法](./what's-the-way-to-solve-problem/readme.md)
+3. [如何提升做事的效率？](./how-to-improve-working-efficiency/readme.md)
   1. [如何做好信息管理](./how-to-improve-working-efficiency/how-to-manage-info.md)
 
 ## 通用结构
