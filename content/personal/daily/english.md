@@ -4,6 +4,10 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 1104
+* collar 领子
+* exchange sth for
+
 ## 1103
 * be impressed 觉得 … 刮目相看
 

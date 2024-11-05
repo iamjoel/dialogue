@@ -14,9 +14,10 @@ title: 问题
 
 ## 基础问题
 1. 如何从现实中识别出问题
-2. [解决问题的方法](./what's-the-way-to-solve-problem/readme.md)
-3. [如何提升做事的效率？](./how-to-improve-working-efficiency/readme.md)
-  1. [如何做好信息管理](./how-to-improve-working-efficiency/how-to-manage-info.md)
+2. [怎么算是掌握了知识](./base/how-to-say-have-mastered-the-question/readmd.md)
+2. [解决问题的方法](./base/what's-the-way-to-solve-problem/readme.md)
+3. [如何提升做事的效率？](./base/how-to-improve-working-efficiency/readme.md)
+  1. [如何做好信息管理](./base/how-to-improve-working-efficiency/how-to-manage-info.md)
 
 ## 通用结构
 1. xx 的能力边界。在 xx 场景中，能 xxx。如：llm 的能力边界。在 xx 场景 中，能 xxx。
