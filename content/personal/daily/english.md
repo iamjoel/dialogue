@@ -4,6 +4,10 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 1105
+* stain 污渍
+* make a  return 退货
+
 ## 1104
 * collar 领子
 * exchange sth for
