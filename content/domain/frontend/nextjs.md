@@ -14,5 +14,13 @@ title: Next.js
 
 如果列表要做 SEO，列表本身有很多客户端逻辑(比如滚动加载，点击item 展示详情，删除 item 刷新)时，在服务端组件获取列表数据，然后把这数据做为属性传给列表组件。列表组件做成客户端组件。列表组件只是用服务端的列表数据做完初始值，后面就直接改列表数据即可。遇到详情做 SEO 也是这么处理。
 
+## 优化
+### [Standalone 模式](https://nextjs.org/docs/pages/api-reference/next-config-js/output)
+可以减小 Next.js 构建出的产物大小。
+
+> Next.js can automatically create a standalone folder that copies only the necessary files for a production deployment including select files in node_modules.
+
+> Additionally, a minimal server.js file is also output which can be used instead of next start. This minimal server does not copy the public or .next/static folders by default as these should ideally be handled by a CDN instead, although these folders can be copied to the standalone/public and standalone/.next/static folders manually, after which server.js file will serve these automatically.
+
 ## 资源
 * [Recap: Next.js Conf 2024](https://vercel.com/blog/recap-next-js-conf-2024) Next.js 15 。
