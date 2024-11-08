@@ -2,6 +2,15 @@
 title: 灵感
 ---
 
+## [Rspack](https://rspack.dev/)
+速度很快的打包器，速度接近 Vite 。同时兼容 webpack 的 API。
+但是 Next.js 目前还不支持它。 [Docusaurus 3.6](https://docusaurus.io/blog/releases/3.6) 支持了那 。
+
+## [lukacho/ui](https://ui.lukacho.com/)
+所谓的 Next Generation UI Components.Tailwind + Motion（动效） + Next.js 。 收费直接最低 500$ 。感觉是个营销项目。
+
+国外的钱真的这么好赚？ 又比如 [WOW](https://github.com/matthieua/WOW)
+
 ## [tailwindcss-highlights](https://tailwindcss-highlights.hubatsch.dev/)
 一些毛刷的 highlight 效果不错。
 
