@@ -3,7 +3,7 @@ title: 身体是如何工作的
 ---
 
 ## 生命科学
-* 基因
+* [基因](./gene.md)
 * [代谢](./metabolism/readme.md)
   * [食物转化成能量](./metabolism/food-to-energy.md)
   * 菌群和代谢
