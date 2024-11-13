@@ -4,6 +4,9 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 1111
+* faucet 水龙头
+
 ## 1110
 * make a toast  祝酒
 
