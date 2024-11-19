@@ -2,6 +2,14 @@
 title: 灵感
 ---
 
+## [component party](https://component-party.dev/#templating.styling)
+比较不同 Web 框架在常见场景的下的代码 Demo 。
+
+## mescius
+做很重的组件库的。
+
+https://developer.mescius.com/javascript-solutions
+
 ## [Rspack](https://rspack.dev/)
 速度很快的打包器，速度接近 Vite 。同时兼容 webpack 的 API。
 但是 Next.js 目前还不支持它。 [Docusaurus 3.6](https://docusaurus.io/blog/releases/3.6) 支持了那 。

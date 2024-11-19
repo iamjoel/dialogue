@@ -4,6 +4,10 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 1119
+* creature  生物
+* gross 恶心的
+
 ## 1111
 * faucet 水龙头
 
