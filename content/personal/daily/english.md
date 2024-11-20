@@ -4,6 +4,11 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 1120
+* sink  沉没
+* virus 病毒
+* if 的 虚拟用 were ，即使是 I 和 he 搭配。 If I were you, I would have eaten that cake.
+
 ## 1119
 * creature  生物
 * gross 恶心的
