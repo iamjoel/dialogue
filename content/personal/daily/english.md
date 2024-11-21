@@ -4,6 +4,9 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 1121
+* weird 怪异的
+
 ## 1120
 * sink  沉没
 * virus 病毒
