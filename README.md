@@ -3,16 +3,19 @@
 > Be the best versions of ourselves.
 > 成为最好的自己。
 
+生存，繁衍以及探寻生命的意义。
+
 ## 问题驱动
 本仓库是围绕解决我的 **[问题](./content/base/contents-include-in-problem/problem/readme.md)** 的知识管理系统。
 
 人活一世，本质都是在解决问题。大到生存，人生意义的问题，小到抓住一次机会，度过一次危机。
 
 ## 核心问题
-对我来说，生活中有 3 个核心的问题:  
-1. [如何延长健康寿命？](./content/problem/how-to-have-a-longer-healthy-life/readme.md)
+对我来说，生活中有 4 个核心的问题:  
+1. [如何延长健康寿命？](./content/problem/how-to-have-a-longer-healthy-life/readme.md) => 觉察，运动，饮食，休息。
 2. [如何获取财富？](./content/problem/how-to-get-wealth/readme.md)
 3. [如何找到人生的意义?](./content/problem/how-to-find-the-meaning-of-life/readme.md)
+4. 教育。信任(给尽可能多的自由，平等)，爱(理解和支持)。生存技能和生命的意义。
 
 ## 问题的组成
 围绕每个问题，都有如下几块内容: 
