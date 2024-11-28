@@ -2,6 +2,9 @@
 title: 灵感
 ---
 
+## 写病毒相关的科普
+病毒很多变，很复杂，有很多未解之谜，有很多可以写
+
 ## [component party](https://component-party.dev/#templating.styling)
 比较不同 Web 框架在常见场景的下的代码 Demo 。
 
