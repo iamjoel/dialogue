@@ -4,6 +4,12 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 1201
+* intermission 剧的中场休息
+
+## 1130
+* refreshment 点心
+
 ## 1123
 * on a normal day 在平日里
 
