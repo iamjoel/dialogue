@@ -4,6 +4,14 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 1203
+* state fair 集市
+* cider 苹果酒
+* carve 雕刻
+* spring cleaning 春季大扫除
+* potluck 百乐餐
+* make a  wish
+
 ## 1201
 * intermission 剧的中场休息
 
