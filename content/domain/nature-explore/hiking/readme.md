@@ -27,5 +27,11 @@ title: 徒步
 ## 资源
 * 《绝命海拔》 攀登珠峰的电影。
 
+## 马拉松
+[中国马拉松大满贯（China Marathon Majors）](https://www.chinamarathonmajors.com.cn/sites/index.html#/)。包含: 北京，广州，重庆，武汉。
+* 上海马拉松。 上马。
+* 北京马拉松。 北马。
+* 苏州马拉松。 金鸡湖马拉松， 环太湖。
+
 ## 其他
 * [越野跑](./trail-running/readme.md)
