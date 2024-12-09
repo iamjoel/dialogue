@@ -15,7 +15,7 @@
 1. [如何延长健康寿命？](./content/problem/how-to-have-a-longer-healthy-life/readme.md) => 觉察，运动，饮食，休息。
 2. [如何获取财富？](./content/problem/how-to-get-wealth/readme.md)
 3. [如何找到人生的意义?](./content/problem/how-to-find-the-meaning-of-life/readme.md)
-4. [如何做好子女的教育](./content/problem/how-to-do-get-education/read.md)。信任(，平等)，爱(理解和支持)。
+4. [如何做好子女的教育](content/problem/how-to-do-get-education/readme.md)。信任(，平等)，爱(理解和支持)。
 
 ## 问题的组成
 围绕每个问题，都有如下几块内容: 
