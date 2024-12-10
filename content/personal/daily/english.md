@@ -4,6 +4,10 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 1204
+* dairy 乳制品
+* appetizer 开胃菜
+
 ## 1203
 * state fair 集市
 * cider 苹果酒
