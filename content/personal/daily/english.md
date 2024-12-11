@@ -4,6 +4,9 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 1211
+* portion 份。 a portion of ice-cream 
+
 ## 1204
 * dairy 乳制品
 * appetizer 开胃菜
