@@ -4,6 +4,9 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 1217
+* habitat 栖息地
+
 ## 1211
 * portion 份。 a portion of ice-cream 
 
