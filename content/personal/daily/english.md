@@ -4,6 +4,11 @@ title: 英语
 
 * [readtheory](https://readtheory.ai/app/student/pretest) 待尝试
 
+## 1218
+* steep hill 很陡的山
+* endangered animals 濒危动物
+* species 物种
+
 ## 1217
 * habitat 栖息地
 
