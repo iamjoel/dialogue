@@ -2,6 +2,9 @@
 title: 灵感
 ---
 
+## [Shadcn Form Builder](https://www.shadcn-form.com/playground)
+可以参考看看 Form builder 支持的类型。 基于 shadcn 的 ui builder https://www.uibuilder.app/
+
 ## [Termo](https://termo.rajnandan.com/)
 在网页中注入一个命令行。并且可以用脚本来控制命令行支持的命令。
 
