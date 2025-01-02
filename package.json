@@ -1,0 +1,6 @@
+{
+  "name": "dialogue-content",
+  "scripts": {
+    "gen-nav": "node content/info/nav-generator.js "
+  }
+}

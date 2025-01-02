@@ -1,0 +1,116 @@
+const fs = require('fs');
+const path = require('path');
+
+const infoFolderPath = path.join(__dirname, '.');
+const navCsvPath = path.join(__dirname, 'nav.csv');
+
+/**
+ * Get a list of folder paths (a to z)
+ * @returns {string[]} List of folder paths
+ */
+function getFolderPaths() {
+  const folderPaths = [];
+  for (let i = 0; i < 26; i++) {
+    const folderName = String.fromCharCode(97 + i); // 97 is the ASCII code for 'a'
+    const folderPath = path.join(infoFolderPath, folderName);
+    if (fs.existsSync(folderPath)) {
+      folderPaths.push(folderPath);
+    }
+  }
+  return folderPaths;
+}
+
+/**
+ * Get all .md files in a folder
+ * @param {string} folderPath Path to the folder
+ * @returns {string[]} List of .md file paths
+ */
+function getMdFilesInFolder(folderPath) {
+  return fs.readdirSync(folderPath)
+    .filter(file => path.extname(file) === '.md')
+    .map(file => path.join(folderPath, file));
+}
+
+/**
+ * Extract metadata from .md file content
+ * @param {string} fileContent Content of the .md file
+ * @returns {{title: string, description: string}} Extracted metadata
+ */
+function extractMetadata(fileContent) {
+  const titleMatch = fileContent.match(/title:\s*(.*)/);
+  const title = titleMatch ? titleMatch[1].trim() : '';
+  const descriptionMatch = fileContent.match(/description:\s*(.*)/);
+  const description = descriptionMatch ? descriptionMatch[1].trim() : (title ? title : '');
+
+  return {
+    title: title || 'N/A',
+    description: description || 'N/A'
+  };
+}
+
+/**
+ * Escape special characters in a CSV field
+ * @param {string} field Field value
+ * @returns {string} Escaped field value
+ */
+function escapeCsvField(field) {
+  if (typeof field === 'string' && (field.includes(',') || field.includes('\n') || field.includes('"'))) {
+    return `"${field.replace(/"/g, '""')}"`; // Escape double quotes
+  }
+  return field;
+}
+
+/**
+ * Convert a record to a CSV line
+ * @param {{title: string, description: string, filename: string}} record Record to convert
+ * @returns {string} CSV line
+ */
+function convertRecordToCsvLine(record, index) {
+  return [
+    index + 1,
+    escapeCsvField(record.title),
+    escapeCsvField(record.description),
+    escapeCsvField(record.filename)
+  ].join(',');
+}
+
+/**
+ * Generate CSV file content
+ * @param {{title: string, description: string, filename: string}[]} records List of records
+ * @returns {string} CSV file content
+ */
+function generateCsvContent(records) {
+  const csvHeader = 'No,Title,Description,Filename\n';
+  const csvLines = records.map(convertRecordToCsvLine).join('\n');
+  return csvHeader + csvLines;
+}
+
+/**
+ * Main function: Generate the nav.csv file
+ */
+function generateNavCsv() {
+  const records = [];
+
+  // Iterate through all folders
+  const folderPaths = getFolderPaths();
+  folderPaths.forEach(folderPath => {
+    const mdFiles = getMdFilesInFolder(folderPath);
+    mdFiles.forEach(filePath => {
+      const fileContent = fs.readFileSync(filePath, 'utf8');
+      const { title, description } = extractMetadata(fileContent);
+      const filename = path.basename(filePath);
+
+      // Add file information to the records array
+      records.push({ title, description, filename });
+    });
+  });
+
+  // Generate CSV content and write to file
+  const csvContent = generateCsvContent(records);
+  fs.writeFileSync(navCsvPath, csvContent, 'utf8');
+
+  console.log('nav.csv file has been successfully generated!');
+}
+
+// Execute the main function
+generateNavCsv();
