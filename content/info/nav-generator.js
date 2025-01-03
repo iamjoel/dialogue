@@ -41,10 +41,12 @@ function extractMetadata(fileContent) {
   const title = titleMatch ? titleMatch[1].trim() : '';
   const descriptionMatch = fileContent.match(/description:\s*(.*)/);
   const description = descriptionMatch ? descriptionMatch[1].trim() : (title ? title : '');
+  const tags = fileContent.match(/tags:\s*(.*)/); / tags: open-source, BaaS'/
 
   return {
     title: title || 'N/A',
-    description: description || 'N/A'
+    description: description || 'N/A',
+    tags: tags || '',
   };
 }
 
@@ -80,7 +82,7 @@ function convertRecordToCsvLine(record, index) {
  * @returns {string} CSV file content
  */
 function generateCsvContent(records) {
-  const csvHeader = 'No,Title,Description,Filename\n';
+  const csvHeader = 'No,Title,Description,Filename,Tags\n';
   const csvLines = records.map(convertRecordToCsvLine).join('\n');
   return csvHeader + csvLines;
 }

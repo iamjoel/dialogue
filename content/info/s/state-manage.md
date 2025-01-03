@@ -1,0 +1,2 @@
+[Mastering State Management in React with Redux and Redux Toolkit](https://medium.com/@aysunitai/mastering-state-management-in-react-with-redux-and-redux-toolkit-d8e6f09d5393)
+https://medium.com/@aysunitai/mastering-state-management-in-react-a-deep-dive-into-usereducer-bbbf3b61cf85

@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const moveFoldName = 'domain'
+const moveFoldName = 'problem'
 // Define folder paths
 const movePath = path.join(__dirname, `../${moveFoldName}`);
 const infoPath = path.join(__dirname, '.');
