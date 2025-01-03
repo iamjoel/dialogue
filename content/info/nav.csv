@@ -1,518 +1,518 @@
-No,Title,Description,Filename,Tags
-1,AI2 Reasoning Challenge,AI2 Reasoning Challenge,AI2-reasoning-challenge.md
-2,《人类简史》,《人类简史》,a-brief-history-of-humankind.md
-3,如梦之梦,如梦之梦,a-dreamy-dream.md
-4,A Survey on Retrieval-Augmented Text Generation for Large Language Models,A Survey on Retrieval-Augmented Text Generation for Large Language Models,a-survey-on-rag-for-llm.md
-5,AAARR 海盗指标,AAARR 海盗指标,aarrr.md
-6,衡量城市,衡量城市,about-city.md
-7,To effective roadmap,To effective roadmap,action-effective-roadmap.md
-8,让人上瘾的多巴胺,让人上瘾的多巴胺,addictive-dopamine.md
-9,管理后台模版调研,管理后台模版调研,admin-template-anylsis.md
-10,AFFiNE,AFFiNE,affine.md
-11,Agent,Agent,agent.md
-12,AI,AI,ai-old.md
-13,AI Pin,AI Pin,ai-pin.md
-14,AI,提供执行复杂任务的服务,ai.md
-15,AirOps,AirOps,airops.md
-16,AirTable,AirTable,airtable.md
-17,詹雨安(Alan Chan),詹雨安(Alan Chan),alan-chan.md
-18,增长飞轮和逆向工作法,增长飞轮和逆向工作法,amazon.md
-19,杏仁核,杏仁核,amygdala.md
-20,数据分析,数据分析,analysis.md
-21,《如何有效克服惰性》 - 分析,《如何有效克服惰性》 - 分析,analyze.md
-22,愤怒,愤怒,anger.md
-23,animate.css,animate.css,animate.css.md
-24,动画,动画,animate.md
-25,花青素,花青素,anthocyanidin.md
-26,AI 应用,AI 应用,app.md
-27,应用,应用,application.md
-28,Are we too busy to enjoy life?,Are we too busy to enjoy life?,are-we-too-busy-to-enjoy-life.md
-29,Astro,Astro,astro.md
-30,原子化,原子化,atom-1.md
-31,原子化记录,原子化记录,atom.md
-32,努力,努力,attempt.md
-33,Auth0,Auth0,auth0.md
-34,自动化,自动化,automation.md
-35,秋天,秋天,autumn.md
-36,避免熬夜,避免熬夜,avoid-staying-up.md
-37,Awesome LLM WebUIs,Awesome LLM WebUIs,awesome-llm-web-ui.md
-38,AWS,AWS,aws.md
-39,BaaS,BaaS,baas.md
-40,Backend Framework,Backend Framework,backend.md
-41,平衡,平衡,balance.md
-42,Bard,Bard,bard.md
-43,身体是如何工作的,身体是如何工作的,base.md
-44,《植物的战斗》,《植物的战斗》,battle-of-plants.md
-45,贝叶斯推理,贝叶斯推理,bayesian-inference.md
-46,运动的好处,运动的好处,benefits.md
-47,从阅读中获取知识的最好方式,从阅读中获取知识的最好方式,best-way-to-acquire-knowledge-from-readings.md
-48,偏见,偏见,bias.md
-49,毕昇,毕昇,bisheng.md
-50,书,书,book.md
-51,Bookmarks,Bookmarks,bookmarks.md
-52,《排毒吧，大脑》,《排毒吧，大脑》,brain-wash.md
-53,《冥想5分钟，等于熟睡一小时》,《冥想5分钟，等于熟睡一小时》,buddha's-brain.md
-54,佛教,佛教,buddhism.md
-55,建筑,建筑,building.md
-56,负担,负担,burden.md
-57,经营贷的坑,经营贷的坑,business-loan.md
-58,商业模式,商业模式,business-model.md
-59,ComfyUI,ComfyUI,ComfyUI.md
-60,CaaS,CaaS,caas.md
-61,《菜根谭》,《菜根谭》,caigentan.md
-62,Canva,Canva,canva.md
-63,胶囊计划,胶囊计划,capsule.md
-64,车,车,car.md
-65,动画&卡通,动画&卡通,cartoon.md
-66,因果,因果,cause-and-effect.md
-67,细胞,细胞,cell.md
-68,Character.ai,Character.ai,character-ai.md
-69,ChatBot,ChatBot,chatbot.md
-70,ChatGPT-API Demo,ChatGPT-API Demo,chatgpt-demo.md
-71,ChatGPT Next Web,ChatGPT Next Web,chatgpt-next-web.md
-72,《成都》,《成都》,chengdu.md
-73,央企,央企,china-grant-company.md
-74,中国时间线,中国时间线,china-main-time-line.md
-75,芯片,芯片,chip.md
-76,《抉择》,《抉择》,choice.md
-77,Choose optimism,Choose optimism,choose-optimism.md
-78,选择工具,选择工具,choose-tool.md
-79,川虎 Chat,川虎 Chat,chuanhu-ChatGPT.md
-80,clash-verge-rev,clash-verge-rev,clash-verge-rev.md
-81,Claude,Claude,claude.md
-82,Clerk,Clerk,clerk.md
-83,CV 声音克隆工具,CV 声音克隆工具,clone-voice.md
-84,云平台,云平台,cloud.md
-85,代码复杂度,代码复杂度,code-complexity.md
-86,反叛的鲁路修,反叛的鲁路修,code-geass.md
-87,冷笑话,冷笑话,code-joke.md
-88,代码质量,代码质量,code-quality.md
-89,编程,编程,coding.md
-90,Cohere,Cohere,cohere.md
-91,协同,协同,collaboration.md
-92,商业地产,商业地产,commercial-estate.md
-93,组合,组合,composition.md
-94,连接应用的软件,连接应用的软件,connect-app.md
-95,消费主义,消费主义,consumerism.md
-96,内容创作和编辑,内容创作和编辑,content-generation.md
-97,知足,知足,contented.md
-98,问题的组成,问题的组成,contents-include-in-problem.md
-99,《囚徒健身》,《囚徒健身》,convict-conditioning.md
-100,Copilot,Copilot,copilot.md
-101,copyai,copyai,copyai.md
-102,模型,模型,core.md
-103,Coze,Coze,coze.md
-104,库里南,库里南,cullinan.md
-105,Class Variance Authority,Class Variance Authority,cva.md
-106,数据分析,数据分析,data-analysis.md
-107,data fetching library,data fetching library,data-fetching-library.md
-108,白日梦岛(Daydream island),白日梦岛(Daydream island),daydream.md
-109,数据库,数据库,db.md
-110,处理负面情绪,处理负面情绪,deal-with-negative-emotions.md
-111,解藕,解藕,decouple.md
-112,定义问题,定义问题,define-the-problem.md
-113,部署模型/推理服务的平台,部署模型/推理服务的平台,deploy.md
-114,devv,devv,devv.md
-115,Dify,Dify,dify.md
-116,发现驱动的规划,发现驱动的规划,discovery-driven-planning.md
-117,迪士尼,迪士尼,disney.md
-118,《东莞打工妹生存实录》,《东莞打工妹生存实录》,dongguan-girls-work-record.md
-119,戏剧,戏剧,drama.md
-120,梦想,梦想,dream.md
-121,多邻国,多邻国,duolingguo.md
-122,dynamicland,dynamicland,dynamicland.md
-123,《空腹的神奇治愈力》,《空腹的神奇治愈力》,eat-less.md
-124,经济,经济,economy-1.md
-125,经济,经济,economy.md
-126,教育和培训,教育和培训,education.md
-127,效率工具,效率工具,efficiency.md
-128,哥哥,哥哥,elder.md
-129,内啡肽,内啡肽,endorphins.md
-130,保持活力的 5 种方法,保持活力的 5 种方法,enegy-managenent.md
-131,能源,能源,energy.md
-132,熵增,熵增,entropy-increase.md
-133,熵,熵,entropy.md
-134,平等,平等,equality.md
-135,运动装备,运动装备,equipment.md
-136,评价,评价,evaluate-app.md
-137,人人都能用英语,人人都能用英语,every-one-can-use-english.md
-138,写的很好的,写的很好的,excellent.md
-139,经验,经验,experience.md
-140,事实,事实,fact.md
-141,公平,公平,fair.md
-142,帆软,帆软,fanruan.md
-143,favorites,favorites,favorites.md
-144,组件功能 Checklist,组件功能 Checklist,feature.md
-145,feedly,feedly,feedly.md
-146,有压力时，身体会发生些了什么,有压力时，身体会发生些了什么,feel-stressed-what-happened.md
-147,飞书多维表格,飞书多维表格,feishu-table.md
-148,最常问的 12 个问题,最常问的 12 个问题,feynman-questions.md
-149,Fin AI Chatbot,Fin AI Chatbot,fin.md
-150,投资,投资,finance.md
-151,FIRE 模型,FIRE 模型,fire.md
-152,FireCrawl,FireCrawl,firecrawl.md
-153,Fixie,"'Check the price of a stock.',",fixie.md
-154,Floating UI,Floating UI,floating-ui.md
-155,飞行,飞行,fly.md
-156,幻方量化,幻方量化,flyer-quant.md
-157,Foam,Foam,foam.md
-158,食物转能量,食物转能量,food-to-energy.md
-159,Frame,Frame,frame-ai-glass.md
-160,开发框架,开发框架,framework.md
-161,自由,自由,freedom.md
-162,《葬送的芙莉莲》,《葬送的芙莉莲》,frieren-beyond-journey's-end.md
-163,JavaScript Framework,JavaScript Framework,frontend-1.md
-164,前端,前端,frontend.md
-165,Web 框架,Web 框架,full-stack.md
-166,有趣的冷知识,有趣的冷知识,funny.md
-167,GummySearch,GummySearch,GummySearch.md
-168,高达00,高达00,Gundam-00.md
-169,G2,G2,g2.md
-170,博弈思维,博弈思维,game.md
-171,Gartner review,Gartner review,gartner-reviews.md
-172,Gemini,Gemini,gemini.md
-173,基因,基因,gene.md
-174,获取信息,获取信息,get-info.md
-175,Github Copilot,Github Copilot,github-copilot.md
-176,GitHub Treading,GitHub Treading,github-treading.md
-177,GitLab,GitLab,gitlab.md
-178,Glass animals,Glass animals,glass-animals.md
-179,GLM,GLM,glm.md
-180,忧郁,忧郁,gloomy.md
-181,《控糖革命》,《控糖革命》,glucose-revolution.md
-182,优秀产品研究,优秀产品研究,good-product-research.md
-183,痛风,痛风,gout.md
-184,Gamma,Gamma,gramma.md
-185,双链笔记,双链笔记,graph-database.md
-186,Graph View,Graph View,graph-view.md
-187,贪婪,贪婪,greedy.md
-188,《人间修炼指南》,《人间修炼指南》,guide-to-human-cultivation.md
-189,《身体的问题，肠知道》,《身体的问题，肠知道》,gut-renovation.md
-190,哈耶克,哈耶克,Hayek.md
-191,幸福,幸福,hapiness.md
-192,幸福大街,幸福大街,happiness-street.md
-193,headless UI,headless UI,headless.md
-194,Heptabase 帮助文档,Heptabase 帮助文档,heptabase-wiki.md
-195,Heptabase,Heptabase,heptabase.md
-196,徒步,徒步,hiking.md
-197,历史,历史,history-1.md
-198,历史,历史,history.md
-199,HoloTile,HoloTile,holo-tile.md
-200,红楼梦,红楼梦,hongloumeng.md
-201,希望,希望,hope.md
-202,N/A,N/A,how-an-economy-grows-and-why-it-crashes.md
-203,如何做好子女的教育,如何做好子女的教育,how-to-do-get-education.md
-204,如何找到人生的意义,如何找到人生的意义,how-to-find-the-meaning-of-life.md
-205,如何获取财富？,如何获取财富？,how-to-get-wealth.md
-206,如何延长健康寿命？,如何延长健康寿命？,how-to-have-a-longer-healthy-life.md
-207,如何提升做事的效率？,如何提升做事的效率？,how-to-improve-working-efficiency.md
-208,如何做好信息管理?,如何做好信息管理?,how-to-manage-info.md
-209,Hugging Face,Hugging Face,hugging-face.md
-210,hume.ai,hume.ai,hume-ai.md
-211,iPS,iPS,iPS.md
-212,想象,想象,imagination.md
-213,命令式和声明式,命令式和声明式,imperative-and-declarative.md
-214,《不完美受害人》,《不完美受害人》,imperfect-victim.md
-215,信息获取,信息获取,in.md
-216,基础设施,基础设施,infra.md
-217,继承,继承,inheritance.md
-218,这是个问题吗?,这是个问题吗?,is-this-a-question.md
-219,Plan by ixigo,Plan by ixigo,ixigo.md
-220,日本准备,日本准备,japan-plan.md
-221,日本,日本,japan.md
-222,Jasper,Jasper,jasper.md
-223,姜文,姜文,jiang-wen.md
-224,集简云,集简云,jijianyue.md
-225,reader,reader,jina-reader.md
-226,Joey Schweitzer,Joey Schweitzer,joey-schweitzer.md
-227,《娱乐为王》,《娱乐为王》,just-for-fun.md
-228,凯恩斯,凯恩斯,Keynes.md
-229,《杀死比尔》,《杀死比尔》,kill-bill.md
-230,Kinde,Kinde,kinde.md
-231,风筝,风筝,kite.md
-232,知识管理,知识管理,km.md
-233,知识管理,知识管理,knowledge-managent.md
-234,LangChain,LangChain,lanchain.md
-235,"The Landscape of Emerging AI Agent Architectures for Reasoning, Planning, and Tool Calling","The Landscape of Emerging AI Agent Architectures for Reasoning, Planning, and Tool Calling",landscape-of-ai-agent-architectures-survey.md
-236,Langui,Langui,langui.md
-237,良渚,良渚,liangzhu.md
-238,《一生所爱》,《一生所爱》,life-long-love.md
-239,生命科学,生命科学,life-science.md
-240,产品列表,产品列表,list-1.md
-241,书单,书单,list-2.md
-242,现实列表,现实列表,list.md
-243,Llama,Llama,llama.md
-244,LlamaIndex,LlamaIndex,llamaIndex.md
-245,LLM,LLM,llm-1.md
-246,LLM Scraper,LLM Scraper,llm-scraper.md
-247,LLM,LLM,llm.md
-248,Lobe Chat,Lobe Chat,lobe-chat.md
-249,Logseq,Logseq,logseq.md
-250,爱 死亡 机器人,爱 死亡 机器人,love-death-robot.md
-251,爱,爱,love.md
-252,产品,产品,make-product.md
-253,生产,生产,make.md
-254,Markdown Preview Enhanced,Markdown Preview Enhanced,markdown-preview-enchanced.md
-255,Markdown Preview Mermaid Support,Markdown Preview Mermaid Support,markdown-preview-mermaid.md
-256,市场经济,市场经济,market-economy.md
-257,市场,市场,market.md
-258,意义,意义,meaning.md
-259,MECE,MECE,mece.md
-260,药物,药物,medicine.md
-261,记忆,记忆,memory.md
-262,代谢,代谢,metabolism.md
-263,知识管理的方法,知识管理的方法,methods.md
-264,《大明王朝 1556》,《大明王朝 1556》,ming-dynasty-in-1566.md
-265,秋天的怀念,秋天的怀念,miss-autumn.md
-266,使命,使命,mission.md
-267,N/A,N/A,model.md
-268,N/A,N/A,moe.md
-269,情绪,情绪,mood.md
-270,Moonshot AI,Moonshot AI,moonshot.md
-271,电影,电影,movie.md
-272,Muse,Muse,muse.md
-273,美国国家地理,美国国家地理,national-geographic.md
-274,探索自然,探索自然,nature-explore.md
-275,记录需要结构化吗?,记录需要结构化吗?,need-structed.md
-276,Ness Labs,Ness Labs,ness-labs.md
-277,神经科学,神经科学,neuroscience.md
-278,Next.js,Next.js,next.md
-279,Next.js,Next.js,nextjs.md
-280,Nibble and your appetite will grow,Nibble and your appetite will grow,nibble-and-your-appetite-will-grow.md
-281,宁波,宁波,ningbo.md
-282,蔚来,蔚来,nio.md
-283,NLP(自然语言处理),NLP(自然语言处理),nlp.md
-284,笔记组成,笔记组成,note.md
-285,Notion,Notion,notion.md
-286,NovelAI,NovelAI,novelai.md
-287,庐山 - 诺那塔院,庐山 - 诺那塔院,nuoanta.md
-288,营养学,营养学,nutrition.md
-289,Obsidian,Obsidian,obsidian.md
-290,《官场酒局》,《官场酒局》,official-wine-bureau.md
-291,开源项目分析,开源项目分析,open-source.md
-292,开放，变化，多元的心态,开放，变化，多元的心态,open.md
-293,OpenSaas,OpenSaas,openSaaS.md
-294,OpenAI reasoning model,OpenAI reasoning model,openai-gpt.md
-295,OpenAI,OpenAI,openai.md
-296,OpenCSG,OpenCSG,opencsg.md
-297,寻找最优解而不是最大化,寻找最优解而不是最大化,optimal-rather-than-maximization.md
-298,乐观,乐观,optimism.md
-299,器官,器官,organ.md
-300,整理,整理,orgnize.md
-301,《如何有效克服惰性》,《如何有效克服惰性》,origin.md
-302,其他,其他,other.md
-303,《超越百岁》,《超越百岁》,outlive.md
-304,信息管理,信息管理,overview.md
-305,PaaS,PaaS,paas.md
-306,彭浩翔,彭浩翔,pang-ho-cheung.md
-307,激情,激情,passion.md
-308,Pendant,Pendant,pendant.md
-309,人,人,people-1.md
-310,人,人,people.md
-311,Perplexity,Perplexity,perplexity.md
-312,悲观,悲观,pessimism.md
-313,Pico,Pico,pico.md
-314,Pinecone,Pinecone,pinecone.md
-315,计划经济,计划经济,planned-economy.md
-316,VSCODE 插件,VSCODE 插件,plugins.md
-317,PMF(产品/市场契合度),PMF(产品/市场契合度),pmf.md
-318,诗歌,诗歌,poem.md
-319,政治,政治,politics.md
-320,正循环,正循环,positive-cycle.md
-321,《正面管教》,《正面管教》,positive-discipine.md
-322,正向反馈,正向反馈,positive-feedback.md
-323,积极心理学,积极心理学,positive-psychology.md
-324,可预测,可预测,predictable.md
-325,优先选择分类还是标签,优先选择分类还是标签,prefer-classify-or-tag.md
-326,控制情绪的前额叶皮质,控制情绪的前额叶皮质,prefrontal-cortex.md
-327,数据呈现,数据呈现,presentation.md
-328,概率,概率,probability.md
-329,问题,问题,problem-1.md
-330,问题,问题,problem.md
-331,产品 Schema,产品 Schema,product-1.md
-332,产品,产品,product-2.md
-333,Product Hunt,Product Hunt,product-hunt.md
-334,产品,产品,product.md
-335,编程逻辑可视化,编程逻辑可视化,programming.md
-336,Prompt 工程,Prompt 工程,prompt-engineer.md
-337,散文,散文,prose.md
-338,Publer AI Assist,Publer AI Assist,publer.md
-339,追寻,追寻,pursue.md
-340,《量子大唠嗑》,《量子大唠嗑》,quantum-dialog.md
-341,Quartz,Quartz,quartz.md
-342,Questgen,Questgen,questgen.md
-343,QuillBot,QuillBot,quillbot.md
-344,Quizlet,Quizlet,quizlet.md
-345,Rabbit R1,Rabbit R1,rabbit-r1.md
-346,Radix Vue,Radix Vue,radix-vue.md
-347,Radix,Radix,radix.md
-348,RAG,RAG,rag.md
-349,Rath,Rath,rath.md
-350,React,React,react-1.md
-351,React component,React component,react-componet.md
-352,React Spring,React Spring,react-spring.md
-353,React,React,react.md
-354,读首诗再睡觉,读首诗再睡觉,read-a-poem-before-sleep.md
-355,阅读,阅读,reading.md
-356,怎么算是掌握了知识,怎么算是掌握了知识,readmd-1.md
-357,运动,运动,readmd-2.md
-358,数据存储,数据存储,readmd.md
-359,房子,房子,reamde.md
-360,推理能力,推理能力,reasoning.md
-361,ReByte,ReByte,rebyte.md
-362,Recall,Recall,recall.md
-363,《剑雨》,《剑雨》,reign-of-assassins.md
-364,Relative Path,Relative Path,relative-path.md
-365,放松,放松,relax-1.md
-366,放松,放松,relax.md
-367,Relika,Relika,relika.md
-368,Remix,Remix,remix.md
-369,remove bg,remove bg,remove-bg.md
-370,Replicate,Replicate,replicate.md
-371,Resend,Resend,resend.md
-372,《重塑超级大脑》,《重塑超级大脑》,reshaping-the-super-brain.md
-373,学习资源,学习资源,resource-1.md
-374,资源,资源,resource-2.md
-375,资源,资源,resource.md
-376,休息,休息,rest.md
-377,Roam,Roam,roam.md
-378,劳斯莱斯,劳斯莱斯,rolls-royce.md
-379,浪漫主义,浪漫主义,romanticism.md
-380,N/A,N/A,route-todo.md
-381,Runway,Runway,runway.md
-382,SaaS,SaaS,saas-1.md
-383,SaaS,SaaS,saas.md
-384,安全,安全,safe.md
-385,销售,销售,sale.md
-386,圣托里尼岛,圣托里尼岛,santorini.md
-387,三亚,三亚,sanya.md
-388,场景,场景,scenario-1.md
-389,AI 场景,AI 场景,scenario-2.md
-390,场景,场景,scenario.md
-391,Tech Schema,Tech Schema,schema-1.md
-392,模型 Schema,模型 Schema,schema.md
-393,科学方法,科学方法,science-1.md
-394,科学,科学,science.md
-395,海,海,sea.md
-396,AI 搜索,AI 搜索,search.md
-397,暗恋桃花源,暗恋桃花源,secret-love-and-heavenly-place.md
-398,前端安全,前端安全,security.md
-399,Semantic Scholar,Semantic Scholar,semantic-scholar.md
-400,调节情绪的血清素,调节情绪的血清素,serotonin-for-mood-regulation.md
-401,shadcn/ui,shadcn/ui,shadcn.md
-402,肾,肾,shen.md
-403,简化,简化,simplify.md
-404,单一职责,单一职责,single-responsibility.md
-405,网站流量分析,网站流量分析,site.md
-406,经济情况,经济情况,situation.md
-407,小品,小品,sketch.md
-408,能力,能力,skill.md
-409,慢充,慢充,slow-rechange.md
-410,代码片段,代码片段,snippents.md
-411,软件工程,软件工程,soft-engineering.md
-412,服务,服务,solution.md
-413,解决问题,解决问题,solve-problem.md
-414,歌,歌,song.md
-415,N/A,N/A,sop.md
-416,Source,Source,source.md
-417,Stability.ai,Stability.ai,stability-ai.md
-418,赖声川,赖声川,stan-lai.md
-419,Pitch Generator,Pitch Generator,startup-pitch-generator-tally.md
-420,N/A,N/A,state-manage.md
-421,《偷香》,《偷香》,steal-fragrance.md
-422,孙燕姿,孙燕姿,stefanie-sun.md
-423,Steph Ango,Steph Ango,steph-ango.md
-424,Strapi,Strapi,strapi.md
-425,Stripe,Stripe,stripe.md
-426,总结能力,总结能力,summary.md
-427,supabase,supabase,supabase.md
-428,TinyWow,TinyWow,TinyWow.md
-429,tailwind-merge,tailwind-merge,tailwind-merge.md
-430,《暗河传》,《暗河传》,tales-fo-dark-river.md
-431,TanStack Query,TanStack Query,tanstack-query.md
-432,TanStack,TanStack,tanstack.md
-433,茶马古道,茶马古道,tea-hourse.md
-434,技术,技术,tech-1.md
-435,AI 技术,AI 技术,tech-2.md
-436,技术,技术,tech-3.md
-437,技术,技术,tech.md
-438,技术的涟漪效应：RAG与Long Context的认知冲突,技术的涟漪效应：RAG与Long Context的认知冲突,technological-ripple-effect-rag-and-long-context-cognitive-conflict.md
-439,概念,概念,terms.md
-440,特斯拉,特斯拉,tesla.md
-441,《纳瓦尔宝典》,《纳瓦尔宝典》,the-almanack-of-naval-ravikant.md
-442,The doors,The doors,the-doors.md
-443,人生的意义,人生的意义,the-meaning-of-life.md
-444,《大清盐商》,《大清盐商》,the-merchants-of-qing-dynasty.md
-445,《疯狂的尿酸》,《疯狂的尿酸》,the-surprising-new-science-of-uric-cid.md
-446,The Verge,The Verge,the-verge.md
-447,《昨日之前的世界》,《昨日之前的世界》,the-world-until-yesterday.md
-448,主题公园,主题公园,theme-park.md
-449,考虑清楚要解决什么问题后再行动,考虑清楚要解决什么问题后再行动,think-clearly-to-solve-which-problem-before-action.md
-450,ThoughtWorks 技术雷达,ThoughtWorks 技术雷达,thoughtworks-radar.md
-451,时间线,时间线,time-line.md
-452,🪜,🪜,tizi.md
-453,tldraw VSCode Plugin,tldraw VSCode Plugin,tldraw.md
-454,待研究,待研究,to-research.md
-455,东京,东京,tokyo.md
-456,桐庐,桐庐,tonglu.md
-457,信息管理工具选择,信息管理工具选择,tools.md
-458,信息管理的顶级分类,信息管理的顶级分类,top-classify.md
-459,《走向共和》,《走向共和》,toward-a-republic.md
-460,TPF(技术/产品契合度),TPF(技术/产品契合度),tpf.md
-461,越野跑,越野跑,trail-running.md
-462,N/A,N/A,transform.md
-463,翻译,翻译,translate.md
-464,旅行者,旅行者,traveller.md
-465,治疗,治疗,treatment.md
-466,三脑模型,三脑模型,triune-brain.md
-467,《创：战纪》,《创：战纪》,tron-legacy.md
-468,信任,信任,trust.md
-469,Text to Speech,Text to Speech,tts.md
-470,TutorAI,TutorAI,tutorai.md
-471,twenty,twenty,twenty.md
-472,两行写在泥土上的字,两行写在泥土上的字,two-sentences-on-the-soil.md
-473,Typebot,Typebot,typebot.md
-474,UI 组件,UI 组件,ui-component.md
-475,UI 组件,UI 组件,ui.md
-476,UIVerse,UIVerse,uiverse.md
-477,嗑叔嗑动物,嗑叔嗑动物,uncle-ke-ke-animals.md
-478,Unifying RAG and long context LLMs,Unifying RAG and long context LLMs,unifying-rag-and-long-context-LLMs.md
-479,环球影城,环球影城,universal.md
-480,未整理,未整理,unsort.md
-481,\@use-gesture,\@use-gesture,use-gesture.md
-482,用户画像,用户画像,user-portrait.md
-483,用户,用户,user.md
-484,V0,V0,v0.md
-485,向量数据库,向量数据库,vector-db.md
-486,Vision Pro,Vision Pro,vision-pro.md
-487,视觉,视觉,vision.md
-488,可视化,可视化,visualization.md
-489,VR 相关的,VR 相关的,vr-related.md
-490,VS Code 插件,VS Code 插件,vs-code-plugins.md
-491,Vue,Vue,vue.md
-492,王慧文清华产品课,王慧文清华产品课,wanghuiwen.md
-493,想要知道的列表,想要知道的列表,want-to-know-list.md
-494,我们都是好孩子,我们都是好孩子,we-are-all-good-children.md
-495,如何获取财富？,如何获取财富？,wealth.md
-496,解决问题的方法,解决问题的方法,what's-the-way-to-solve-problem.md
-497,《哲学家们都干了些什么？》,《哲学家们都干了些什么？》,what-did-philosophers-do.md
-498,什么是好文章,什么是好文章,what-is-good-article.md
-499,你想活出怎样的人生,你想活出怎样的人生,what-life-do-you-like.md
-500,记录什么,记录什么,what-to-record.md
-501,鱼不存在,鱼不存在,why-fish-don't-exixt.md
-502,人为什么容易有消极情绪？,人为什么容易有消极情绪？,why-tend-to-have-nagative-mood.md
-503,Wikilinks,Wikilinks,wikilinks.md
-504,动力/意愿,动力/意愿,willingness.md
-505,冬天,冬天,winter.md
-506,WorkOS,WorkOS,workos.md
-507,Writer,Writer,writer.md
-508,Writesonic,Writesonic,writesonic.md
-509,写作,写作,writing.md
-510,小鹏,小鹏,xiaopeng.md
-511,星云大师,星云大师,xingyue.md
-512,《你是你吃出来的2》,《你是你吃出来的2》,you-are-what-you-eat-2.md
-513,俞军产品方法论,俞军产品方法论,yujun.md
-514,Zapier,Zapier,zapier.md
-515,禅修,禅修,zen-meditation.md
-516,卢曼卡片盒笔记法,卢曼卡片盒笔记法,zettelkasten-method.md
-517,疯狂动物城,疯狂动物城,zootopia.md
+No,Title,Description,Filename,Tags,ContentLength
+1,AI2 Reasoning Challenge,AI2 Reasoning Challenge,AI2-reasoning-challenge.md,,"395"
+2,《人类简史》,《人类简史》,a-brief-history-of-humankind.md,,"483"
+3,如梦之梦,如梦之梦,a-dreamy-dream.md,,"432"
+4,A Survey on Retrieval-Augmented Text Generation for Large Language Models,A Survey on Retrieval-Augmented Text Generation for Large Language Models,a-survey-on-rag-for-llm.md,,"278"
+5,AAARR 海盗指标,AAARR 海盗指标,aarrr.md,,"870"
+6,衡量城市,衡量城市,about-city.md,,"291"
+7,To effective roadmap,To effective roadmap,action-effective-roadmap.md,,"50"
+8,让人上瘾的多巴胺,让人上瘾的多巴胺,addictive-dopamine.md,,"617"
+9,管理后台模版调研,管理后台模版调研,admin-template-anylsis.md,,"1,000"
+10,AFFiNE,AFFiNE,affine.md,,"231"
+11,Agent,Agent,agent.md,,"861"
+12,AI,AI,ai-old.md,,"399"
+13,AI Pin,AI Pin,ai-pin.md,"AI, wearable","127"
+14,AI,提供执行复杂任务的服务,ai.md,,"8,993"
+15,AirOps,AirOps,airops.md,,"405"
+16,AirTable,AirTable,airtable.md,,"181"
+17,詹雨安(Alan Chan),詹雨安(Alan Chan),alan-chan.md,,"1,312"
+18,增长飞轮和逆向工作法,增长飞轮和逆向工作法,amazon.md,,"602"
+19,杏仁核,杏仁核,amygdala.md,,"694"
+20,数据分析,数据分析,analysis.md,,"60"
+21,《如何有效克服惰性》 - 分析,《如何有效克服惰性》 - 分析,analyze.md,,"655"
+22,愤怒,愤怒,anger.md,,"58"
+23,animate.css,animate.css,animate.css.md,,"57"
+24,动画,动画,animate.md,,"87"
+25,花青素,花青素,anthocyanidin.md,,"217"
+26,AI 应用,AI 应用,app.md,,"1,360"
+27,应用,应用,application.md,,"109"
+28,Are we too busy to enjoy life?,Are we too busy to enjoy life?,are-we-too-busy-to-enjoy-life.md,,"1,745"
+29,Astro,Astro,astro.md,,"1,571"
+30,原子化,原子化,atom-1.md,,"63"
+31,原子化记录,原子化记录,atom.md,,"162"
+32,努力,努力,attempt.md,,"58"
+33,Auth0,Auth0,auth0.md,,"69"
+34,自动化,自动化,automation.md,,"102"
+35,秋天,秋天,autumn.md,,"27"
+36,避免熬夜,避免熬夜,avoid-staying-up.md,,"39"
+37,Awesome LLM WebUIs,Awesome LLM WebUIs,awesome-llm-web-ui.md,,"151"
+38,AWS,AWS,aws.md,,"18"
+39,BaaS,BaaS,baas.md,,"183"
+40,Backend Framework,Backend Framework,backend.md,,"78"
+41,平衡,平衡,balance.md,,"17"
+42,Bard,Bard,bard.md,,"65"
+43,身体是如何工作的,身体是如何工作的,base.md,,"994"
+44,《植物的战斗》,《植物的战斗》,battle-of-plants.md,,"438"
+45,贝叶斯推理,贝叶斯推理,bayesian-inference.md,,"947"
+46,运动的好处,运动的好处,benefits.md,,"567"
+47,从阅读中获取知识的最好方式,从阅读中获取知识的最好方式,best-way-to-acquire-knowledge-from-readings.md,,"358"
+48,偏见,偏见,bias.md,,"64"
+49,毕昇,毕昇,bisheng.md,open-source,"771"
+50,书,书,book.md,,"98"
+51,Bookmarks,Bookmarks,bookmarks.md,,"204"
+52,《排毒吧，大脑》,《排毒吧，大脑》,brain-wash.md,,"1,237"
+53,《冥想5分钟，等于熟睡一小时》,《冥想5分钟，等于熟睡一小时》,buddha's-brain.md,,"1,427"
+54,佛教,佛教,buddhism.md,,"930"
+55,建筑,建筑,building.md,,"89"
+56,负担,负担,burden.md,,"19"
+57,经营贷的坑,经营贷的坑,business-loan.md,,"1,277"
+58,商业模式,商业模式,business-model.md,,"54"
+59,ComfyUI,ComfyUI,ComfyUI.md,,"228"
+60,CaaS,CaaS,caas.md,,"87"
+61,《菜根谭》,《菜根谭》,caigentan.md,,"483"
+62,Canva,Canva,canva.md,,"323"
+63,胶囊计划,胶囊计划,capsule.md,,"210"
+64,车,车,car.md,,"108"
+65,动画&卡通,动画&卡通,cartoon.md,,"431"
+66,因果,因果,cause-and-effect.md,,"60"
+67,细胞,细胞,cell.md,,"813"
+68,Character.ai,Character.ai,character-ai.md,,"73"
+69,ChatBot,ChatBot,chatbot.md,,"558"
+70,ChatGPT-API Demo,ChatGPT-API Demo,chatgpt-demo.md,open-source,"443"
+71,ChatGPT Next Web,ChatGPT Next Web,chatgpt-next-web.md,open-source,"300"
+72,《成都》,《成都》,chengdu.md,,"453"
+73,央企,央企,china-grant-company.md,,"297"
+74,中国时间线,中国时间线,china-main-time-line.md,,"720"
+75,芯片,芯片,chip.md,,"2,498"
+76,《抉择》,《抉择》,choice.md,,"1,133"
+77,Choose optimism,Choose optimism,choose-optimism.md,,"1,276"
+78,选择工具,选择工具,choose-tool.md,,"66"
+79,川虎 Chat,川虎 Chat,chuanhu-ChatGPT.md,open-source,"137"
+80,clash-verge-rev,clash-verge-rev,clash-verge-rev.md,,"92"
+81,Claude,Claude,claude.md,,"21"
+82,Clerk,Clerk,clerk.md,"open-source, BaaS","441"
+83,CV 声音克隆工具,CV 声音克隆工具,clone-voice.md,open-source,"157"
+84,云平台,云平台,cloud.md,,"36"
+85,代码复杂度,代码复杂度,code-complexity.md,,"70"
+86,反叛的鲁路修,反叛的鲁路修,code-geass.md,,"155"
+87,冷笑话,冷笑话,code-joke.md,,"100"
+88,代码质量,代码质量,code-quality.md,,"139"
+89,编程,编程,coding.md,,"317"
+90,Cohere,Cohere,cohere.md,,"21"
+91,协同,协同,collaboration.md,,"41"
+92,商业地产,商业地产,commercial-estate.md,,"195"
+93,组合,组合,composition.md,,"82"
+94,连接应用的软件,连接应用的软件,connect-app.md,,"84"
+95,消费主义,消费主义,consumerism.md,,"255"
+96,内容创作和编辑,内容创作和编辑,content-generation.md,,"1,053"
+97,知足,知足,contented.md,,"60"
+98,问题的组成,问题的组成,contents-include-in-problem.md,,"20"
+99,《囚徒健身》,《囚徒健身》,convict-conditioning.md,,"84"
+100,Copilot,Copilot,copilot.md,,"196"
+101,copyai,copyai,copyai.md,,"118"
+102,模型,模型,core.md,,"398"
+103,Coze,Coze,coze.md,,"166"
+104,库里南,库里南,cullinan.md,,"267"
+105,Class Variance Authority,Class Variance Authority,cva.md,,"169"
+106,数据分析,数据分析,data-analysis.md,,"179"
+107,data fetching library,data fetching library,data-fetching-library.md,,"133"
+108,白日梦岛(Daydream island),白日梦岛(Daydream island),daydream.md,,"271"
+109,数据库,数据库,db.md,,"100"
+110,处理负面情绪,处理负面情绪,deal-with-negative-emotions.md,,"46"
+111,解藕,解藕,decouple.md,,"181"
+112,定义问题,定义问题,define-the-problem.md,,"341"
+113,部署模型/推理服务的平台,部署模型/推理服务的平台,deploy.md,,"119"
+114,devv,devv,devv.md,,"64"
+115,Dify,Dify,dify.md,open-source,"620"
+116,发现驱动的规划,发现驱动的规划,discovery-driven-planning.md,,"567"
+117,迪士尼,迪士尼,disney.md,,"1,529"
+118,《东莞打工妹生存实录》,《东莞打工妹生存实录》,dongguan-girls-work-record.md,,"388"
+119,戏剧,戏剧,drama.md,,"96"
+120,梦想,梦想,dream.md,,"23"
+121,多邻国,多邻国,duolingguo.md,,"18"
+122,dynamicland,dynamicland,dynamicland.md,,"335"
+123,《空腹的神奇治愈力》,《空腹的神奇治愈力》,eat-less.md,,"647"
+124,经济,经济,economy-1.md,,"2,666"
+125,经济,经济,economy.md,,"603"
+126,教育和培训,教育和培训,education.md,,"131"
+127,效率工具,效率工具,efficiency.md,,"43"
+128,哥哥,哥哥,elder.md,,"136"
+129,内啡肽,内啡肽,endorphins.md,,"250"
+130,保持活力的 5 种方法,保持活力的 5 种方法,enegy-managenent.md,,"652"
+131,能源,能源,energy.md,,"83"
+132,熵增,熵增,entropy-increase.md,,"34"
+133,熵,熵,entropy.md,,"101"
+134,平等,平等,equality.md,,"405"
+135,运动装备,运动装备,equipment.md,,"751"
+136,评价,评价,evaluate-app.md,,"120"
+137,人人都能用英语,人人都能用英语,every-one-can-use-english.md,,"121"
+138,写的很好的,写的很好的,excellent.md,,"302"
+139,经验,经验,experience.md,,"258"
+140,事实,事实,fact.md,,"504"
+141,公平,公平,fair.md,,"262"
+142,帆软,帆软,fanruan.md,,"70"
+143,favorites,favorites,favorites.md,,"231"
+144,组件功能 Checklist,组件功能 Checklist,feature.md,,"188"
+145,feedly,feedly,feedly.md,,"290"
+146,有压力时，身体会发生些了什么,有压力时，身体会发生些了什么,feel-stressed-what-happened.md,,"705"
+147,飞书多维表格,飞书多维表格,feishu-table.md,suggestion,"479"
+148,最常问的 12 个问题,最常问的 12 个问题,feynman-questions.md,,"260"
+149,Fin AI Chatbot,Fin AI Chatbot,fin.md,,"64"
+150,投资,投资,finance.md,,"216"
+151,FIRE 模型,FIRE 模型,fire.md,,"190"
+152,FireCrawl,FireCrawl,firecrawl.md,,"375"
+153,Fixie,"'Check the price of a stock.',",fixie.md,,"7,323"
+154,Floating UI,Floating UI,floating-ui.md,,"160"
+155,飞行,飞行,fly.md,,"106"
+156,幻方量化,幻方量化,flyer-quant.md,,"70"
+157,Foam,Foam,foam.md,,"143"
+158,食物转能量,食物转能量,food-to-energy.md,,"726"
+159,Frame,Frame,frame-ai-glass.md,,"424"
+160,开发框架,开发框架,framework.md,,"129"
+161,自由,自由,freedom.md,,"17"
+162,《葬送的芙莉莲》,《葬送的芙莉莲》,frieren-beyond-journey's-end.md,,"628"
+163,JavaScript Framework,JavaScript Framework,frontend-1.md,,"49"
+164,前端,前端,frontend.md,,"205"
+165,Web 框架,Web 框架,full-stack.md,,"194"
+166,有趣的冷知识,有趣的冷知识,funny.md,,"1,029"
+167,GummySearch,GummySearch,GummySearch.md,,"94"
+168,高达00,高达00,Gundam-00.md,,"393"
+169,G2,G2,g2.md,,"59"
+170,博弈思维,博弈思维,game.md,,"444"
+171,Gartner review,Gartner review,gartner-reviews.md,,"89"
+172,Gemini,Gemini,gemini.md,,"369"
+173,基因,基因,gene.md,,"458"
+174,获取信息,获取信息,get-info.md,,"111"
+175,Github Copilot,Github Copilot,github-copilot.md,,"29"
+176,GitHub Treading,GitHub Treading,github-treading.md,,"360"
+177,GitLab,GitLab,gitlab.md,open-source,"87"
+178,Glass animals,Glass animals,glass-animals.md,,"94"
+179,GLM,GLM,glm.md,,"341"
+180,忧郁,忧郁,gloomy.md,,"29"
+181,《控糖革命》,《控糖革命》,glucose-revolution.md,,"11,797"
+182,优秀产品研究,优秀产品研究,good-product-research.md,,"221"
+183,痛风,痛风,gout.md,,"555"
+184,Gamma,Gamma,gramma.md,,"82"
+185,双链笔记,双链笔记,graph-database.md,,"463"
+186,Graph View,Graph View,graph-view.md,,"95"
+187,贪婪,贪婪,greedy.md,,"77"
+188,《人间修炼指南》,《人间修炼指南》,guide-to-human-cultivation.md,,"116"
+189,《身体的问题，肠知道》,《身体的问题，肠知道》,gut-renovation.md,,"27"
+190,哈耶克,哈耶克,Hayek.md,,"86"
+191,幸福,幸福,hapiness.md,,"1,994"
+192,幸福大街,幸福大街,happiness-street.md,,"52"
+193,headless UI,headless UI,headless.md,,"105"
+194,Heptabase 帮助文档,Heptabase 帮助文档,heptabase-wiki.md,,"191"
+195,Heptabase,Heptabase,heptabase.md,,"416"
+196,徒步,徒步,hiking.md,,"495"
+197,历史,历史,history-1.md,,"167"
+198,历史,历史,history.md,,"1,441"
+199,HoloTile,HoloTile,holo-tile.md,,"53"
+200,红楼梦,红楼梦,hongloumeng.md,,"511"
+201,希望,希望,hope.md,,"17"
+202,N/A,N/A,how-an-economy-grows-and-why-it-crashes.md,,"26"
+203,如何做好子女的教育,如何做好子女的教育,how-to-do-get-education.md,,"713"
+204,如何找到人生的意义,如何找到人生的意义,how-to-find-the-meaning-of-life.md,,"454"
+205,如何获取财富？,如何获取财富？,how-to-get-wealth.md,,"120"
+206,如何延长健康寿命？,如何延长健康寿命？,how-to-have-a-longer-healthy-life.md,,"962"
+207,如何提升做事的效率？,如何提升做事的效率？,how-to-improve-working-efficiency.md,,"207"
+208,如何做好信息管理?,如何做好信息管理?,how-to-manage-info.md,,"234"
+209,Hugging Face,Hugging Face,hugging-face.md,,"28"
+210,hume.ai,hume.ai,hume-ai.md,,"236"
+211,iPS,iPS,iPS.md,,"929"
+212,想象,想象,imagination.md,,"137"
+213,命令式和声明式,命令式和声明式,imperative-and-declarative.md,,"588"
+214,《不完美受害人》,《不完美受害人》,imperfect-victim.md,,"109"
+215,信息获取,信息获取,in.md,,"384"
+216,基础设施,基础设施,infra.md,,"317"
+217,继承,继承,inheritance.md,,"17"
+218,这是个问题吗?,这是个问题吗?,is-this-a-question.md,,"77"
+219,Plan by ixigo,Plan by ixigo,ixigo.md,,"88"
+220,日本准备,日本准备,japan-plan.md,,"365"
+221,日本,日本,japan.md,,"106"
+222,Jasper,Jasper,jasper.md,,"160"
+223,姜文,姜文,jiang-wen.md,,"33"
+224,集简云,集简云,jijianyue.md,,"46"
+225,reader,reader,jina-reader.md,,"266"
+226,Joey Schweitzer,Joey Schweitzer,joey-schweitzer.md,,"168"
+227,《娱乐为王》,《娱乐为王》,just-for-fun.md,,"749"
+228,凯恩斯,凯恩斯,Keynes.md,,"18"
+229,《杀死比尔》,《杀死比尔》,kill-bill.md,,"22"
+230,Kinde,Kinde,kinde.md,"open-source, BaaS","91"
+231,风筝,风筝,kite.md,,"381"
+232,知识管理,知识管理,km.md,,"452"
+233,知识管理,知识管理,knowledge-managent.md,,"654"
+234,LangChain,LangChain,lanchain.md,open-source,"299"
+235,"The Landscape of Emerging AI Agent Architectures for Reasoning, Planning, and Tool Calling","The Landscape of Emerging AI Agent Architectures for Reasoning, Planning, and Tool Calling",landscape-of-ai-agent-architectures-survey.md,,"3,310"
+236,Langui,Langui,langui.md,,"467"
+237,良渚,良渚,liangzhu.md,,"324"
+238,《一生所爱》,《一生所爱》,life-long-love.md,,"562"
+239,生命科学,生命科学,life-science.md,,"109"
+240,产品列表,产品列表,list-1.md,,"2,100"
+241,书单,书单,list-2.md,,"1,326"
+242,现实列表,现实列表,list.md,,"74"
+243,Llama,Llama,llama.md,,"354"
+244,LlamaIndex,LlamaIndex,llamaIndex.md,,"31"
+245,LLM,LLM,llm-1.md,,"459"
+246,LLM Scraper,LLM Scraper,llm-scraper.md,,"202"
+247,LLM,LLM,llm.md,'tech classify schema',"749"
+248,Lobe Chat,Lobe Chat,lobe-chat.md,open-source,"231"
+249,Logseq,Logseq,logseq.md,open-source,"228"
+250,爱 死亡 机器人,爱 死亡 机器人,love-death-robot.md,,"24"
+251,爱,爱,love.md,,"17"
+252,产品,产品,make-product.md,,"620"
+253,生产,生产,make.md,,"160"
+254,Markdown Preview Enhanced,Markdown Preview Enhanced,markdown-preview-enchanced.md,,"1,302"
+255,Markdown Preview Mermaid Support,Markdown Preview Mermaid Support,markdown-preview-mermaid.md,,"767"
+256,市场经济,市场经济,market-economy.md,,"262"
+257,市场,市场,market.md,,"17"
+258,意义,意义,meaning.md,,"193"
+259,MECE,MECE,mece.md,,"164"
+260,药物,药物,medicine.md,,"29"
+261,记忆,记忆,memory.md,,"17"
+262,代谢,代谢,metabolism.md,,"492"
+263,知识管理的方法,知识管理的方法,methods.md,,"122"
+264,《大明王朝 1556》,《大明王朝 1556》,ming-dynasty-in-1566.md,suggestion,"44"
+265,秋天的怀念,秋天的怀念,miss-autumn.md,,"575"
+266,使命,使命,mission.md,,"17"
+267,N/A,N/A,model.md,,"0"
+268,N/A,N/A,moe.md,,"0"
+269,情绪,情绪,mood.md,,"93"
+270,Moonshot AI,Moonshot AI,moonshot.md,,"31"
+271,电影,电影,movie.md,,"451"
+272,Muse,Muse,muse.md,,"88"
+273,美国国家地理,美国国家地理,national-geographic.md,,"94"
+274,探索自然,探索自然,nature-explore.md,,"71"
+275,记录需要结构化吗?,记录需要结构化吗?,need-structed.md,,"205"
+276,Ness Labs,Ness Labs,ness-labs.md,,"280"
+277,神经科学,神经科学,neuroscience.md,,"100"
+278,Next.js,Next.js,next.md,,"22"
+279,Next.js,Next.js,nextjs.md,,"3,128"
+280,Nibble and your appetite will grow,Nibble and your appetite will grow,nibble-and-your-appetite-will-grow.md,,"319"
+281,宁波,宁波,ningbo.md,,"164"
+282,蔚来,蔚来,nio.md,,"718"
+283,NLP(自然语言处理),NLP(自然语言处理),nlp.md,,"116"
+284,笔记组成,笔记组成,note.md,,"386"
+285,Notion,Notion,notion.md,,"40"
+286,NovelAI,NovelAI,novelai.md,,"240"
+287,庐山 - 诺那塔院,庐山 - 诺那塔院,nuoanta.md,,"116"
+288,营养学,营养学,nutrition.md,,"2,387"
+289,Obsidian,Obsidian,obsidian.md,,"451"
+290,《官场酒局》,《官场酒局》,official-wine-bureau.md,,"604"
+291,开源项目分析,开源项目分析,open-source.md,,"450"
+292,开放，变化，多元的心态,开放，变化，多元的心态,open.md,,"28"
+293,OpenSaas,OpenSaas,openSaaS.md,open-source,"293"
+294,OpenAI reasoning model,OpenAI reasoning model,openai-gpt.md,,"97"
+295,OpenAI,OpenAI,openai.md,,"1,647"
+296,OpenCSG,OpenCSG,opencsg.md,,"311"
+297,寻找最优解而不是最大化,寻找最优解而不是最大化,optimal-rather-than-maximization.md,,"147"
+298,乐观,乐观,optimism.md,,"17"
+299,器官,器官,organ.md,,"633"
+300,整理,整理,orgnize.md,,"802"
+301,《如何有效克服惰性》,《如何有效克服惰性》,origin.md,,"1,830"
+302,其他,其他,other.md,,"186"
+303,《超越百岁》,《超越百岁》,outlive.md,,"3,281"
+304,信息管理,信息管理,overview.md,,"735"
+305,PaaS,PaaS,paas.md,,"80"
+306,彭浩翔,彭浩翔,pang-ho-cheung.md,,"34"
+307,激情,激情,passion.md,,"17"
+308,Pendant,Pendant,pendant.md,"AI, wearable","646"
+309,人,人,people-1.md,,"482"
+310,人,人,people.md,,"77"
+311,Perplexity,Perplexity,perplexity.md,,"97"
+312,悲观,悲观,pessimism.md,,"637"
+313,Pico,Pico,pico.md,,"58"
+314,Pinecone,Pinecone,pinecone.md,,"23"
+315,计划经济,计划经济,planned-economy.md,,"19"
+316,VSCODE 插件,VSCODE 插件,plugins.md,,"362"
+317,PMF(产品/市场契合度),PMF(产品/市场契合度),pmf.md,,"118"
+318,诗歌,诗歌,poem.md,,"108"
+319,政治,政治,politics.md,,"126"
+320,正循环,正循环,positive-cycle.md,,"69"
+321,《正面管教》,《正面管教》,positive-discipine.md,,"274"
+322,正向反馈,正向反馈,positive-feedback.md,,"19"
+323,积极心理学,积极心理学,positive-psychology.md,,"222"
+324,可预测,可预测,predictable.md,,"18"
+325,优先选择分类还是标签,优先选择分类还是标签,prefer-classify-or-tag.md,,"394"
+326,控制情绪的前额叶皮质,控制情绪的前额叶皮质,prefrontal-cortex.md,,"926"
+327,数据呈现,数据呈现,presentation.md,,"152"
+328,概率,概率,probability.md,,"17"
+329,问题,问题,problem-1.md,,"643"
+330,问题,问题,problem.md,,"301"
+331,产品 Schema,产品 Schema,product-1.md,,"94"
+332,产品,产品,product-2.md,,"36"
+333,Product Hunt,Product Hunt,product-hunt.md,,"153"
+334,产品,产品,product.md,,"37"
+335,编程逻辑可视化,编程逻辑可视化,programming.md,open-source,"296"
+336,Prompt 工程,Prompt 工程,prompt-engineer.md,,"25"
+337,散文,散文,prose.md,,"223"
+338,Publer AI Assist,Publer AI Assist,publer.md,,"108"
+339,追寻,追寻,pursue.md,,"203"
+340,《量子大唠嗑》,《量子大唠嗑》,quantum-dialog.md,,"89"
+341,Quartz,Quartz,quartz.md,,"464"
+342,Questgen,Questgen,questgen.md,open-source,"204"
+343,QuillBot,QuillBot,quillbot.md,,"23"
+344,Quizlet,Quizlet,quizlet.md,,"671"
+345,Rabbit R1,Rabbit R1,rabbit-r1.md,,"674"
+346,Radix Vue,Radix Vue,radix-vue.md,,"108"
+347,Radix,Radix,radix.md,,"1,408"
+348,RAG,RAG,rag.md,,"3,183"
+349,Rath,Rath,rath.md,open-source,"195"
+350,React,React,react-1.md,,"87"
+351,React component,React component,react-componet.md,,"130"
+352,React Spring,React Spring,react-spring.md,,"244"
+353,React,React,react.md,,"1,538"
+354,读首诗再睡觉,读首诗再睡觉,read-a-poem-before-sleep.md,,"26"
+355,阅读,阅读,reading.md,,"17"
+356,怎么算是掌握了知识,怎么算是掌握了知识,readmd-1.md,,"68"
+357,运动,运动,readmd-2.md,,"612"
+358,数据存储,数据存储,readmd.md,,"123"
+359,房子,房子,reamde.md,,"308"
+360,推理能力,推理能力,reasoning.md,,"19"
+361,ReByte,ReByte,rebyte.md,,"874"
+362,Recall,Recall,recall.md,,"471"
+363,《剑雨》,《剑雨》,reign-of-assassins.md,,"1,082"
+364,Relative Path,Relative Path,relative-path.md,,"170"
+365,放松,放松,relax-1.md,,"52"
+366,放松,放松,relax.md,,"17"
+367,Relika,Relika,relika.md,,"48"
+368,Remix,Remix,remix.md,,"394"
+369,remove bg,remove bg,remove-bg.md,,"109"
+370,Replicate,Replicate,replicate.md,,"24"
+371,Resend,Resend,resend.md,BaaS,"621"
+372,《重塑超级大脑》,《重塑超级大脑》,reshaping-the-super-brain.md,,"1,145"
+373,学习资源,学习资源,resource-1.md,,"122"
+374,资源,资源,resource-2.md,,"290"
+375,资源,资源,resource.md,,"945"
+376,休息,休息,rest.md,,"71"
+377,Roam,Roam,roam.md,,"815"
+378,劳斯莱斯,劳斯莱斯,rolls-royce.md,,"42"
+379,浪漫主义,浪漫主义,romanticism.md,,"299"
+380,N/A,N/A,route-todo.md,,"263"
+381,Runway,Runway,runway.md,,"335"
+382,SaaS,SaaS,saas-1.md,,"93"
+383,SaaS,SaaS,saas.md,,"42"
+384,安全,安全,safe.md,,"120"
+385,销售,销售,sale.md,,"321"
+386,圣托里尼岛,圣托里尼岛,santorini.md,,"147"
+387,三亚,三亚,sanya.md,,"709"
+388,场景,场景,scenario-1.md,,"325"
+389,AI 场景,AI 场景,scenario-2.md,,"208"
+390,场景,场景,scenario.md,,"66"
+391,Tech Schema,Tech Schema,schema-1.md,,"273"
+392,模型 Schema,模型 Schema,schema.md,,"83"
+393,科学方法,科学方法,science-1.md,,"807"
+394,科学,科学,science.md,,"314"
+395,海,海,sea.md,,"100"
+396,AI 搜索,AI 搜索,search.md,,"402"
+397,暗恋桃花源,暗恋桃花源,secret-love-and-heavenly-place.md,,"68"
+398,前端安全,前端安全,security.md,,"417"
+399,Semantic Scholar,Semantic Scholar,semantic-scholar.md,,"133"
+400,调节情绪的血清素,调节情绪的血清素,serotonin-for-mood-regulation.md,,"432"
+401,shadcn/ui,shadcn/ui,shadcn.md,open-source,"375"
+402,肾,肾,shen.md,,"61"
+403,简化,简化,simplify.md,,"116"
+404,单一职责,单一职责,single-responsibility.md,,"175"
+405,网站流量分析,网站流量分析,site.md,,"34"
+406,经济情况,经济情况,situation.md,,"57"
+407,小品,小品,sketch.md,,"197"
+408,能力,能力,skill.md,,"81"
+409,慢充,慢充,slow-rechange.md,,"194"
+410,代码片段,代码片段,snippents.md,,"45"
+411,软件工程,软件工程,soft-engineering.md,,"206"
+412,服务,服务,solution.md,,"66"
+413,解决问题,解决问题,solve-problem.md,,"37"
+414,歌,歌,song.md,,"115"
+415,N/A,N/A,sop.md,,"0"
+416,Source,Source,source.md,,"340"
+417,Stability.ai,Stability.ai,stability-ai.md,,"105"
+418,赖声川,赖声川,stan-lai.md,,"309"
+419,Pitch Generator,Pitch Generator,startup-pitch-generator-tally.md,,"582"
+420,N/A,N/A,state-manage.md,,"282"
+421,《偷香》,《偷香》,steal-fragrance.md,,"659"
+422,孙燕姿,孙燕姿,stefanie-sun.md,,"47"
+423,Steph Ango,Steph Ango,steph-ango.md,,"530"
+424,Strapi,Strapi,strapi.md,open-source,"244"
+425,Stripe,Stripe,stripe.md,,"1,393"
+426,总结能力,总结能力,summary.md,,"22"
+427,supabase,supabase,supabase.md,open-source,"285"
+428,TinyWow,TinyWow,TinyWow.md,suggestion,"228"
+429,tailwind-merge,tailwind-merge,tailwind-merge.md,suggestion,"358"
+430,《暗河传》,《暗河传》,tales-fo-dark-river.md,,"205"
+431,TanStack Query,TanStack Query,tanstack-query.md,,"663"
+432,TanStack,TanStack,tanstack.md,,"318"
+433,茶马古道,茶马古道,tea-hourse.md,,"90"
+434,技术,技术,tech-1.md,,"422"
+435,AI 技术,AI 技术,tech-2.md,,"174"
+436,技术,技术,tech-3.md,,"119"
+437,技术,技术,tech.md,,"914"
+438,技术的涟漪效应：RAG与Long Context的认知冲突,技术的涟漪效应：RAG与Long Context的认知冲突,technological-ripple-effect-rag-and-long-context-cognitive-conflict.md,,"631"
+439,概念,概念,terms.md,,"633"
+440,特斯拉,特斯拉,tesla.md,,"258"
+441,《纳瓦尔宝典》,《纳瓦尔宝典》,the-almanack-of-naval-ravikant.md,,"2,263"
+442,The doors,The doors,the-doors.md,,"105"
+443,人生的意义,人生的意义,the-meaning-of-life.md,,"187"
+444,《大清盐商》,《大清盐商》,the-merchants-of-qing-dynasty.md,,"676"
+445,《疯狂的尿酸》,《疯狂的尿酸》,the-surprising-new-science-of-uric-cid.md,,"3,606"
+446,The Verge,The Verge,the-verge.md,suggestion,"229"
+447,《昨日之前的世界》,《昨日之前的世界》,the-world-until-yesterday.md,,"41"
+448,主题公园,主题公园,theme-park.md,,"79"
+449,考虑清楚要解决什么问题后再行动,考虑清楚要解决什么问题后再行动,think-clearly-to-solve-which-problem-before-action.md,,"107"
+450,ThoughtWorks 技术雷达,ThoughtWorks 技术雷达,thoughtworks-radar.md,suggestion,"1,017"
+451,时间线,时间线,time-line.md,,"232"
+452,🪜,🪜,tizi.md,,"135"
+453,tldraw VSCode Plugin,tldraw VSCode Plugin,tldraw.md,,"171"
+454,待研究,待研究,to-research.md,,"85"
+455,东京,东京,tokyo.md,,"180"
+456,桐庐,桐庐,tonglu.md,,"458"
+457,信息管理工具选择,信息管理工具选择,tools.md,,"1,108"
+458,信息管理的顶级分类,信息管理的顶级分类,top-classify.md,,"285"
+459,《走向共和》,《走向共和》,toward-a-republic.md,suggestion,"1,876"
+460,TPF(技术/产品契合度),TPF(技术/产品契合度),tpf.md,,"378"
+461,越野跑,越野跑,trail-running.md,,"263"
+462,N/A,N/A,transform.md,,"0"
+463,翻译,翻译,translate.md,,"17"
+464,旅行者,旅行者,traveller.md,,"97"
+465,治疗,治疗,treatment.md,,"145"
+466,三脑模型,三脑模型,triune-brain.md,,"1,098"
+467,《创：战纪》,《创：战纪》,tron-legacy.md,,"103"
+468,信任,信任,trust.md,,"38"
+469,Text to Speech,Text to Speech,tts.md,,"96"
+470,TutorAI,TutorAI,tutorai.md,,"115"
+471,twenty,twenty,twenty.md,,"142"
+472,两行写在泥土上的字,两行写在泥土上的字,two-sentences-on-the-soil.md,,"127"
+473,Typebot,Typebot,typebot.md,open-source,"397"
+474,UI 组件,UI 组件,ui-component.md,,"92"
+475,UI 组件,UI 组件,ui.md,,"86"
+476,UIVerse,UIVerse,uiverse.md,,"283"
+477,嗑叔嗑动物,嗑叔嗑动物,uncle-ke-ke-animals.md,,"32"
+478,Unifying RAG and long context LLMs,Unifying RAG and long context LLMs,unifying-rag-and-long-context-LLMs.md,,"288"
+479,环球影城,环球影城,universal.md,,"45"
+480,未整理,未整理,unsort.md,,"276"
+481,\@use-gesture,\@use-gesture,use-gesture.md,,"412"
+482,用户画像,用户画像,user-portrait.md,,"60"
+483,用户,用户,user.md,,"53"
+484,V0,V0,v0.md,,"63"
+485,向量数据库,向量数据库,vector-db.md,,"48"
+486,Vision Pro,Vision Pro,vision-pro.md,,"37"
+487,视觉,视觉,vision.md,,"192"
+488,可视化,可视化,visualization.md,,"48"
+489,VR 相关的,VR 相关的,vr-related.md,,"138"
+490,VS Code 插件,VS Code 插件,vs-code-plugins.md,,"467"
+491,Vue,Vue,vue.md,,"24"
+492,王慧文清华产品课,王慧文清华产品课,wanghuiwen.md,,"23"
+493,想要知道的列表,想要知道的列表,want-to-know-list.md,,"88"
+494,我们都是好孩子,我们都是好孩子,we-are-all-good-children.md,,"48"
+495,如何获取财富？,如何获取财富？,wealth.md,,"351"
+496,解决问题的方法,解决问题的方法,what's-the-way-to-solve-problem.md,,"46"
+497,《哲学家们都干了些什么？》,《哲学家们都干了些什么？》,what-did-philosophers-do.md,,"648"
+498,什么是好文章,什么是好文章,what-is-good-article.md,,"425"
+499,你想活出怎样的人生,你想活出怎样的人生,what-life-do-you-like.md,,"586"
+500,记录什么,记录什么,what-to-record.md,,"225"
+501,鱼不存在,鱼不存在,why-fish-don't-exixt.md,,"918"
+502,人为什么容易有消极情绪？,人为什么容易有消极情绪？,why-tend-to-have-nagative-mood.md,,"278"
+503,Wikilinks,Wikilinks,wikilinks.md,,"509"
+504,动力/意愿,动力/意愿,willingness.md,,"20"
+505,冬天,冬天,winter.md,,"48"
+506,WorkOS,WorkOS,workos.md,BaaS,"234"
+507,Writer,Writer,writer.md,,"914"
+508,Writesonic,Writesonic,writesonic.md,,"137"
+509,写作,写作,writing.md,,"309"
+510,小鹏,小鹏,xiaopeng.md,,"116"
+511,星云大师,星云大师,xingyue.md,,"20"
+512,《你是你吃出来的2》,《你是你吃出来的2》,you-are-what-you-eat-2.md,,"1,607"
+513,俞军产品方法论,俞军产品方法论,yujun.md,,"121"
+514,Zapier,Zapier,zapier.md,,"48"
+515,禅修,禅修,zen-meditation.md,,"45"
+516,卢曼卡片盒笔记法,卢曼卡片盒笔记法,zettelkasten-method.md,,"246"
+517,疯狂动物城,疯狂动物城,zootopia.md,,"108"

@@ -41,12 +41,14 @@ function extractMetadata(fileContent) {
   const title = titleMatch ? titleMatch[1].trim() : '';
   const descriptionMatch = fileContent.match(/description:\s*(.*)/);
   const description = descriptionMatch ? descriptionMatch[1].trim() : (title ? title : '');
-  const tags = fileContent.match(/tags:\s*(.*)/); / tags: open-source, BaaS'/
+  const tagsMatch = fileContent.match(/tags:\s*(.*)/); / tags: open-source, BaaS'/
+  const tags = tagsMatch ? tagsMatch[1].trim() : '';
 
   return {
     title: title || 'N/A',
     description: description || 'N/A',
     tags: tags || '',
+    contentLength: fileContent.length,
   };
 }
 
@@ -64,15 +66,17 @@ function escapeCsvField(field) {
 
 /**
  * Convert a record to a CSV line
- * @param {{title: string, description: string, filename: string}} record Record to convert
+ * @param {{title: string, description: string, filename: string ...}} record Record to convert
  * @returns {string} CSV line
  */
-function convertRecordToCsvLine(record, index) {
+function convertRecordToCsvLine({ title, description, filename, tags, contentLength }, index) {
   return [
     index + 1,
-    escapeCsvField(record.title),
-    escapeCsvField(record.description),
-    escapeCsvField(record.filename)
+    escapeCsvField(title),
+    escapeCsvField(description),
+    escapeCsvField(filename),
+    escapeCsvField(tags),
+    `"${contentLength.toLocaleString()}"`, // format it with thousand separator
   ].join(',');
 }
 
@@ -82,7 +86,7 @@ function convertRecordToCsvLine(record, index) {
  * @returns {string} CSV file content
  */
 function generateCsvContent(records) {
-  const csvHeader = 'No,Title,Description,Filename,Tags\n';
+  const csvHeader = 'No,Title,Description,Filename,Tags,ContentLength\n';
   const csvLines = records.map(convertRecordToCsvLine).join('\n');
   return csvHeader + csvLines;
 }
@@ -99,11 +103,11 @@ function generateNavCsv() {
     const mdFiles = getMdFilesInFolder(folderPath);
     mdFiles.forEach(filePath => {
       const fileContent = fs.readFileSync(filePath, 'utf8');
-      const { title, description } = extractMetadata(fileContent);
+      const metaData = extractMetadata(fileContent);
       const filename = path.basename(filePath);
 
       // Add file information to the records array
-      records.push({ title, description, filename });
+      records.push({ ...metaData, filename });
     });
   });
 
