@@ -1,5 +1,7 @@
 ---
 title: AirTable
+description: Database + Excel. 类似飞书的多维表格
+tags: tools
 ---
 
 [官网](https://airtable.com/)

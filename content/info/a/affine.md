@@ -1,5 +1,7 @@
 ---
 title: AFFiNE
+description: AFFiNE is a workspace with fully merged docs, whiteboards and databases
+tags: open source, tools
 ---
 [官网](https://affine.pro/)
 > Write, Draw, Plan, All at Once

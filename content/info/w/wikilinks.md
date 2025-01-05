@@ -1,5 +1,6 @@
 ---
 title: Wikilinks
+tags: knowledge management
 ---
 Wikilinks(维基链接)是由早期的互联网维基率先推出的，它使跨页面编写链接变得更加容易，而无需每次都编写 Markdown 或 HTML 链接。
 

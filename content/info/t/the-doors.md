@@ -1,5 +1,6 @@
 ---
 title: The doors
+tags: band
 ---
 主唱：Jim Morrison.
 

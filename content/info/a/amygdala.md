@@ -1,8 +1,10 @@
 ---
 title: 杏仁核
+description: 产生情绪和调节内脏活动
+tags: life science
 ---
 
-[杏仁核](https://zh.wikipedia.org/wiki/%E6%9D%8F%E4%BB%81%E6%A0%B8)又名杏仁体，有产生情绪和调节内脏活动的功能。
+[杏仁核](https://zh.wikipedia.org/wiki/%E6%9D%8F%E4%BB%81%E6%A0%B8) 又名杏仁体，有产生情绪和调节内脏活动的功能。
 
 杏仁核位于侧脑室下角前端的上方，海马体旁回沟的外侧，顶部与尾状核的末端相连。它是边缘系统的一部分。
 

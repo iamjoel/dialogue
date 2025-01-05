@@ -1,5 +1,6 @@
 ---
 title: 让人上瘾的多巴胺
+tags: life science
 ---
 
 > 多巴胺是一种渴望。

@@ -1,5 +1,7 @@
 ---
 title: Astro
+description: Astro is the web framework for building content-driven websites like blogs, marketing, and e-commerce.
+tags: frontend, CMS
 ---
 [官网](https://astro.build/)
 > Astro is the web framework for building content-driven websites like blogs, marketing, and e-commerce.

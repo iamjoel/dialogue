@@ -1,5 +1,6 @@
 ---
-title: 高达00
+title: 《高达00》
+tags: animation
 ---
 为消灭战争而战。
 

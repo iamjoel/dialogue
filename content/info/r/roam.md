@@ -1,5 +1,6 @@
 ---
 title: Roam
+tags: knowledge management, tools
 ---
 [官网](https://roamresearch.com/)
 > As easy to use as a document. As powerful as a graph database.

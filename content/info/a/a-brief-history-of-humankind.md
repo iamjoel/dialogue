@@ -1,6 +1,6 @@
 ---
 title: 《人类简史》
-tag: suggestion
+tags: history, suggestion
 ---
 
 ## 作者

@@ -1,5 +1,7 @@
 ---
 title: 主题公园
+tags: travel
 ---
-* [迪士尼](./disney/readme.md)
-* [环球影城](./universal/readme.md)
+
+* [迪士尼](../d/disney.md)
+* [环球影城](../u/universal.md)

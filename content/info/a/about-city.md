@@ -1,5 +1,6 @@
 ---
 title: 衡量城市
+tags: city
 ---
 
 * GDP，出口金额，支柱产业

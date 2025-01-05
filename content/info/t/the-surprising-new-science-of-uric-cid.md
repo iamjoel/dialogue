@@ -1,5 +1,6 @@
 ---
 title: 《疯狂的尿酸》
+tags: health
 ---
 
 ## [基础信息](https://book.douban.com/subject/36591951/)

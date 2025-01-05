@@ -1,5 +1,6 @@
 ---
 title: 基因
+tags: life science
 ---
 
 > “不以进化论，无以理解生物学。” - 遗传学家西奥多修斯·杜布赞斯基(Theodosius Dobzhansky)。生命本质上是由生命有机体利用能量来产生更多生命有机体的过程。

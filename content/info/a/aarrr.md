@@ -1,5 +1,6 @@
 ---
 title: AAARR 海盗指标
+tags: marketing
 ---
 [官网](https://www.productplan.com/glossary/aarrr-framework/)
 > AARRR Pirate Metrics framework is an acronym for a set of five user-behavior metrics that product-led growth businesses should be tracking: acquisition, activation, retention, referral, and revenue.

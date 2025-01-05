@@ -1,5 +1,6 @@
 ---
 title: 自动化
+tags: effective
 ---
 
 网络世界的自动化可以靠程序。

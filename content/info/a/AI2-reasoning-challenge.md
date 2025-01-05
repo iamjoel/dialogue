@@ -1,12 +1,12 @@
 ---
 title: AI2 Reasoning Challenge
+description:  a set of grade-school science questions
+tags: AI
 ---
 
 > a set of grade-school science questions
 
 考察 AI 的推理能力。
-
-
 
 ## 简介
 [官网](https://allenai.org/data/arc) 简称 ARC。

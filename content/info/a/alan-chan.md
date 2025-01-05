@@ -1,7 +1,9 @@
 ---
-title: 詹雨安(Alan Chan)
+title: Alan Chan
+tags: people
+description: Heptabase 创始人
 ---
-[Heptabase](../../../3-wealth/1-skill/knowledge-managent/tools/heptabase.md) 创始人。
+詹雨安(Alan Chan) 是 [Heptabase](../h//heptabase.md) 创始人。
 
 ## [My Vision - A New City](https://wiki.heptabase.com/a-new-city?lang=zh-Hant)
 > 一個糟糕的網路會讓無意義的事情變得容易、上癮。它使我們感覺需求沒有得到滿足。它使我們認為一則即時的訊息回覆比一封用心寫的長信更為重要。它使我們覺得自己在各方面都不完美，並鼓勵我們假裝完美。它使我們只看到我們想看到的，而不是對我們有用的資訊。它使我們過度思考短期的事情並試圖微觀管理我們的每分每秒。它使我們花費太多時間在不重要的事情上，最後感到後悔。它使我們失去與現實世界的連結。

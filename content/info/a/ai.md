@@ -1,6 +1,7 @@
 ---
 title: AI
 description: 提供执行复杂任务的服务
+tags: AI
 ---
 
 AI 本质上就是能执行复杂任务。在这些复杂任务的表现上能达到或超越人类的水平。
@@ -92,3 +93,6 @@ Autonomous Trading Systems: While limited to financial markets, some hedge funds
 自主交易系统：虽然仅限于金融市场，但一些对冲基金和交易公司使用的人工智能系统具有很大的自主性，可以根据市场数据和复杂算法做出实时交易决策，自主管理风险和投资组合分配，并根据不断变化的市场条件调整策略。
 These examples illustrate the potential for AI to impact organizational processes, but they are a far cry from the fully autonomous, AGI-level systems envisioned for Level 5. The realization of this level would represent a paradigm shift in how we think about organizational structure and management.
 这些例子说明了人工智能影响组织流程的潜力，但它们与第5级所设想的完全自主的AGI级系统相去甚远。这一层次的实现将代表我们如何看待组织结构和管理的范式转变。
+
+## 资源
+* [The Modern AI Stack: Design Principles for the Future of Enterprise AI Architectures](https://menlovc.com/perspective/the-modern-ai-stack-design-principles-for-the-future-of-enterprise-ai-architectures/)

@@ -1,5 +1,7 @@
 ---
-title: 增长飞轮和逆向工作法
+title: 亚马逊工作法
+description: 增长飞轮和逆向工作法
+tags: effective
 ---
 
 亚马逊的工作法。方法论都是以用户为中心。

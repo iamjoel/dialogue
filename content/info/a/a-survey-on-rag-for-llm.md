@@ -1,5 +1,6 @@
 ---
 title: A Survey on Retrieval-Augmented Text Generation for Large Language Models
+tags: AI
 ---
 
 ## 基础信息
