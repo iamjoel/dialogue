@@ -8,7 +8,7 @@ tags: AI
 LLM 作为聊天机器人，可以节省大量人力资源。它可以处理大约80%的常规客户咨询，并提供全年无休的客户服务。
 
 包括
-1. 公司客服机器人。[Typebot](./chatbot/typebot.md)
+1. 公司客服机器人。[Typebot](../t/typebot.md)
 2. 情感陪伴机器人([Character.ai](./chatbot/character-ai.md), [Relika](./chatbot/relika.md))。
 3. 数字人。
 
@@ -57,7 +57,7 @@ LLM可以提供个性化学习体验，辅助学生理解复杂概念，回答�
 
 ## 其他场景
 * [毕昇支持的应用](../infra/saas/bisheng.md#应用)
-* [AirOps 支持的](./copilot/airops.md)
+* [AirOps 支持的](../a/airops.md)
 
 ## 数据
 * [Will(郎瀚威)](https://twitter.com/FinanceYF5)  [产品数据](https://zw73xyquvv.feishu.cn/wiki/UH5QwtUWtis1gTk4R6rcnWK2nZc)

@@ -4,4 +4,4 @@ tags: AI
 ---
 
 * [Langui](../l/langui.md)
-* [Awesome LLM WebUIs](./awesome-llm-web-ui.md)
+* [Awesome LLM WebUIs](../a/awesome-llm-web-ui.md)
