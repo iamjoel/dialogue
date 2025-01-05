@@ -66,15 +66,15 @@ function escapeCsvField(field) {
 
 /**
  * Convert a record to a CSV line
- * @param {{title: string, description: string, filename: string ...}} record Record to convert
+ * @param {{title: string, description: string, filePath: string ...}} record Record to convert
  * @returns {string} CSV line
  */
-function convertRecordToCsvLine({ title, description, filename, tags, contentLength }, index) {
+function convertRecordToCsvLine({ title, description, filePath, tags, contentLength }, index) {
   return [
     index + 1,
     escapeCsvField(title),
     escapeCsvField(description),
-    escapeCsvField(filename),
+    escapeCsvField(filePath),
     escapeCsvField(tags),
     `"${contentLength.toLocaleString()}"`, // format it with thousand separator
   ].join(',');
@@ -82,11 +82,11 @@ function convertRecordToCsvLine({ title, description, filename, tags, contentLen
 
 /**
  * Generate CSV file content
- * @param {{title: string, description: string, filename: string}[]} records List of records
+ * @param {{title: string, description: string, filePath: string}[]} records List of records
  * @returns {string} CSV file content
  */
 function generateCsvContent(records) {
-  const csvHeader = 'No,Title,Description,Filename,Tags,ContentLength\n';
+  const csvHeader = 'No,Title,Description,FilePath,Tags,ContentLength\n';
   const csvLines = records.map(convertRecordToCsvLine).join('\n');
   return csvHeader + csvLines;
 }
@@ -105,9 +105,10 @@ function generateNavCsv() {
       const fileContent = fs.readFileSync(filePath, 'utf8');
       const metaData = extractMetadata(fileContent);
       const filename = path.basename(filePath);
+      const outputFilePath = `./${filename.charAt(0).toLowerCase()}/${filename}/`
 
       // Add file information to the records array
-      records.push({ ...metaData, filename });
+      records.push({ ...metaData, filePath: outputFilePath });
     });
   });
 
