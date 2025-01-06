@@ -2,23 +2,23 @@
 title: 内容创作和编辑
 ---
 * 营销内容
-  * [Writer](./writer.md)
-  * [copyAI](./copyai.md)
-  * [Jasper](./jasper.md)
-  * [writesonic](./writesonic.md)
+  * [Writer](../w/writer.md)
+  * [copyAI](../c/copyai.md)
+  * [Jasper](../j/jasper.md)
+  * [writesonic](../w/writesonic.md)
 * 文本改写
-  * [QuillBot](./quillbot.md)
+  * [QuillBot](../q/quillbot.md)
 * 生成 PPT
-  * [Gamma](./gramma.md)
+  * [Gamma](../g/gramma.md)
 * 图片生成
-  * [ComfyUI](./ComfyUI.md)
-  * 营销图片生成 [Canva](./canva.md)
-  * [remove bg](./remove-bg.md) 去背景/水印+ 背景
+  * [ComfyUI](../c/ComfyUI.md)
+  * 营销图片生成 [Canva](../c/canva.md)
+  * [remove bg](../r/remove-bg.md) 去背景/水印+ 背景
 * 视频生成
-  * [Runway](./runway.md)
+  * [Runway](../r/runway.md)
 * 音频生成
   * 人的语音
-    * [clone-voice](./clone-voice.md)
+    * [clone-voice](../c/clone-voice.md)
     * [albus](https://albus.org/audio-fast)
   * 歌曲
     * [suno](https://app.suno.ai) 写歌的app。挺有意思。
@@ -28,6 +28,6 @@ title: 内容创作和编辑
   * [Vercel v0](https://v0.dev/)  [What is Vercel's AI tool, V0.dev and how do you use it?](https://dev.to/opensauced/what-is-vercels-ai-tool-v0dev-and-how-do-you-use-it-3nge) [v0 Product hunt](https://www.producthunt.com/products/v0-dev-by-vercel-labs)
   * [screenshot-to-code](https://github.com/abi/screenshot-to-code)
 * 生产故事
-  * [NovelAI](./novelai.md)
+  * [NovelAI](../n/novelai.md)
 * 写社交媒体内容
-  * [Publer](./publer.md)
+  * [Publer](../p/publer.md)

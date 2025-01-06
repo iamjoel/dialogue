@@ -6,9 +6,9 @@ tag: suggestion, open-source
 > An open source component library optimized for fast development, easy maintenance, and accessibility. Just import and go—no configuration required.
 > 一个开源组件库，针对快速开发、易于维护和可访问性进行了优化。 只需导入即可运行——无需配置。
 
-其他框架的： [Radix Vue](./radix-vue.md)，[Radix Svelte](https://radix-svelte.com/)。
+其他框架的： [Radix Vue](../r/radix-vue.md)，[Radix Svelte](https://radix-svelte.com/)。
 
-[WorkOS](../../../scenario/auth/workos.md) 做的。
+[WorkOS](../w/workos.md) 做的。
 
 做的超级赞：
 1. 功能强大（可访问性，下拉支持 Portal 等常见业务功能都支持）。

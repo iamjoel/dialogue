@@ -11,11 +11,11 @@ title: 产品
   * 可以靠看用户对竞品的评价，来稍微弥补下这个缺点。
 
 ## 概念
-[PFM](../terminology/pmf.md)，[TPF](../terminology/tpf.md)
+[PFM](../p/pmf.md)，[TPF](../t/tpf.md)
 
-提供服务的不同层次和力度：[PaaS](../terminology/service-type/paas.md)，[SaaS](../terminology/service-type/saas.md)，[BaaS](../terminology/service-type/baas.md)，[CaaS](../terminology/service-type/caas.md)。
+提供服务的不同层次和力度：[PaaS](../p/paas.md)，[SaaS](../s/saas.md)，[BaaS](../b/baas.md)，[CaaS](../c/caas.md)。
 
 ## 学习
-* [书](./book/readme.md)
-* [优秀产品研究](./good-product-research/readme.md)
-* [待研究](./to-research/readme.md)
+* [书](../b/book.md)
+* [优秀产品研究](../g/good-product-research.md)
+* [待研究](../t/to-research.md)

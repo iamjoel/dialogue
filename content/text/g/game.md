@@ -26,5 +26,5 @@ title: 博弈思维
 理性人假设。
 
 ## 资源
-* [《人间修炼指南》](../../product/core/game/guide-to-human-cultivation.md) 半佛仙人 写的。从博弈分析日常。
+* [《人间修炼指南》](../g/guide-to-human-cultivation.md) 半佛仙人 写的。从博弈分析日常。
 * 碧树西风，记忆承载，西风的罗盘 的公众号文章

@@ -8,7 +8,7 @@ title: 未整理
 构建，愉悦，亲密的亲子关系。
 让孩子成为一个独立，快乐的人。
 
-[正面管教](../product/book/edcation/positive-discipine.md)
+[正面管教](../p/positive-discipine.md)
 
 ## 娱乐
 

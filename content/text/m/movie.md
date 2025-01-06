@@ -3,8 +3,8 @@ title: 电影
 ---
 
 ## 导演
-* [姜文](./director/jiang-wen.md)
-* 香港: [彭浩翔](./director/pang-ho-cheung.md)， 杜琪峰，吴宇森
+* [姜文](../j/jiang-wen.md)
+* 香港: [彭浩翔](../p/pang-ho-cheung.md)， 杜琪峰，吴宇森
 * 程耳
 * 台湾 
   * 杨德昌
@@ -15,16 +15,16 @@ title: 电影
 
 ## 作品
 ### 动作片
-* [剑雨](./works/action/reign-of-assassins.md)
+* [剑雨](../r/reign-of-assassins.md)
 
 ### 科幻
-* [《创：战纪》](./works/sci-fi/tron-legacy.md)
+* [《创：战纪》](../t/tron-legacy.md)
 
 ### 政治
 * 《罗曼蒂克消亡史》 导演：程耳。 还有 无名。
 
 ### 互动剧
-* [《我的48次心动》](./works/love/48-heartbeat.md)
+* [《我的48次心动》](../4/48-heartbeat.md)
 
 ### 评论
 * 电影巨辩。播客，主持人： 老马，阿吴。

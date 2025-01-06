@@ -1,10 +1,10 @@
 ---
 title: Source
 ---
-* [Ness Labs](../../../1-happiness/5-resource/ness-labs/readme.md) 一个为雄心勃勃的知识工作者提供的学习社区。
+* [Ness Labs](../n/ness-labs.md) 一个为雄心勃勃的知识工作者提供的学习社区。
 
 ## 科技类
-* [The Verge](../../../../../product/the-verge.md)
+* [The Verge](../t/the-verge.md)
 
 
 ## 金融类

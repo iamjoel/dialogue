@@ -7,7 +7,7 @@ title: ReByte
 
 [详细介绍](https://rebyte-ai.gitbook.io/rbyte/getting-started/readme)
 
-帮助不懂写代码的也能开发应用。全流程辅助：原型(draw)，UI设计(Design)，编码(Code),监控(Trace), 上线（Ship）。从文档来看，主要还是做的基于本地知识[^1] 和 网络[^2] 的 [RAG](../../solution/rag.md) 应用。前端是通过 LLM 生成的。
+帮助不懂写代码的也能开发应用。全流程辅助：原型(draw)，UI设计(Design)，编码(Code),监控(Trace), 上线（Ship）。从文档来看，主要还是做的基于本地知识[^1] 和 网络[^2] 的 [RAG](../r/rag.md) 应用。前端是通过 LLM 生成的。
 
 ## 疑问
 * 后端提供的是什么？是一些列 API？代码可以看到吗？

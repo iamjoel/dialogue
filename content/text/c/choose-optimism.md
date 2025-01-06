@@ -10,7 +10,7 @@ title: Choose optimism
 > The life of a pessimist is easy but dreary. The life of an optimist is hard but exciting. Pessimism is easy because it costs nothing. Optimism is hard because it must be constantly reaffirmed. In the face of a hostile, cynical world, it takes effort to show that positivity has merit.
 > 悲观主义者的生活是轻松的，但却是沉闷的。乐观主义者的生活是艰难的，但也是令人兴奋的。悲观很容易，因为它不需要任何成本。乐观是困难的，因为它必须不断得到重申。面对充满敌意、愤世嫉俗的世界，需要努力证明积极性的价值。
 
-世界本身是是[熵增](../../../2-mind/terms/entropy-increase.md)的，做一个[悲观主义者](../../../2-mind/terms/pessimism.md)，是自我安慰：不是我的错，是外界不够好。外界不够好，所以努力也没用。悲观主义者 => 躺平。
+世界本身是是[熵增](../e/entropy-increase.md)的，做一个[悲观主义者](../p/pessimism.md)，是自我安慰：不是我的错，是外界不够好。外界不够好，所以努力也没用。悲观主义者 => 躺平。
 
 ## 成为乐观者的假设
 > To be an optimist, adopt these assumptions:

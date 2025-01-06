@@ -14,11 +14,11 @@ title: 书单
 *《关于说话的一切》 汤质
 
 ### 全面的建议
-* [《纳瓦尔宝典》](../../../0-aware/books/the-almanack-of-naval-ravikant/readme.md)
+* [《纳瓦尔宝典》](../t/the-almanack-of-naval-ravikant.md)
 
 ### 娱乐类小说
 #### 历史
-* 墨武： [《偷香》(三国)](../../../../../product/book/steal-fragrance.md)，《江山美色》(隋朝)，《帝宴》(明朝)
+* 墨武： [《偷香》(三国)](../s/steal-fragrance.md)，《江山美色》(隋朝)，《帝宴》(明朝)
 * 马伯庸: 《长安十二时辰》，《两京十五日》，《四海骑鲸》（明朝）
 * 唐隐：大唐悬疑录五部：《大唐悬疑录1: 兰亭序密码》
 * 王觉仁：《兰亭序杀局》
@@ -63,13 +63,13 @@ title: 书单
 ### 政治
 * 《美丽新世界》
 * 《1984》
-* [《官场酒局》](../../../../../product/book/official-wine-bureau.md)
+* [《官场酒局》](../o/official-wine-bureau.md)
 * 周梅森：《人民的名义》，《人民的财产》
   
 ### 社会
 * 《乌合之众》
 * 《娱乐至死》
-* [《东莞打工妹生存实录》](../../../../../product/book/dongguan-worker-record.md)
+* [《东莞打工妹生存实录》](../d/dongguan-worker-record.md)
 
 ### 管理
 * 彼得德鲁克

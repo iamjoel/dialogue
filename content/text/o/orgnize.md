@@ -73,4 +73,4 @@ ppt，数据可视化，
 
 
 ## 原则
-* [寻找最优解而不是最大化](./rule/is-this-a-question.md)
+* [寻找最优解而不是最大化](../i/is-this-a-question.md)

@@ -5,6 +5,6 @@ title: Copilot
 
 * [AirOps](airops.md)
 * 代码
-  * [GitHub Copilot](../../../../../../../product/software/dev/code-copilot/github-copilot.md)
+  * [GitHub Copilot](../g/github-copilot.md)
   * TabNine
-* [效率工具](./efficiency/readme.md)
+* [效率工具](../e/efficiency.md)

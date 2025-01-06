@@ -20,7 +20,7 @@ JavaScript 仅在需要时才被下载。通过这种方式，网站的大部分
 
 ## 技术
 ### 特性
-* 支持 [React](../../frontend/content/react/readme.md), [Vue](../../frontend/content/vue.md)
+* 支持 [React](../r/react.md), [Vue](../v/vue.md)
 * 支持服务端渲染。
 * [Astro Island](https://docs.astro.build/zh-cn/concepts/islands/) 标注出没有交互的组件（类似客户端组件），会被直接在服务端加载。
 * [内置对 Markdown 和 MDX 对处理](https://docs.astro.build/en/guides/markdown-content/)。

@@ -6,4 +6,4 @@ tags: open-source
 > The leading open-source headless CMS.
 100% JavaScript / TypeScript and fully customizable.
 
-[Handlebook](https://handbook.strapi.io/) 写的很全面。[GitLab](../gitlab/readme.md) 的做的也很好。
+[Handlebook](https://handbook.strapi.io/) 写的很全面。[GitLab](../g/gitlab.md) 的做的也很好。

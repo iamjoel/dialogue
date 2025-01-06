@@ -3,10 +3,10 @@ title: AI 搜索
 ---
 
 ## 产品
-* [perplexity](./perplexity.md)
+* [perplexity](../p/perplexity.md)
 * [360 AI 搜索](https://www.sou.com/)
-* [devv](./devv.md)
-* [Semantic Scholar](./semantic-scholar.md)
+* [devv](../d/devv.md)
+* [Semantic Scholar](../s/semantic-scholar.md)
 * 秘塔
 
 ## 资源

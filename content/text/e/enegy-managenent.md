@@ -2,7 +2,7 @@
 title: 保持活力的 5 种方法
 ---
 
-[5 Ways To Have 10x More Energy Throughout The Day](https://www.youtube.com/watch?v=C67MSxr_Sds)。 作者: [Joey Schweitzer](../../../../tech/km/people/joey-schweitzer.md)
+[5 Ways To Have 10x More Energy Throughout The Day](https://www.youtube.com/watch?v=C67MSxr_Sds)。 作者: [Joey Schweitzer](../j/joey-schweitzer.md)
 
 > 如果你觉得睡眠充足却还是感觉累。问题出在哪里？
 > You're getting enough sleep, but you're still feeling tired. Then what's the problem?

@@ -5,15 +5,15 @@ title: 技术
 
 
 ## 导航
-### [如何延长健康寿命](../problem/how-to-have-a-longer-healthy-life/readme.md)
+### [如何延长健康寿命](../h/how-to-have-a-longer-healthy-life.md)
 | 内容                   |         作用          |
 |-------------------------|------------------------------|
-| [身体是如何工作的](./health/base/readme.md)       |  身体的能量来源。抵抗熵增。 |
-| [饮食](./health/nutrition/readme.md)       |  身体的能量来源。抵抗熵增。 |
-| [运动](./health/sport/readmd.md)    |   增强身体的活力。  |
-| [休息](./health/rest/readme.md)    |   有利于身体恢复。  | 
-| [情绪](./health/mood/readme.md)    |  对影响到行为，对身体健康有只要意义   |
-| [治疗](./health/treatment/readme.md)    |    辅助身体恢复健康。  |
+| [身体是如何工作的](../b/base.md)       |  身体的能量来源。抵抗熵增。 |
+| [饮食](../n/nutrition.md)       |  身体的能量来源。抵抗熵增。 |
+| [运动](../r/readmd.md)    |   增强身体的活力。  |
+| [休息](../r/rest.md)    |   有利于身体恢复。  | 
+| [情绪](../m/mood.md)    |  对影响到行为，对身体健康有只要意义   |
+| [治疗](../t/treatment.md)    |    辅助身体恢复健康。  |
 
 ### 如何获取财富
 | 内容                   |         作用          |
@@ -30,5 +30,5 @@ title: 技术
 
 
 ## 模板
-* [学科/主题概览](../personal/sop/content/subject.md)
+* [学科/主题概览](../s/subject.md)
 

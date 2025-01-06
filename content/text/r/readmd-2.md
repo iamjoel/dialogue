@@ -5,12 +5,12 @@ title: 运动
 > That which cost us energy given energy.
 > 消耗我们能量的东西会带来能量。
 
-运动有利于身心健康，并且还让大脑更聪明([运动的好处](./benefits.md))。
+运动有利于身心健康，并且还让大脑更聪明([运动的好处](../b/benefits.md))。
 
-该如何运动？[《囚徒健身》](./resource/convict-conditioning.md) 有详尽的循序渐进的健身动作和计划。
+该如何运动？[《囚徒健身》](../c/convict-conditioning.md) 有详尽的循序渐进的健身动作和计划。
 
 ## 内容
-* [运动装备](./equipment/readme.md)
+* [运动装备](../e/equipment.md)
 
 ## 资源
 ###《讲点武德》

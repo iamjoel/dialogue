@@ -2,7 +2,7 @@
 title: 戏剧
 ---
 ## 创作者
-* [赖声川](./maker/stan-lai.md)
+* [赖声川](../s/stan-lai.md)
 
 ## 作品
-* [如梦之梦](./works/a-dreamy-dream.md)
+* [如梦之梦](../a/a-dreamy-dream.md)

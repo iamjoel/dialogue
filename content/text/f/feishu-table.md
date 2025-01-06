@@ -3,7 +3,7 @@ title: 飞书多维表格
 tags: suggestion
 ---
 
-[官网](https://www.feishu.cn/)。中国版的 [AirTable](./airtable.md)。体验做的比 AirTable 好。
+[官网](https://www.feishu.cn/)。中国版的 [AirTable](../a/airtable.md)。体验做的比 AirTable 好。
 
 * 需要做表关联，字段类型是设置成双向关联或单向关联。
 * 对外的收集表单。数据汇总到内部的表格。表单的一些字段通过一些条件来显示和隐藏。

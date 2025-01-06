@@ -34,10 +34,10 @@ title: RAG
 ## 长 Context LLM
 RAG 可能部分会被 Long Context 技术所取代。即把整个文档作为 Context 丢给 LLM。
 
-不会被替代的场景如：企业对信息安全会更敏感，不想把全量原始数据传给 LLM。[更多](./resource/technological-ripple-effect-rag-and-long-context-cognitive-conflict.md)
+不会被替代的场景如：企业对信息安全会更敏感，不想把全量原始数据传给 LLM。[更多](../t/technological-ripple-effect-rag-and-long-context-cognitive-conflict.md)
 
 ## RAG 和 长 Context LLM 中的使用
-[Unifying RAG and long context LLMs](./resource/unifying-rag-and-long-context-LLMs.md)
+[Unifying RAG and long context LLMs](../u/unifying-rag-and-long-context-LLMs.md)
 
 ## 工具库
 ### [R2R](https://www.sciphi.ai/)

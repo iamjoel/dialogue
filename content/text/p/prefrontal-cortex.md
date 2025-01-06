@@ -3,7 +3,7 @@ title: 控制情绪的前额叶皮质
 ---
 
 > 我们拥有异常复杂且特别大的前额叶皮质，因此，我们有能力同情、爱进行有意识的、深思熟虑的创造。
-> [《排毒吧，大脑》](../resource/brain-wash.md)
+> [《排毒吧，大脑》](../b/brain-wash.md)
 
 [前额叶皮质](https://zh.wikipedia.org/wiki/%E5%89%8D%E9%A1%8D%E8%91%89%E7%9A%AE%E8%B3%AA)（prefrontal cortex, PFC）位于大脑额叶的前部。前额叶皮质涉及与计划相关的高层次认知活动、人格表现、作出决定的过程。
 

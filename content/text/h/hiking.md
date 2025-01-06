@@ -34,4 +34,4 @@ title: 徒步
 * 苏州马拉松。 金鸡湖马拉松， 环太湖。
 
 ## 其他
-* [越野跑](./trail-running/readme.md)
+* [越野跑](../t/trail-running.md)

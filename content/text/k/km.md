@@ -15,10 +15,10 @@ title: 知识管理
 2. 强大的检索器。内容本身是适合检索的。
 
 ## 考虑的问题
-1. 一条记录的大小: [原子化记录](./contents/atom.md)。
-2. [优先选择分类还是标签](./contents/prefer-classify-or-tag.md)。
-3. [记录需要结构化吗?](./contents/need-structed.md)。
-4. [获取哪些信息](./contents/in.md)
+1. 一条记录的大小: [原子化记录](../a/atom.md)。
+2. [优先选择分类还是标签](../p/prefer-classify-or-tag.md)。
+3. [记录需要结构化吗?](../n/need-structed.md)。
+4. [获取哪些信息](../i/in.md)
 
 
 ## 资源

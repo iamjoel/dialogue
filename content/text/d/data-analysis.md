@@ -3,8 +3,8 @@ title: 数据分析
 ---
 得出一些因果律。从实体之间的数量，时间趋势的数量关系等。
 
-* [可视化](./visualization/readme.md)
-* [场景](./scenario/readme.md)
+* [可视化](../v/visualization.md)
+* [场景](../s/scenario.md)
 
 ## 流程
 数据清洗: 去除/纠正 错误数据；格式化。

@@ -9,4 +9,4 @@ title: Ness Labs
 以科学为基础，充分利用大脑和心灵。
 
 ## 文章
-* [Are we too busy to enjoy life?](./articles/are-we-too-busy-to-enjoy-life.md)
+* [Are we too busy to enjoy life?](../a/are-we-too-busy-to-enjoy-life.md)

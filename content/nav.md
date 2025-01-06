@@ -18,7 +18,7 @@ title: Nav
 * [图之典](http://tuzhidian.com/) 数据可视化。比较，组成，分布，关系，趋势。
 
 ## 科普
-* [优秀内容推荐](./personal/suggestion/popular-science.md)
+* [优秀内容推荐](../p/popular-science.md)
 * 科学
   * [科学的故事：权力、证据与激情](https://zh.wikipedia.org/wiki/%E7%A7%91%E5%AD%B8%E7%9A%84%E6%95%85%E4%BA%8B%EF%BC%9A%E6%AC%8A%E5%8A%9B%E3%80%81%E8%AD%89%E6%93%9A%E8%88%87%E6%BF%80%E6%83%85)
 * 宇宙

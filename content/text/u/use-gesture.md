@@ -8,7 +8,7 @@ title: \@use-gesture
 
 支持 react 和 不用框架的。
 
-能和 [React Spring](../animate/react-spring.md) 配合着用。
+能和 [React Spring](../r/react-spring.md) 配合着用。
 
 该项目的作者和 React Spring 是一个作者。
 

@@ -1,5 +1,5 @@
 ---
 title: UI 组件
 ---
-* [UIVerse](./uiverse.md)
-* [shadcn/ui](../../libs/ui/shadcn.md)
+* [UIVerse](../u/uiverse.md)
+* [shadcn/ui](../s/shadcn.md)

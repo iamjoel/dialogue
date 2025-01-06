@@ -4,7 +4,7 @@ tags: open-source
 ---
 [官网](https://github.com/lobehub/lobe-chat)
 
-Chatbot 的套皮。和 [ChatGPT Next Web](./chatgpt-next-web.md) 比：
+Chatbot 的套皮。和 [ChatGPT Next Web](../c/chatgpt-next-web.md) 比：
 * UI 更漂亮。
 * 功能更强大。
   * 支持外部工具调用。成功率不高。

@@ -8,4 +8,4 @@ title: 积极心理学
 ## 内容
 * [意义](meaning.md)
 * [FIRE 模型](fire.md)
-* [处理负面情绪](./deal-with-negative-emotions.md)
+* [处理负面情绪](../d/deal-with-negative-emotions.md)

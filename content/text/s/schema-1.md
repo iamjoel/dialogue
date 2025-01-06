@@ -28,4 +28,4 @@ title: Tech Schema
 * 简介
 
 ## 其他
-* [模型 Schema](./llm/model/core/schema.md)
+* [模型 Schema](../s/schema.md)

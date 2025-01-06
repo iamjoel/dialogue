@@ -3,7 +3,7 @@ title: 模型
 ---
 
 ## 概述
-开源模型最强(截止至 2024/4/18): [Llama](./reasoning-model/llama/readme.md) 3(官方自称)。
+开源模型最强(截止至 2024/4/18): [Llama](../l/llama.md) 3(官方自称)。
 
 ## 列表
 ### 推理模型
@@ -11,10 +11,10 @@ title: 模型
 * 聊天模型
 * 文本生成模型
 
-* [openai 的 GPT 系列模型](./reasoning-model/openai-gpt.md)
+* [openai 的 GPT 系列模型](../o/openai-gpt.md)
 * Claude 系列模型
 * 国内
-  * [智普 的 GLM 系列](./reasoning-model/glm.md)
+  * [智普 的 GLM 系列](../g/glm.md)
   * 通义千问系列
   * 百川
   * 月之暗面
