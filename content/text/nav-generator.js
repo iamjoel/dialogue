@@ -105,7 +105,7 @@ function generateNavCsv() {
       const fileContent = fs.readFileSync(filePath, 'utf8');
       const metaData = extractMetadata(fileContent);
       const filename = path.basename(filePath);
-      const outputFilePath = `./${filename.charAt(0).toLowerCase()}/${filename}/`
+      const outputFilePath = `./${filename.charAt(0).toLowerCase()}/${filename}`
 
       // Add file information to the records array
       records.push({ ...metaData, filePath: outputFilePath });
