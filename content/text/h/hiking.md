@@ -1,5 +1,6 @@
 ---
 title: 徒步
+tags: sport
 ---
 
 ## 路线

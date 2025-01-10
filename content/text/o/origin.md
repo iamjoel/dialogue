@@ -1,6 +1,7 @@
 ---
 title: 《如何有效克服惰性》
 ---
+
 作者： CaoZ。 [原文链接](https://mp.weixin.qq.com/s/VldgHaPzo3KkKcdzRrou1w)。
 
 春节档，贾玲减肥100斤成了最大的热门事件。

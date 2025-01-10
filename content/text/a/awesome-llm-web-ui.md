@@ -1,6 +1,6 @@
 ---
 title: Awesome LLM WebUIs
-tags: AI
+tags: AI, frontend
 ---
 
 [官网](https://github.com/JShollaj/awesome-llm-web-ui)

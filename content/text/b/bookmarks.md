@@ -1,5 +1,6 @@
 ---
 title: Bookmarks
+tags: tools
 ---
 
 [官网](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)

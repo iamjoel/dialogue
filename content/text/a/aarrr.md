@@ -4,7 +4,7 @@ tags: marketing
 ---
 [官网](https://www.productplan.com/glossary/aarrr-framework/)
 > AARRR Pirate Metrics framework is an acronym for a set of five user-behavior metrics that product-led growth businesses should be tracking: acquisition, activation, retention, referral, and revenue.
-> AARRR 海盗指标框架是产品主导型增长企业应跟踪的一组五个用户行为指标的缩写：[获客](../1/1-acquisition.md)、[激活](../2/2-activation.md)、[保留](../3/3-retention.md)、[推荐](../4/4-referral.md)和[收入](../5/5-revenue.md)。
+> AARRR 海盗指标框架是产品主导型增长企业应跟踪的一组五个用户行为指标的缩写：获客、激活、保留、推荐和收入。
 
 ## 出现 AAARR 的背景
 硅谷投资者、500 Startups 创始人 Dave McClure 开发了 AARRR 框架。麦克卢尔发现，许多初创公司很容易被社交媒体上的点赞等肤浅指标分散注意力。
@@ -16,7 +16,6 @@ tags: marketing
 有了指标，还需要做[数据分析](../d/data-analysis.md)。
 
 ## 需要思考
-#TODO
 每个指标达成的衡量。
 
 ## 推荐阅读

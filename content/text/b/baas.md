@@ -3,7 +3,7 @@ title: BaaS
 description: Backend ad a Service(后端即服务)
 ---
 
-BaaS(Backend ad a Service) 后端即服务。如 [Clerk](../c/clerk.md)。
+BaaS(Backend ad a Service) 后端即服务。如 [Clerk](../c/clerk.md), [Auth0](../a/auth0.md)。
 
 往往该服务是嵌入在其他产品中。Clerk 是做登录的。
 

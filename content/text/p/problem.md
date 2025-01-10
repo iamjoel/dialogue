@@ -9,4 +9,4 @@ title: 问题
 ## 原则
 * [这是个问题吗?](../i/is-this-a-question.md)
 * [考虑清楚要解决什么问题后再行动](../t/think-clearly-to-solve-which-problem-before-action.md)。
-* [定义问题](./rule/define-the-problem) 才能更好的解决问题。
+* [定义问题](../d/define-the-problem) 才能更好的解决问题。

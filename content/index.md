@@ -9,8 +9,8 @@ title: Joel 的大唠嗑
 ## 核心问题
 对我来说，生活中有 3 个核心的问题:  
 1. [如何延长健康寿命？](text/h/how-to-have-a-longer-healthy-life.md)
-2. 如何获取财富？
-3. 如何找到人生的意义?
+2. [如何获取财富？](text/h/how-to-get-wealth.md)
+3. [如何找到人生的意义?](text/h/how-to-find-the-meaning-of-life.md)
 
 ## 问题的组成
 围绕每个问题，都有如下几块内容: 
