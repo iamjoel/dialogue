@@ -1,6 +1,6 @@
 ---
 title: 毕昇
-tags: open-source, ai
+tags: open-source, AI
 ---
 
 [官网](https://github.com/dataelement/bisheng)

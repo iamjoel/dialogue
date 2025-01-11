@@ -1,6 +1,6 @@
 ---
 title: Dify
-tags: open-source
+tags: dify, open-source
 ---
 > The Innovation Engine for Generative AI Applications
 

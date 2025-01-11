@@ -1,6 +1,6 @@
 ---
 title: 在 Dify 的 Workflow 中实现功能路由
-tags: dify, ai, my-output
+tags: dify, AI, my-output
 ---
 
 我们在做一个 Chatbot 会包含多个功能。比如支持:
