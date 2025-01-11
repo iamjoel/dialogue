@@ -30,4 +30,4 @@ tags: dify, open-source
 * 咸鱼上收费部署 Dify 的(49元 一次)。
 
 ## 用例
-* [在 Dify 的 Workflow 中实现功能路由](./dify-workflow-action-route.md)
+* [在 Dify 的 Workflow 中实现功能路由](dify-chatflow-action-route.md)
