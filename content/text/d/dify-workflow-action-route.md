@@ -16,3 +16,6 @@ tags: dify, AI, my-output
 ![to right route](../../media/d/dify-workflow-action-route-to-right-route.jpg.jpg)
 
 上面改动能生效的原因是：会话变量的值是在多轮对话中共享的。
+
+再完善一步，加上重新选择功能的功能。
+![reset action](../../media//d/dify-workflow-action-route-to-reset-action.jpg)
