@@ -1,7 +1,7 @@
 ---
 title: 知识管理
 ---
-* [方法](../m/methods.md)
+* [方法](knowledge-management-methods.md)
 
 ## 信息获取
 [这里](../g/get-info.md)。
