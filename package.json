@@ -1,6 +1,6 @@
 {
   "name": "dialogue-content",
   "scripts": {
-    "gen-nav": "node content/info/nav-generator"
+    "gen-nav": "node content/text/nav-generator"
   }
 }

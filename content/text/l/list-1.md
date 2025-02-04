@@ -65,7 +65,7 @@ title: 产品列表
 * [《一生所爱》](../l/life-long-love.md)
 
 ### 民谣
-* [《成都》](../c/chengdu.md)
+* [《成都》](../c/chengdu-song.md)
 
 ## [建筑](../b/building.md)
 
