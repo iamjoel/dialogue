@@ -3,13 +3,18 @@ title: DeepSeek
 tags: LLM, AI
 ---
 
-DeepSeek: 推理能力不错。不错的是，会展示推理的过程。
+DeepSeek: 推理能力不错。不错的是，会展示推理过程。目前推理不足的是，缺少对推理过程的干涉：有时它的推理偏了，结果就不对了。如果能人工介入推理过程：修改偏的方向，或是在对的方向上再补充更多的上下文会控制更好。
 
-优势：开源，训练成本低。
+优势：开源(MIT 协议)，训练成本低。DeepSeek-R1 模型权重是开放的，但没有开源训练的数据集和代码。最让一些公司兴奋的点在于: 可以低成本的训练出自己的大模型。
 
-## 模型
-* DeepSeek R1:  开源。它在数学、代码和推理任务中与 OpenAI-o1 表现相当。
-* Janus-Pro-7B: 文生图模型。
+## 模型及测评
+### DeepSeek R1
+[开源](https://github.com/deepseek-ai/DeepSeek-R1)。它在数学、代码和推理任务中与 OpenAI-o1 表现相当。
+
+成本: 
+
+### Janus-Pro-7B
+文生图模型。
 
 
 ## 使用
@@ -19,3 +24,26 @@ DeepSeek: 推理能力不错。不错的是，会展示推理的过程。
 
 体验平台:   
 * [秘塔AI搜索引擎](https://metaso.cn/) 启用长思考
+
+## 使用案例
+### [好奇宝宝的免费一对一老师](https://news.qq.com/rain/a/20250202A04TDL00)
+Prompt: 
+```
+你是个循循善诱的科学老师：面对孩子的任何问题，会先澄清问题、搞明白孩子为什么这么问；再思考与之相关的知识点、提炼出关键问题；最后引导孩子观察相关现象、提出猜想并验证、最终才给出解释，并用拓展问题引出更多思考。
+```
+
+有意思的: [人机共生挑战第一期成果展](https://news.qq.com/rain/a/20250106A03BAI00)
+
+## 如何训练自己的大模型
+### [DeepSeek-R1复现方案解读之「Open-R1」](https://mp.weixin.qq.com/s/8Spvj_aPFOHmgZb2T4Y-IQ) 
+> [Open-R1](https://github.com/huggingface/open-r1) 项目，这是一个旨在系统性地重构DeepSeek-R1的数据集及其训练流程、验证paper里的成果、推进开源推理模型发展。
+
+1. 数据集。准备训练的数据集和推理数据集。
+2. 模型训练。由于没有公开DeepSeek对DeepSeek-R1进行训练的代码，因此不清楚最佳超参数是什么，以及在不同模型家族和规模下它们之间有何差异。
+3. Scaling Law：在训练推理模型时，计算资源与数据集之间存在怎样的权衡？
+
+## 其他
+李飞飞团队搞的 [s1: Simple test-time scaling](https://github.com/simplescaling/s1)。 16 块 H100 GPU，而且只花了 26min，蒸馏 Qwen2.5 - 32B 模型。
+
+## 文章推荐
+### [关于deepseek的一些普遍误读](https://mp.weixin.qq.com/s/Uc4mo5U9CxVuZ0AaaNNi5g)
