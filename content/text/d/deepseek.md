@@ -42,7 +42,7 @@ Prompt:
 2. 模型训练。由于没有公开DeepSeek对DeepSeek-R1进行训练的代码，因此不清楚最佳超参数是什么，以及在不同模型家族和规模下它们之间有何差异。
 3. Scaling Law：在训练推理模型时，计算资源与数据集之间存在怎样的权衡？
 
-## 其他
+## 其他低预训练费用
 李飞飞团队搞的 [s1: Simple test-time scaling](https://github.com/simplescaling/s1)。 16 块 H100 GPU，而且只花了 26min，蒸馏 Qwen2.5 - 32B 模型。
 
 ## 文章推荐
