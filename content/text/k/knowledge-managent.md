@@ -1,6 +1,9 @@
 ---
 title: 知识管理
 ---
+
+把 content/text 下所有文件，按照内容相似分类
+
 * [方法](knowledge-management-methods.md)
 
 ## 信息获取

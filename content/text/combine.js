@@ -27,7 +27,17 @@ function findMarkdownFiles(dir, fileList = []) {
 function combineFiles(filePaths, outputPath) {
   const combinedContent = filePaths
     .map(filePath => {
-      const content = fs.readFileSync(filePath, 'utf8'); // Read each file's content
+      let content = fs.readFileSync(filePath, 'utf8'); // Read each file's content
+      const relativePath = path.relative(infoFolder, filePath);
+
+      // add filePath to frontmatter  
+      if (content.startsWith('---')) {
+        const parts = content.split('---', 3);
+        if (parts.length >= 3) {
+          parts[1] = parts[1].trim() + `\nfilePath: ./${relativePath}\n`;
+          content = parts.join('---\n');
+        }
+      }
       console.log(`Combined ${filePath}`);
       return content + '\n' + separator; // Append the separator
     })

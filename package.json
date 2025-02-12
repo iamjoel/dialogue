@@ -1,6 +1,7 @@
 {
   "name": "dialogue-content",
   "scripts": {
+    "combine-content": "node content/text/combine",
     "gen-nav": "node content/text/nav-generator"
   }
 }

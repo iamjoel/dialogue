@@ -3,11 +3,11 @@ title: AI 搜索
 ---
 
 ## 产品
+* [秘塔](../m/metaso.md)
 * [perplexity](../p/perplexity.md)
-* [360 AI 搜索](https://www.sou.com/)
+* [纳米 AI 搜索](https://www.n.cn/) 360 搞的
 * [devv](../d/devv.md)
 * [Semantic Scholar](../s/semantic-scholar.md)
-* 秘塔
 
 ## 资源
 ### [AI 搜索，一次讲透](https://mp.weixin.qq.com/s/NsvecuHT_h21d9po0c7UmQ)

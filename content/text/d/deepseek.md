@@ -25,13 +25,15 @@ DeepSeek: 幻方旗下的大语言模型公司。幻方是一个做量化交易�
 Janus-Pro，JanusFlow 等。对标 DALL-E 3。
 
 
-## 使用
+## 支持 DeepSeek 的平台
 除了官方，支持 DeepSeek 的 API:  
 * [硅基移动](https://siliconflow.cn/zh-cn/models)
 * [OpenRouter](https://openrouter.ai/models?q=deepseek%20r1)。还提供了兼容 OpenAI API 的配置方案。
 
 体验平台:   
 * [秘塔AI搜索引擎](https://metaso.cn/) 启用长思考
+
+还有很多。
 
 ## 使用案例
 ### [好奇宝宝的免费一对一老师](https://news.qq.com/rain/a/20250202A04TDL00)
