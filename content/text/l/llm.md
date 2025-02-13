@@ -3,6 +3,8 @@ title: LLM
 tags: 'tech classify schema'
 ---
 
+LLM 训练的数据很多。理论上，它比人类看视角更全面。
+
 ## 是什么
 LLM 是大语言模型。
 

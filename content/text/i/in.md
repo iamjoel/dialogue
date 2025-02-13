@@ -1,6 +1,9 @@
 ---
 title: 信息获取
 ---
+
+信息获取应该是问题驱动。
+
 > 我们对世界的认识是片面的和暂时的，要经过分析、审查和修正
 > [The Atlantic(大西洋周刊)](https://www.theatlantic.com)
 
