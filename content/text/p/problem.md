@@ -4,7 +4,9 @@ title: 问题
 
 人活一世，本质都是在解决问题。大到生存，人生意义的问题，小到抓住一次机会，度过一次危机。
 
-提出问题，可以更好得解决问题。引导思考的[最常问的 12 个问题](../f/feynman-questions.md)
+提出问题，可以更好得解决问题。引导思考的[最常问的 12 个问题](../f/feynman-questions.md)。
+
+[解决问题](../s/solve-problem.md)的流程。可以[靠 LLM 来辅助解决复杂的问题](../l/llm-solve-complex-problem-with-llm.md)。
 
 ## 原则
 * [这是个问题吗?](../i/is-this-a-question.md)

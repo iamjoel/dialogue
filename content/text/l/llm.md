@@ -43,6 +43,9 @@ LLM 是大语言模型。
 ## 关键公司
 
 
+## 用好 LLM - 释放 LLM 的潜力
+* [用大语言模型来辅助解决复杂问题的技巧](../l/llm-solve-complex-problem-with-llm.md)
+
 ## 资源
 * NLP 前沿
 * 国内媒体
