@@ -6,3 +6,5 @@ title: 写作
 
 * [写的很好的](../e/excellent.md)
 * [写作工具箱](./writting-tools.md)
+* 写作 SOP。可以在 LLM 来加速写作。
+  * [技术类文章写作的SOP](./writing-tech-sop.md)
