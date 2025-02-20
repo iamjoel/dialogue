@@ -44,7 +44,9 @@ LLM 是大语言模型。
 
 
 ## 用好 LLM - 释放 LLM 的潜力
+* [用 LLM 筛选新闻](./llm-filter-lastest-news.md)
 * [用大语言模型来辅助解决复杂问题的技巧](../l/llm-solve-complex-problem-with-llm.md)
+
 
 ## 资源
 * NLP 前沿
