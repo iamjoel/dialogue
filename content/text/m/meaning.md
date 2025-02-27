@@ -8,5 +8,5 @@ title: 意义
 [梦想](../d/dream.md) 和 [使命](../m/mission.md) 都是一种意义。
 
 人生的意义是什么呢？
-* 成就自己：体验([浪漫主义](../r/romanticism.md)) 。
+* 成就自己：体验([浪漫主义](../r/romanticism.md) 和 消费主义) 。
 * 成就别人
