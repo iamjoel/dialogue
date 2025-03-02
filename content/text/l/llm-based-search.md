@@ -1,5 +1,5 @@
 ---
-title: AI 搜索
+title: 基于 LLM 的 搜索
 ---
 
 ## 产品

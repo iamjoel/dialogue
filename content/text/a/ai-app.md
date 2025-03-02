@@ -47,7 +47,7 @@ LLM可以提供个性化学习体验，辅助学生理解复杂概念，回答�
 [助手(Copilot)](../c/copilot.md)
 
 ### 6 搜索 & 数据分析
-[搜索](../s/search.md)
+[搜索](../l/llm-based-search.md)
 [数据分析](../a/analysis.md)
 
 ### 7 游戏
