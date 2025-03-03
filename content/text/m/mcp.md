@@ -34,9 +34,17 @@ MCP Client: MCP 客户端。获取 MCP Server 的服务。客户端连接 MCP Se
 }
 ```
 
+MCP 服务器需要在本地安装。 MCP 客户端通过 Server 的 url 或 入口的 js 来连。MCP 客户端如：Claude 的客户端，Cursor， windsurf(付费版才支持)。
+
+## Cursor 中使用尝试 MCP Server 的尝试
+试了下安装 [Figma MCP Server](https://github.com/GLips/Figma-Context-MCP)。安装本身没问题，但在在连接的过程，要没读不了，要么读错了。  
+
+不确定是不是 Cursor 的问题。 Cursor 是在 Compose 下去自主的判断是否要使用 MCP Server。因此会存在判断不对的问题。感觉还要再等等。
 
 ## 用 LLM 自主来调用 MCP Server
-LLM 调用 MCP Server 和 LLM 调用 Function Call 类型，是需要对模型的后训练阶段，教模型识别这套协议。 支持 Function Call 的 LLM 不对，支持 MCP Server 感觉上更少。
+LLM 通过 Function Call 来调一个函数，那函数再调  MCP Server。这样，LLM 就可以调用 MCP Server 了。
+
+要让 LLM 调用 Function Call 类型，是需要对模型的后训练阶段，教模型识别这套协议。 要让 LLM 识别 MCP Server 这套协议，也是要后训练，不合适。
 
 ## [用 LLM 来帮助写 MCP Server](https://modelcontextprotocol.io/tutorials/building-mcp-with-llms)
 官方提供了帮助 LLM 理解 MCP 的文档: https://modelcontextprotocol.io/llms-full.txt。
