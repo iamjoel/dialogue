@@ -31,3 +31,4 @@ tags: dify, open-source
 
 ## 用例
 * [在 Dify 的 Workflow 中实现功能路由](dify-chatflow-action-route.md)
+* [Dify 1.0 新版插件介绍](dify-1.0-plugin.md)
