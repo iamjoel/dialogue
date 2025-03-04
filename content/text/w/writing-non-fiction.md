@@ -28,6 +28,8 @@ title: 非虚构类写作
 ## 写作风格
 我推崇古典[主义风格](./writing-style-classic.md)。古典主义风格的特点：简单、清晰和真实。
 
+## 不同写作类型的结构
+* [介绍解决方案的写作类型](./writing-type-intro-solution.md)
 
 ## 其他内容
 * [写的很好的](../e/excellent.md)
