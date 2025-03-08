@@ -20,16 +20,6 @@ tags: AI, 工具
 2. Manus 即使很强大，用好它还需要好的问题：清晰明确，且聚焦的问题。
 3. 一轮对话成本的问题。
 
-## 琐碎的
-> Manus is a general AI agent that bridges minds and actions: it doesn't just think, it delivers results. Manus excels at various tasks in work and life, getting everything done while you rest.
-> 官网介绍
-
-> 不同于常规 AI 工作流，Manus 真正实现了从目标设定到成果交付的全链路自主执行，完全媲美人类专家：通过多智能体协同架构，它能自主分解任务、调用工具链，甚至实时修正执行路径。最打动我的是其代码智能体设计，用编程语言重构思考过程的方式，让复杂决策变得透明可追溯。
-> [Manus：全球首款通用型 Agent，中国造](https://mp.weixin.qq.com/s/FXULBYDOKdUJKSAKShWj_g)
-
-是  [Monica](https://mp.weixin.qq.com/s/4lZTiNVaaWWZcOJat4USJQ) 那公司搞的。
-
-
-
-官网有一堆 Demo。
-
+## 开源方案
+* [OpenManus](https://github.com/mannaandpoem/OpenManus) MetaGPT 搞的。 调用的本地的工具：PythonExecute，FileSaver，BrowserUseTool， GoogleSearch。[只用三小时，几个 00 后尝试复刻了 Manus](https://mp.weixin.qq.com/s/5-cvB992Cg3alGE_ac7S0Q)
+  

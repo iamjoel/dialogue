@@ -138,6 +138,12 @@ Chat 的回复里能输出组件。
 AGI。
 
 ## 6 资源
+### 重点论文
+* [Attention Is All You Need](https://arxiv.org/pdf/1706.03762) 注意力机制。
+* [REAC T: SYNERGIZING REASONING AND ACTING IN
+LANGUAGE MODELS](https://arxiv.org/pdf/2210.03629) 工具调用，ReAct 模式:
+  
+### 自媒体
 * NLP 前沿
 * 自媒体
   * 橘子，归藏
