@@ -1,6 +1,6 @@
 ---
-title: 从《模型即产品》思考 AI 的下一个发展周期
-description: 从 
+title: 专有化模型是模型厂商的重点
+description: 从《模型即产品》思考 AI 的下一个发展周期
 ---
 
 今天读了[《The Model is the Product(模型即产品)》](https://vintagedata.org/blog/posts/model-is-the-product)，感触颇多。建议先读原文，再读下面内容。

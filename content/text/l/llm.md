@@ -3,7 +3,7 @@ title: LLM
 tags: tech classify schema
 ---
 
-> AI 会拉大精英和普通人的能力。普通人缺少发现问题，解决复杂问题和品味。
+> AI 会拉大精英和普通人的能力。 AI 解决复杂问题的能力越来越强。但普通人缺少发现问题和评判解决方案好坏的品味。
 
 [LLM(大语言模型)](./llms.md) 本质是智力服务。LLM 能提升做事的效率。但用好 LLM 有难度。
 
@@ -12,8 +12,9 @@ tags: tech classify schema
 2. 原理剖析。
 3. 能力拓展。
 4. 应用场景。
-5. 未来趋势。
-6. 资源。
+5. 对人类的影响。
+6. 未来趋势。
+7. 资源。
 
 ## 1 能力边界
 ### 能力
@@ -130,14 +131,24 @@ LLM 只能用预训练的数据，也不能用外部的工具。能力拓展：
 ### 相关产品
 * [基于 LLM 的 搜索](./llm-based-search.md)
 
-## 5 未来趋势
+## 5 对人类的影响
+积极的影响: 
+* [《机器之爱的恩典 - AI 如何让世界变得更好》 ](../m/machine-of-loving-grace.md)
+  
+## 6 未来趋势
 ### 短期
-Chat 的回复里能输出组件。
+模型层面:
+1. [专有化模型是模型厂商的重点](../t/the-model-is-the-product.md) 擅长解决特定的复杂任务。
+
+
+中间件 & 应用层面:
+1. Agent 解决复杂问题的能力的提升。 [Manus](../m/manus.md) 之类会越来越多。
+2. Chat 的回复里能输出组件。
 
 ### 长期
 AGI。
 
-## 6 资源
+## 7 资源
 ### 重点论文
 * [Attention Is All You Need](https://arxiv.org/pdf/1706.03762) 注意力机制。
 * [REAC T: SYNERGIZING REASONING AND ACTING IN
