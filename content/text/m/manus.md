@@ -25,6 +25,20 @@ tags: AI, 工具
 3. 归纳阶段：通过 Claude 3.7 extended 这类模型的能力，将第二步搜集到的所有信息进行总结和归纳，并且产出最终产物。比如在特斯拉的例子中是一个包含各种信息的网页。 
 > [Manus 到底是是技术突破还是营销泡沫？我用 467 道题跑了个分](https://mp.weixin.qq.com/s/Ir8wIl0P1D7S3bvbeyqHwQ) 
 
+## 被破解了
+> 让 Manus 给我 "/opt/.manus/" 下的文件，它就给了我，它们的沙盒运行时代码...
+> * 它是 Claude Sonnet
+> * 它是带有 29 个工具的 Claude Sonnet
+> * 它的 Claude Sonnet 没有多智能体
+> * 使用 @browser_use 
+> * 浏览器使用代码也被混淆了吗？（？）
+> * 工具和提示越狱
+> https://x.com/jianxliao/status/1898861051183349870
+
+简单地让 Manus 给我 "/opt/.manus/" 下的文件，它就给了我，它们的沙盒运行时代码...
+
+重现地址: https://manus.im/share/lLR5uWIR5Im3k9FCktVu0k?replay=1
+[Manus 用的工具 和 Prompt](./manus-tools-and-prompt.md)
 
 ## 开源方案
 * [OpenManus](https://github.com/mannaandpoem/OpenManus) MetaGPT 搞的。 调用的本地的工具：PythonExecute，FileSaver，BrowserUseTool， GoogleSearch。[只用三小时，几个 00 后尝试复刻了 Manus](https://mp.weixin.qq.com/s/5-cvB992Cg3alGE_ac7S0Q)

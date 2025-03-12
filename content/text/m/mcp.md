@@ -121,3 +121,4 @@ LLM 通过 Function Call 来调一个函数，那函数再调  MCP Server。这�
 * Servers
   * [Cline Marketplace](https://cline.bot/mcp-marketplace)
   * [MCP Servers](https://mcp.so/servers)
+* [LangChain创始人激辩MCP： 这是行业新标准，还是昙花一现？](https://mp.weixin.qq.com/s/etvDsU422z8uiknCn6fw4A)

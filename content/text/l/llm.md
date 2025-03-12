@@ -157,7 +157,7 @@ LANGUAGE MODELS](https://arxiv.org/pdf/2210.03629) 工具调用，ReAct 模式:
 ### 自媒体
 * NLP 前沿
 * 自媒体
-  * 橘子，归藏
+  * 橘子的汽水铺，归藏
 * 国内媒体
   * [机器之心](https://www.jiqizhixin.com/)
   * 极客公园
