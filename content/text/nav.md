@@ -25,13 +25,13 @@
 - [ChatBot](./c/chatbot.md) - ChatBot
 - [ChatGPT-API Demo](./c/chatgpt-demo.md) - ChatGPT-API Demo
 - [ChatGPT Next Web](./c/chatgpt-next-web.md) - ChatGPT Next Web
-- [Claude](./c/claude.md) - Claude
+- [Claude](l/llm-verdor-claude.md) - Claude
 - [Copilot](./c/copilot.md) - Copilot
 - [Coze](./c/coze.md) - Coze
-- [DeepSeek](./d/deepseek.md) - DeepSeek
+- [DeepSeek](l/llm-vendor-deepseek.md) - DeepSeek
 - [Dify](./d/dify.md) - Dify
 - [Gemini](./g/gemini.md) - Gemini
-- [OpenAI](./o/openai.md) - OpenAI
+- [OpenAI](l/llm-vendor-openai.md) - OpenAI
 - [Awesome LLM WebUIs](./a/awesome-llm-web-ui.md)
 - [Character.ai](./c/character-ai.md)
 - [川虎 Chat](./c/chuanhu-ChatGPT.md)
@@ -41,7 +41,7 @@
 - [Fixie](./f/fixie.md)
 - [Frame](./f/frame-ai-glass.md)
 - [Jasper](./j/jasper.md)
-- [Moonshot AI](./m/moonshot.md)
+- [Moonshot AI](l/llm-vendor-moonshot.md)
 - [NovelAI](./n/novelai.md)
 - [Pendant](./p/pendant.md)
 - [Perplexity](./p/perplexity.md)

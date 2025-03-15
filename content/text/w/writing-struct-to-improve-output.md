@@ -5,6 +5,7 @@ description: AI 写作技巧
 
 ## 结构化
 1. [介绍解决方案的结构](./writing-struct-solution.md)
+2. [推广类结构](./writing-struct-marketing.md)
 
 ## 正文
 直接让模型写文章，常遇到输出的内容结构**不稳定**的情况。运气好的时候，内容妙不可言；运气不好的时候，内容就是一坨💩。

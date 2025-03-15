@@ -1,9 +1,14 @@
 ---
-title: 大模型列表
+title: 模型列表
 ---
 
 ## 概述
 开源模型最强(截止至 2024/4/18): [Llama](../l/llama.md) 3(官方自称)。
+
+## 模型厂商
+[openai](./llm-vendor-openai.md)，[Google](./llm-vendor-google.md)，[Claude](./llm-verdor-claude.md)，Meta, [Jina](./llm-vendor-jina.md), Cohere。
+
+[DeepSeek](./llm-vendor-deepseek.md)，[月之暗面](./llm-vendor-moonshot.md)，阿里，智谱，腾讯，MiniMax，阶跃星辰。
 
 ## 列表
 ### 推理模型

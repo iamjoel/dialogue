@@ -19,8 +19,13 @@ tags: tech classify schema
 ## 1 能力边界
 ### 能力
 推理能力: 数学推理。写代码。常识推理。
+生成能力: 写文章，[生图](./llm-gen-image.md)，生视频，[生歌](./llm-gen-song.md)。 [导航](https://ai-kit.cn/)
 
 LLM 训练的数据很多。它比人类看问题的视角更全面。
+
+### Benchmark
+* [Elo](./llm-benchmark-elo.md) 由人类使用后打分。
+* [GAIA](./llm-benchmark-gaia.md) 评估人工智能助手解决现实世界问题。
 
 ### 局限性
 #### 1 幻觉
@@ -149,6 +154,8 @@ LLM 只能用预训练的数据，也不能用外部的工具。能力拓展：
 AGI。
 
 ## 7 资源
+[新闻](./llm-news.md)
+
 ### 重点论文
 * [Attention Is All You Need](https://arxiv.org/pdf/1706.03762) 注意力机制。
 * [REAC T: SYNERGIZING REASONING AND ACTING IN

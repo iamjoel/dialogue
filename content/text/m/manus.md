@@ -11,7 +11,7 @@ tags: AI, 工具
 
 看官方的产品演示，能感觉到惊艳的效果：分解任务，调用工具，最后达成目标。官网上也有几十个用例：规划旅行，分析亚马逊的财报，互动课程制作等。
 
-它在 [GAIA](https://openreview.net/forum?id=fibxvahvs3) 中达到到了 SOTA 水平。 GAIA 是评估通用人工智能助手解决现实世界问题的基准测试。
+它在 [GAIA](../l/llm-benchmark-gaia.md) 中达到到了 SOTA 水平。 GAIA 是评估通用人工智能助手解决现实世界问题的基准测试。
 
 我的看法：
 1. Manus 看起来很强大。但现在还没很多用户真实的使用它(需要邀请码。我没用邀请码也进去了，但提问后一直在 Loading)，所以并不知道真实的效果。就像 [MetaGPT](https://github.com/geekan/MetaGPT) 之类的多 Agent 框架，曾经很火，但实际效果并没那么好。
