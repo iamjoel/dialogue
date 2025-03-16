@@ -24,8 +24,11 @@ tags: tech classify schema
 LLM 训练的数据很多。它比人类看问题的视角更全面。
 
 ### Benchmark
+* MMLU
+* [Humanity's Last Exam](https://agi.safe.ai/) 难度比较高。位于人类知识前沿的多模态基准，旨在成为该类基准的最终封闭式学术基准，具有广泛的主题覆盖。
 * [Elo](./llm-benchmark-elo.md) 由人类使用后打分。
-* [GAIA](./llm-benchmark-gaia.md) 评估人工智能助手解决现实世界问题。
+* [GAIA](./llm-benchmark-gaia.md) 评估 Agent 解决现实世界问题。
+* [OSWorld](https://os-world.github.io/) 评估 Agent 使用计算机的能力。
 
 ### 局限性
 #### 1 幻觉

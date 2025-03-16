@@ -12,4 +12,4 @@ Google 发布了
 
 # 25/03/11
 ## 模型
-Openai 发布了 Responses API⁠ 和工具。
+Openai 发布了 [Responses API](./llm-vendor-openai.md#responses-api)⁠，内置工具(网络搜索, 计算机使用) 和 [Agents SDK](./llm-vendor-openai.md#agents-sdk)。
