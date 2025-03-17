@@ -167,7 +167,13 @@ LANGUAGE MODELS](https://arxiv.org/pdf/2210.03629) 工具调用，ReAct 模式:
 ### 自媒体
 * NLP 前沿
 * 自媒体
-  * 橘子的汽水铺，归藏
+  * 橘子的汽水铺
+  * 归藏的 AI 工具箱
+  * 数字生命卡兹克
+  * 赛博禅心。大聪明
+  * 通往 AGI 之路。 
+  * 向阳乔木
+  * AI产品黄叔
 * 国内媒体
   * [机器之心](https://www.jiqizhixin.com/)
   * 极客公园
