@@ -116,6 +116,9 @@ LLM 通过 Function Call 来调一个函数，那函数再调  MCP Server。这�
 
 [Sampling]: https://modelcontextprotocol.io/docs/concepts/sampling
 
+## 工具
+* [Composio](https://composio.dev/) MCP Server 可以跑这这里。这也处理了授权这块。
+  
 ## 资源
 * [官方文档](https://modelcontextprotocol.io/introduction)
 * Servers
