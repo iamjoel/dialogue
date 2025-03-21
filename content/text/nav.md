@@ -17,11 +17,10 @@
 - [V0](./v/v0.md) - 根据自然语言生成代码
   
 ### AI 产品与应用
-- [AI 应用](./a/ai-app.md) - AI 应用
+- [AI 应用](l/llm-app.md) - AI 应用
 - [AI Pin](./a/ai-pin.md) - AI Pin
 - [AI UI 组件库集合](./a/ai-ui-libs.md) - AI UI 组件库集合
 - [AirOps](./a/airops.md) - AirOps
-- [Bard](./b/bard.md) - Bard
 - [ChatBot](./c/chatbot.md) - ChatBot
 - [ChatGPT-API Demo](./c/chatgpt-demo.md) - ChatGPT-API Demo
 - [ChatGPT Next Web](./c/chatgpt-next-web.md) - ChatGPT Next Web
@@ -67,7 +66,7 @@
 - [BaaS](./b/baas.md)
 - [Class Variance Authority](./c/cva.md)
 - [ComfyUI](./c/ComfyUI.md)
-- [data fetching library](./d/data-fetching-library.md)
+- [data fetching library](f/frontend-fetching-library.md)
 - [Floating UI](./f/floating-ui.md)
 - [headless UI](./h/headless.md)
 - [JavaScript Framework](./f/frontend-1.md)
