@@ -2,9 +2,9 @@
 title: 信息转化为 HTML
 ---
 
-用新的方式信息呈现。html 托管网站: [YourWare](https://www.yourware.so/)
+网页比纯文本的阅读**体验好**，还支持交互。但网页的**制作成本高**。好在有 AI，描述清楚要求，AI 能帮我们生成网页。
 
-通用 prompt 的效果并不好，尝试用信息填充模板的方式来做。
+通用 prompt 的效果不可控，用信息填充模板的方式来做。
 
 ## 通用型的 Prompt
 Claude Sonnet 3.7 或 3.7 Thinking模型。归藏的 Prompt：
@@ -154,3 +154,6 @@ Claude Sonnet 3.7 或 3.7 Thinking模型。归藏的 Prompt：
 
 曲线方案，生成计划，填充到 HTML 中:
 ```
+
+## 工具
+[YourWare](https://www.yourware.so/):  HTML 托管网站。
