@@ -2,6 +2,12 @@
 title: LLM 新闻
 ---
 
+# 25/03/26
+## 模型
+OpenAI 发布了 GPT-4o 多模态生图。图片生成效果很好。比 Gemini 好。也能改图。[GPT-4o多模态生图正式上线 - 用嘴改图，此为王道](https://mp.weixin.qq.com/s/2axT0G1FL5MiCchMFseZWQ)
+
+Gemini 发布 2.5 Pro 实验版。是个推理模型。上下文达到 100万 tokens。可以在 Ai Studio 里体验。
+
 # 25/03/21
 ## 模型
 OpenAI 发布了

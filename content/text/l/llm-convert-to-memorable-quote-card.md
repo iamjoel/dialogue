@@ -2,7 +2,7 @@
 title: 金句卡片
 ---
 
-项目: [金句卡片生成器](https://github.com/iamjoel/quote-card-generator)。 用 [Bolt.new](../b/bolt.md) 协助开发的。
+项目: [金句卡片生成器](https://github.com/iamjoel/quote-card-generator)。 用 [Bolt.new](../b/bolt.new.md) 协助开发的。
 
 
 ## 设计

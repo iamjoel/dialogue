@@ -10,6 +10,8 @@ title: 状态管理
 1. 状态(atom)多了后，散落在不同文件里，不好管理。
 2. 必须在 React 组件或 hooks 里用。
 
+[Zustand](./frontend-state-manage-zustand.md)。
+
 ## 各状态管理库对比
 [原文](https://github.com/AwesomeDevin/blog/issues/81)
 

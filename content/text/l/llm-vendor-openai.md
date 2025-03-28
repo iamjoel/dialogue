@@ -93,6 +93,8 @@ GPT-4o则是跨文本、视觉和音频端到端训练的新模型，这意味�
 * [直播回放](https://www.youtube.com/watch?v=DQacCB9tDaw)
 
 ## Sora
+[Sora 生图的站](https://openai.com/sora)
+
 [通俗易懂地解释OpenAI Sora视频生成的特点有哪些？Sora与此前的Stable Video Diffusion、Runway Gen2、Pika等有什么区别？OpenAI Sora的缺点是什么？](https://www.datalearner.com/blog/1051708185278059)
 
 
