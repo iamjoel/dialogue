@@ -1,12 +1,14 @@
 # Joel 的大唠嗑
 ## 愿景
-![](./peace-of-mind.png)
+<img src="core/peace-of-mind.png" width="350px" />
 
 **心安**。内心宁静。有安全感。接受无常。
 
-![](./desire.png)  
+<img src="core/desire.png" width="350px" />  
  
 痛苦是欲望大于能力。权力，财富，美色。对应的是生存以及繁衍。  
+
+<img src="core/focus-is-happiness.png" width="350px" />
 
 **人生**，无非是：生存，繁衍和探寻生命的意义。
 
