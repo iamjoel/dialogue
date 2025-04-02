@@ -80,5 +80,11 @@ title: 产品列表
 ## 歌手
 * [孙燕姿](../s/stefanie-sun.md)
 
+民谣:  
+* 陈粒 & 燕池
+* 陈绮贞
+* 花粥
+* 好妹妹乐队
+
 ## 乐队
 * [Glass animals](../g/glass-animals.md)

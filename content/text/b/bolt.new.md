@@ -57,7 +57,9 @@ Bolt.new 是一款由 StackBlitz 推出的 **AI 驱动全栈编程工具**，基
 ### [记账软件](https://bolt.new/~/sb1-vf6zntdt)
 做个记账软件。要登录后才能用。单用户，通过 env 来配置账号和秘密。如果没配置账号秘密，默认为 joel/123456。
 
-数据存 Supabase。 写数据总是不成功。
+数据存 Supabase。 写数据总是不成功。 
+
+TODO 学习下 Supabase 的用法。
 
 ## TODO
 1. 做一个关于设计原则/审美的演示站。

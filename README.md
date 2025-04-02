@@ -6,11 +6,18 @@
 
 <img src="core/desire.png" width="350px" />  
  
+<img src="core/desire-heart.png" width="350px" />
+
+<img src="core/free-in-mountain.png" width="350px" />  
+
+<img src="core/different-seasons.png" width="350px" />  
+
 痛苦是欲望大于能力。权力，财富，美色。对应的是生存以及繁衍。  
 
 <img src="core/focus-is-happiness.png" width="350px" />
 
 **人生**，无非是：生存，繁衍和探寻生命的意义。
+
 
 ## 问题驱动
 本仓库是围绕解决我的 **[问题](./content/text/p/problem.md)** 的知识管理系统。
