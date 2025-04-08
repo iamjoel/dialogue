@@ -6,6 +6,10 @@ title: LLM 新闻
 ## 模型
 字节的即梦发了3.0 模型。生成图片上的文字能力(特别是中文)很强。整体效果接近 GPT-4o。改图能力的还差了点。
 
+# 25/03/X
+## 工具
+[VSCode Version 1.99](https://code.visualstudio.com/updates/v1_99) 支持 MCP。 方式是支持 Agent Mode。需要在配置中打开。这个版本还是有 bug，即使打开了支持 Agent Mode 后，有时还是找不到 Agent Mode 选项。配置的 MCP Server 也找不到。
+
 # 25/03/26
 ## 模型
 OpenAI 发布了 GPT-4o 多模态生图。图片生成效果很好。比 Gemini 好。也能改图。[GPT-4o多模态生图正式上线 - 用嘴改图，此为王道](https://mp.weixin.qq.com/s/2axT0G1FL5MiCchMFseZWQ)

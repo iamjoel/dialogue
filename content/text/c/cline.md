@@ -29,5 +29,4 @@ tags: AI工具, 编程工具, MCP
 
 ## 安装方法
 
-```bash
-npm install -g @cline/cli
+有 VSCode 的插件。
