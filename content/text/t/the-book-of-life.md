@@ -1,6 +1,6 @@
 ---
 title: 《生命之书》
-description:  副标题: 365天的静心冥想
+description: 副标题，365天的静心冥想
 ---
 
 ## 作者

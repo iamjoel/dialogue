@@ -4,7 +4,7 @@ title: Bolt.new
 
 Bolt.new 是一款由 StackBlitz 推出的 **AI 驱动全栈编程工具**，基于 WebContainers 技术实现浏览器端全流程开发，无需本地环境配置。 数据可以连接 Supabase。
 
-体验了下 [Lovable](https://lovable.dev/) 。和 Bolt.new 体验差不多。
+体验了下 [Lovable](https://lovable.dev/) 。和 Bolt.new 体验差不多。 国内竞品: [haisnap](https://www.haisnap.com/code)(做得有点丑，吃惊的是，还生成了后端代码)。
 
 ### 核心特性
 1. **AI 驱动的全栈开发**  
