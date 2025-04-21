@@ -21,4 +21,3 @@ UI 是于媒体匹配的。
 
 ## 相关
 * [数据](frontend-fetching-library.md)
-* [数据](../d/data-fetching-library.md)
