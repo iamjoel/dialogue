@@ -4,8 +4,7 @@ tags: collection, city
 description: 城市观察
 ---
 
-可以从 经济，政治，[文化](../c/culture.md)
-来了解一个城市。其他维度：气候。
+可以从地理，经济，政治，[文化](../c/culture.md) 来了解一个城市。
 
 ## 衡量城市
 ### 指标

@@ -1,5 +1,5 @@
 # Joel 的大唠嗑
-<img src="content/media/r/relax-flower-grass.jpg" width="350px" />
+<img src="content/media/r/relax-flower-grass2.jpg" width="350px" />
 
 ## 愿景
 <img src="core/peace-of-mind.png" alt="试问岭南应不好，却道：此心安处是吾乡" width="350px" />
