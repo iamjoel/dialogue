@@ -15,6 +15,7 @@ title: 前端面试题
   
 ## 技术
 ### CSS
+* 一个元素设置的 `width: 600px` 但最终的宽度比 600px 宽，可能是什么原因？  flex-grow, min-width, 长单词、长链接、图片等）太长不换行, transform, position(left, right)
 * Flex 和 Grid 布局
   * 一行 4 列，列间距是 8px，怎么实现。
   * 垂直方向，三块元素，上下两块固定高度是 20px，中间撑满怎么实现。除了用 Flex 布局，还有别的方法吗？

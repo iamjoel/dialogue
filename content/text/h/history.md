@@ -28,5 +28,7 @@ title: 历史
 
 [重要事件的时间线](../t/time-line.md)
 
+[中国历史](./history-china.md)
+
 ## 其他
 * [文化](../c/culture.md)
