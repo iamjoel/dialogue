@@ -34,17 +34,32 @@ MCP Client: MCP 客户端。获取 MCP Server 的服务。客户端连接 MCP Se
 }
 ```
 
-MCP 服务器需要在本地安装。 MCP 客户端通过 Server 的 url 或 入口的 js 来连。MCP 客户端如：Claude 的客户端，Cursor， windsurf(付费版才支持)。
+MCP 服务器需要在本地安装。 MCP 客户端通过 Server 的 url 或 入口的 js 来连。MCP 客户端如：Claude 的客户端，Cursor，windsurf(付费版才支持)。
+
+## MCP Server 分类
+1. 读取数据
+   1. 网页访问。爬虫，无头浏览器之类。
+   2. 读数据库。
+   3. 读网盘，对象存储服务等。
+   4. 搜索引擎 Exa，BraveSearch, Serpi(Google) 等。
+   5. 指定的数据源。如:
+      1. Context7 搜索开发文档。
+      2. Framelink 读 Figma。
+      3. 高德地图，企信宝等。
+      4. 时间。
+2. 自动化
+   1. 浏览器自动化：playwright， Puppeteer
+   2. 文件操作。Trea 之类的自动支持了。
+   3. Git
+3. 服务类的(与 LLM 做的有些会有些重合)
+  1. 生图。
+  2. 天气。
+
+   
 
 ## Cursor 中使用尝试 MCP Server 的尝试
-试了下安装 [Figma MCP Server](https://github.com/GLips/Figma-Context-MCP)。安装本身没问题，但在在连接的过程，要没读不了，要么读错了。  
+在 Cursor 和 Trea 里用 MCP Server 都很方便。用 VSCode 会出现时不时读不到工具的情况。
 
-不确定是不是 Cursor 的问题。 Cursor 是在 Compose 下去自主的判断是否要使用 MCP Server。因此会存在判断不对的问题。感觉还要再等等。
-
-## 用 LLM 自主来调用 MCP Server
-LLM 通过 Function Call 来调一个函数，那函数再调  MCP Server。这样，LLM 就可以调用 MCP Server 了。
-
-要让 LLM 调用 Function Call 类型，是需要对模型的后训练阶段，教模型识别这套协议。 要让 LLM 识别 MCP Server 这套协议，也是要后训练，不合适。
 
 ## [用 LLM 来帮助写 MCP Server](https://modelcontextprotocol.io/tutorials/building-mcp-with-llms)
 官方提供了帮助 LLM 理解 MCP 的文档: https://modelcontextprotocol.io/llms-full.txt。
@@ -117,6 +132,7 @@ LLM 通过 Function Call 来调一个函数，那函数再调  MCP Server。这�
 [Sampling]: https://modelcontextprotocol.io/docs/concepts/sampling
 
 ## 工具
+* https://smithery.ai/
 * [Composio](https://composio.dev/) MCP Server 可以跑这这里。这也处理了授权这块。
   
 ## 资源
