@@ -49,7 +49,7 @@ title: 前端面试题
 * 哪些会内存泄露？
 
 ### React
-* React 减少不必要的重新渲染？怎么避免使用 Context API 的不必要的渲染？
+* React 减少不必要的重新渲染？页面上 reRender 很多，如何找出是什么导致的 reRender。怎么避免使用 Context API 的不必要的渲染？
 * 一个 State，状态是一个比较很深对象上的属性 `{a: {b: {c: }}}` 怎么做。
 * 父组件主动调要子组件的方法怎么做？不用 ref 怎么做？
 * 在 React 18 之后，在 Dev mode 时，useEffect 回调用两次，如果在 useEffect 做初始化时，调用了接口，怎么避免调用两次。
